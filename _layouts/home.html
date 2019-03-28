@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html  %}
+<body>
+
+    {% include header.html %}
+    
+
+    <main class="content">
+        <h1>Blog</h1>
+
+        {% if site.posts.size > 0 %}
+            {% for post in site.posts %}
+            <!-- <article class="card">
+                <h2>{{ post.title }}</h2>
+                <h3>{{ post.date | date: '%a, %b %d, %y - %I:%M %P' }}</h3>
+                <p>
+                    {{ post.excerpt }}
+                </p>
+            </article> -->
+
+            <section class="card padding">
+                <h2 class="card-title">
+                    <a href="{{ post.url }}">
+                        {{ post.title }}
+                    </a>
+                </h2>
+                <div class="card-date">
+                    Posted on {{ post.date | date: '%a, %b %d, %y - %I:%M %P' }}
+                    {% for category in post.categories %}
+                        <span class="category">
+                            {{ category }}
+                        </span>
+                    {% endfor %}
+                </div>
+                <p>
+                    {{ post.excerpt }}
+                </p>
+                <div class="card-tags">
+                    <div class="tags">
+                        Tags: 
+                        {% for tag in post.tags %}
+                        <span class="tag">
+                            {{ tag }}
+                        </span>
+                        {% endfor %}
+                    </div>
+                    <div class="read-more">
+                        <a href="{{ post.url }}" class="button">
+                            Read More <i class="fas fa-caret-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </section>
+            {% endfor %}
+        {% endif %}
+    </main>
+    
+</body>
+</html>

@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "name":"Kraul Arm Plating",
+            "text":"In the tunnels past Hebo's Farm, we were attacked by the Kraul. The bodies that were still intact were scavenged and we recovered these plates. We can try to create armor out of them.",
+            "quantity":4
+        },
+        {
+            "name":"Kraul Chest Armor",
+            "text":"The Kraul we killed were heavily armored by their own carapaces. The armor of the dead were scavenged so we might craft suits of armor later.",
+            "quantity":3
+        },
+        {
+            "name":"Spear",
+            "text":"Simple melee or ranged weapons. We picked them up from some dead Kraul, probably to sell. I suppose we can throw them at someone.",
+            "quantity":8
+        },
+        {
+            "name":"Trident",
+            "text":"Martial melee or ranged weapon. A Kraul tried to hit me with this, so I shot him. The only thing remaining was this trident.",
+            "quantity":1
+        },
+        {
+            "name":"Studded Leather Armor",
+            "text":"The tunnels past Hebo's Farm had some alcoves in it. Hebo and Luna found this armor. It's not special, but might be worth using or selling.",
+            "quantity":1
+        },
+        {
+            "name":"Studded Leather Belt",
+            "text":"Hebo and Luna found this belt, too. It must not have helped its previous owner much. Maybe we can use it.",
+            "quantity":"1 set"
+        },
+        {
+            "name":"Black and White Daggers",
+            "text":"Hebo and Luna found these, and Luna said there's a faint hint of magic to them. The white dagger has an onyx stone set in its pommel. The black dagger has a pearl.",
+            "quantity":1
+        },
+        {
+            "name":"Spider Long Sword",
+            "text":"The Drow-Spider we killed in the caves carried this weapon. It still has Hebo's and Oromis's blood on it. I'll wash it off later. We're saving it as evidence of the Drow-Spider's death.",
+            "quantity":1
+        },
+        {
+            "name":"Long Bow",
+            "text":"A ranged weapon, similar to Ezio's. The Drow-Spider tried to shoot me with it, but missed. Ezio already has his own bow, so I'll probably sell this one and split the profits with the party.",
+            "quantity":1
+        },
+        {
+            "name":"Scroll",
+            "text":"Luna and I recovered this scroll off the Drow-Spider's body. It's written in a strange language that none of us can read. We decided to hang onto it just in case we need it later.",
+            "quantity":1
+        },
+        {
+            "name":"Short Sword",
+            "text":"A simple melee weapon. The Kraul who worshipped the Drow-Spider were carrying various weapons, but my Thunder Cannon kept vaporizing them. This sword was one of the few things worth keeping.",
+            "quantity":1
+        },
+        {
+            "name":"Simple Dagger",
+            "text":"A simple melee weapon. This was one of the few things worth keeping from our Kraul and Drow-Spider encounter. Most of Kraul were utterly destroyed. The one who wasn't was found holding this dagger.",
+            "quantity":1
+        }
+    ]
+}

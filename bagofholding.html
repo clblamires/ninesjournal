@@ -1,0 +1,46 @@
+---
+layout: page
+title: Bag of Holding
+permalink: /bagofholding/
+---
+
+<figure>
+    <img src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/120/1000/1000/636284708068284913.jpeg" alt="" class="thumbnail">
+    <figcaption>
+        Retrieved from <a href="https://www.dndbeyond.com/magic-items/bag-of-holding">DnD Beyond</a>
+    </figcaption>
+</figure>
+
+<p>
+    As I began my quest to find purpose, I spent some time creating a Bag of Holding. This bag's interior is considerably larger than its exterior. It weighs roughly 15 pounds regardless of whatever is stored inside. This page is a list of all the items my party has stored.
+</p>
+<p class="signature">Number Nine</p>
+
+<div ng-app="blogApp" ng-controller="bagCtrl">
+    <h2>Contents</h2>
+    <ul class="bag">
+        <li class="bag-item" ng-repeat="item in items">
+            <div class="bag-title">
+                <span ng-bind="item.name"></span>
+                <span class="bag-quantity">
+                    (qty: <span ng-bind="item.quantity"></span>)
+                </span>
+            </div>
+            <div class="bag-details">
+                <p>
+                    <span ng-bind="item.text"></span>
+                </p>
+            </div>
+        </li>
+    </ul>
+</div>
+
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular.min.js'></script>
+<script src="{{ site.url }}/js/script.js"></script>
+
+<!-- <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script> -->
+<!-- <script src="{{ site.url }}/js/script.js"></script> -->
