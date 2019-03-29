@@ -9,7 +9,7 @@ The journey to the mountains following the tracks of the beast was mostly uneven
 
 We followed the tracks for an entire day and noticed something that gave us pause. Our pace was not paricularly slow, but this creature we followed showed no signs of weariness. Whatever it was, it moved quickly. On the next day, we found a large hole in the path, and the tracks we followed led directly to it. We lowered Petra into the pit first, and she reported a long tunnel leading into darkness. 
 
-For a while, our team debated. What should we do? Should we follow the tunnel? Should we wait and see if something else goes into it? Or if something comes out? Eventually we landed on exploring the tunnels. We tied the horses to the cart as we left them. Hebo instructed Spoink to flee if danger came upon them, and Luna instructed the horses to protect Spoink. We each climbed down into the pit (though Luna slipped and injured herself). 
+For a while, our team debated. What should we do? Should we follow the tunnel? Should we wait and see if something else goes into it? Or if something comes out? Eventually we landed on exploring the tunnels. We tied the horses to the cart as we left them. Hebo instructed Spoink to flee if danger came upon them, and Luna instructed the horses to follow Spoink. We each climbed down into the pit (though Luna slipped and injured herself). 
 
 The tunnels were too dark for my artificial eyes, so I constructed a light on my head with a torch. We followed along the path for a long while. Days? Hours? Minutes? In that kind of darkness, none of us could truly say. The darkness took time away from us. Time and blood. 
 
