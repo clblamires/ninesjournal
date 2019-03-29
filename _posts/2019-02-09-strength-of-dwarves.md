@@ -3,6 +3,7 @@ layout: post
 title:  "The Strength of Dwarves"
 date:   2019-02-09 17:00:00 -0700
 tags: oromis carts rope horses
+episode: 2
 ---
 
 The spiders were dead, but we were uneasy. Ezio and I inspected the barn and found it devastated. Hebo, Oromis, Petra, and Luna went to the farmhouse and found it the same. But there was a problem: the farmer was missing. Ezio noticed strange tracks on the ground and wondered if Hebo was not telling us something important about the farmer. Hebo insisted that the farmer was good and something very dreadful happened here while he was away. Ezio and Luna watched over our group while we rested. During the night, Ezio extracted venom from one of the dead spiders. 

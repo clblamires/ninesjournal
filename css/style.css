@@ -8,6 +8,14 @@
     box-sizing: border-box;
 }
 
+#page-footer {
+    background-image: linear-gradient(to right, #52494c, #8f4731, #2d5b6b);
+    padding: 20px;
+    color: white;
+    font-family: "Source Code Pro", sans-serif;
+    text-align: center;
+}
+
 #page-header {
     background-image: linear-gradient(to right, #52494c, #8f4731, #2d5b6b);
     padding: 60px 10px 30px 10px;

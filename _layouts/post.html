@@ -21,17 +21,19 @@
             </a>
             {% endif %}
         </div>
+
+
         <h2>{{ page.title }}</h2>
+        <h3>Episode {{ page.episode }}</h3>
         <p>
             {% for tag in page.tags %}
                 <span class="tag">{{ tag }}</span>
             {% endfor %}
         </p>
+        <p>
+            Recorded {{ page.date | date: '%a, %b %d, %Y' }}
+        </p>
         {{ content }}
-
-        <!-- {% for post in site.posts limit:1 %}
-            <p>{{ post.title }}</p>
-        {% endfor %} -->
 
         <div class="page-nav">
             {% if page.previous.url %}
@@ -48,6 +50,8 @@
             {% endif %}
         </div>
     </main>
+
+    {% include footer.html %}
     
 </body>
 </html>

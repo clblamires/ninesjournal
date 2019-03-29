@@ -22,16 +22,11 @@
             <section class="card padding">
                 <h2 class="card-title">
                     <a href="{{ post.url }}">
-                        {{ post.title }}
+                        Episode {{ post.episode }}: {{ post.title }}
                     </a>
                 </h2>
                 <div class="card-date">
-                    Posted on {{ post.date | date: '%a, %b %d, %y - %I:%M %P' }}
-                    <!-- {% for category in post.categories %}
-                        <span class="category">
-                            {{ category }}
-                        </span>
-                    {% endfor %} -->
+                    Posted on {{ post.date | date: '%a, %b %d, %Y' }}
                 </div>
                 <p>
                     {{ post.excerpt }}
@@ -55,6 +50,8 @@
             {% endfor %}
         {% endif %}
     </main>
+
+    {% include footer.html %}
     
 </body>
 </html>

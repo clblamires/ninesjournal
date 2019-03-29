@@ -3,6 +3,7 @@ layout: post
 title:  "Dark Tunnels and Darker Enemies"
 date:   2019-03-02 18:00:00 -0700
 tags: thundercannon kraul darkvision treasure bagofholding
+episode: 3
 ---
 
 The journey to the mountains following the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper self. My emotions and reactions are artificial, but even I could feel his sadness emanate from his tiny frame.
