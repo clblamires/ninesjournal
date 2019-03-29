@@ -454,3 +454,21 @@ blockquote {
     text-decoration: none;
     cursor: pointer;
 }
+
+
+.page-nav {
+    display: flex;
+}
+.page-nav a {
+    flex: 1;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+.page-nav .prev {
+    text-align: left;
+}
+.page-nav .next {
+    text-align: right;
+}

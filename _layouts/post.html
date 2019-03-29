@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html  %}
+<body>
+
+    {% include header.html %}
+    
+
+    <main class="content">
+        <div class="page-nav">
+            {% if page.previous.url %}
+            <a class="prev" href="{{ page.previous.url }}">
+                <i class="fas fa-caret-left"></i>
+                {{page.previous.title}}
+            </a>
+            {% endif %}
+            {% if page.next.url %}
+            <a class="next" href="{{ page.next.url }}">
+                {{page.next.title}}
+                <i class="fas fa-caret-right"></i>
+            </a>
+            {% endif %}
+        </div>
+        <h2>{{ page.title }}</h2>
+        <p>
+            {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </p>
+        {{ content }}
+
+        <!-- {% for post in site.posts limit:1 %}
+            <p>{{ post.title }}</p>
+        {% endfor %} -->
+
+        <div class="page-nav">
+            {% if page.previous.url %}
+            <a class="prev" href="{{ page.previous.url }}">
+                <i class="fas fa-caret-left"></i>
+                {{page.previous.title}}
+            </a>
+            {% endif %}
+            {% if page.next.url %}
+            <a class="next" href="{{ page.next.url }}">
+                {{page.next.title}}
+                <i class="fas fa-caret-right"></i>
+            </a>
+            {% endif %}
+        </div>
+    </main>
+    
+</body>
+</html>
