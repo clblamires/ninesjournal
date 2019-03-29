@@ -42,9 +42,9 @@
     margin-bottom: 10px;
     margin-right: 40px;
 }
-#main-nav ul li:last-child {
+/* #main-nav ul li:last-child {
     margin-right: 0;
-}
+} */
 @media screen and (max-width: 700px ){
     #main-nav ul li {
         margin-left: 20px;
