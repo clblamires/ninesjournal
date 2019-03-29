@@ -12,6 +12,9 @@
     background-image: linear-gradient(to right, #52494c, #8f4731, #2d5b6b);
     padding: 60px 10px 30px 10px;
 }
+#page-header a  {
+    text-decoration: none;
+}
 #page-header h1, #page-header h2 {
     color: white;
     font-family: "Source Code Pro", sans-serif;
