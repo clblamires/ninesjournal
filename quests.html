@@ -4,6 +4,9 @@ title: Quests
 permalink: /quests/
 ---
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src="{{ site.url }}/js/quests.js"></script>
+
 <p>
     I honestly don't know what we're doing in this world right now. What is our purpose? What is my purpose? I suppose it doesn't matter as long as we are alive. This is a list of our current tasks and the things we need to do to make them happen, as far as we understand it.
 </p>
@@ -11,7 +14,7 @@ permalink: /quests/
     Number Nine
 </p>
 
-<nav class="quest-links">
+<!-- <nav class="quest-links">
     <ul>
         <li>
             <a href="#mainquests">Main Quests</a>
@@ -20,16 +23,27 @@ permalink: /quests/
             <a href="#sidequests">Sidequests</a>
         </li>
     </ul>
-</nav>
+</nav> -->
 
 <a id="mainquests">
     <h2>Main Quests</h2>
 </a>
+<div class="quest-buttons">
+    <button id="complete" class="quest-button active">
+        Complete
+    </button>
+    <button id="in-progress" class="quest-button active">
+        In Progress
+    </button>
+    <button id="failed" class="quest-button active">
+        Failed
+    </button>
+</div>
 <ul class="quests">
-    <li>
+    <li data-mainquest="complete">
         <h3 class="quest-name">Find and rescue the farmer</h3>
-        <p class="quest-description">
-            The farmer is missing and may have been taken by whatever giant creature ran through the farm. We offered to help Hebo find and rescue his friend. The farmer is safe now, and we'll escort him back into town.
+        <p>
+            The farmer is missing and likely has been taken by whatever giant creature ran through the farm. We offered to help Hebo find and rescue his friend. The farmer is safe now, and we'll escort him back into town.
         </p>
         <p class="quest-giver">
             Quest given by Exatorus and Hebo
@@ -39,7 +53,7 @@ permalink: /quests/
             <span class="reward">Reward: Friendship</span>
         </p>
     </li>
-    <li>
+    <li data-mainquest="complete">
         <h3>Find the monster that destroyed Hebo's Farm</h3>
         <p>
             Something attacked Hebo's farm, and Exatorus wants us to find it. He prefers that we bring it back to him alive, but that might not be possible. We found it underneath the plains surrounded by Kraul.
@@ -52,7 +66,7 @@ permalink: /quests/
             <span class="reward">Reward: Level Up</span>
         </p>
     </li>
-    <li>
+    <li data-mainquest="failed">
         <h3>Capture the monster that destroyed Hebo's Farm</h3>
         <p>
             Exatorus wanted it alive. We couldn't guarantee it would survive if we found it. And it didn't. I ended up overkilling it by blowing its head off. We scavanged its legs to provide the wizard with a sample, but the rest of the body of the drow spider will rot in the tunnels below the sun.
@@ -65,7 +79,7 @@ permalink: /quests/
             <span class="reward">Reward: Spider sword</span>
         </p>
     </li>
-    <li>
+    <li data-mainquest="complete">
         <h3>Bring the farm monster to Exatorus</h3>
         <p>
             Exatorus wanted a sample of the monster or monsters that attacked Hebo's farm. As it turned out, these were phase spiders. Oromis, being the brute that he is, lifted and hauled the spider's dead body to Exatorus himself.
@@ -78,21 +92,31 @@ permalink: /quests/
             <span class="reward">Reward: GP</span>
         </p>
     </li>
-    <li>
+    <li data-mainquest="failed">
         <h3>Help Hebo defend the farm</h3>
         <p>
-            Phase spiders had been attacking
+            Phase spiders had been attacking Hebo's farm, and he asked us to join him in defending it. We successfully killed the monsters, but not before they killed everything else on the farm.
         </p>
-        <p class="quest-giver"></p>
-        <p class="tags"></p>
+        <p class="quest-giver">
+            Quest given by Hebo
+        </p>
+        <p class="tags">
+            <span class="failed">Failed</span>
+        </p>
     </li>
-    <li>
+    <li data-mainquest="complete">
         <h3>Find the Wizard</h3>
-        <p></p>
-        <p class="quest-giver"></p>
-        <p class="tags"></p>
+        <p>
+            Hebo went to visit the wizard Exatorus to find out more about the strange happenings on his farm. We found the wizard outside of the town halfway up into the mountains. 
+        </p>
+        <p class="quest-giver">
+            Quest given by everyone
+        </p>
+        <p class="tags">
+            <span class="complete">Complete</span>
+        </p>
     </li>
-    <li>
+    <li data-mainquest="in-progress">
         <h3>Kill Zero</h3>
         <p class="tags">
             <span class="in-progress">In Progress...</span>
@@ -101,26 +125,34 @@ permalink: /quests/
 </ul>
 
 
+
 <a id="sidequests">
     <h2>Side Quests</h2>
 </a>
 <ul class="quests">
-    <li>
-        <h2></h2>
+    <li data-sidequest="complete">
+        <h3>Ore for the Stablemaster</h3>
+        <p>
+            The stablemaster who sold Ezio the horse asked us to find him some iron ore while we were in the mountains. I have some smithing tools with me for this kind of job.
+        </p>
+        <p class="quest-giver">
+            Quest given by the stablemaster
+        </p>
+        <p class="tags">
+            <span class="complete">In Progress...</span>
+        </p>
+    </li>
+    <li data-sidequest="in-progress">
+        <h3>Purchase a horse</h3>
+        <p>
+            Ezio really wanted a horse, and Oromis wasn't complaining after hauling the cart up to Exatoris all by himself. Our party ended up with two horses and I almost immediately forgot their names.
+        </p>
+        <p class="quest-giver">
+            Quest given by Ezio
+        </p>
+        <p class="tags">
+            <span class="complete">Complete</span>
+            <span class="reward">Reward: A Horse</span>
+        </p>
     </li>
 </ul>
-
-
-
-Main Quest:
-- Find and rescue the farmer
-- Find the monster that destroyed Hebo's farm
-- Kill Zero
-(past main quests):
-- Help Hebo defend the farm
-- Speak to Exatorus
-- Bring a phase spider to Exatorus
-
-Side Quests:
-- Purchase a horse
-- Bring the stablemaster some Iron Ore
