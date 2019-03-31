@@ -1,3 +1,6 @@
 <footer id="page-footer">
-    {{ site.title }} &copy; 2019 Casey Blamires
+    <p>
+        {{ site.title }} &copy; {{ site.time | date: '%Y' }} Casey Blamires<br>
+        Last updated on {{ site.time | date: '%B %d, %Y' }}
+    </p>
 </footer>

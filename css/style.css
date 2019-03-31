@@ -11,9 +11,11 @@
 #page-footer {
     background-image: linear-gradient(to right, #52494c, #8f4731, #2d5b6b);
     padding: 20px;
-    color: white;
     font-family: "Source Code Pro", sans-serif;
     text-align: center;
+}
+#page-footer p {
+    color: white;    
 }
 
 #page-header {
