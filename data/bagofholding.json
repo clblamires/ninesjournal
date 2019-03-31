@@ -22,7 +22,7 @@
         },
         {
             "name":"Studded Leather Armor",
-            "text":"The tunnels past Hebo's Farm had some alcoves in it. Hebo and Luna found this armor. It's not special, but might be worth using or selling.",
+            "text":"The tunnels past Hebo's Farm had some alcoves in it. Hebo and Luna found this armor. It is not special, but might be worth using or selling.",
             "quantity":1
         },
         {
@@ -32,22 +32,22 @@
         },
         {
             "name":"Black and White Daggers",
-            "text":"Hebo and Luna found these, and Luna said there's a faint hint of magic to them. The white dagger has an onyx stone set in its pommel. The black dagger has a pearl.",
+            "text":"Hebo and Luna found these, and Luna said there is a faint hint of magic to them. The white dagger has an onyx stone set in its pommel. The black dagger has a pearl.",
             "quantity":1
         },
         {
             "name":"Spider Long Sword",
-            "text":"The Drow-Spider we killed in the caves carried this weapon. It still has Hebo's and Oromis's blood on it. I'll wash it off later. We're saving it as evidence of the Drow-Spider's death.",
+            "text":"The Drow-Spider we killed in the caves carried this weapon. It still has Hebo's and Oromis's blood on it. I will wash it off later. We are saving it as evidence of the Drow-Spider's death.",
             "quantity":1
         },
         {
             "name":"Long Bow",
-            "text":"A ranged weapon, similar to Ezio's. The Drow-Spider tried to shoot me with it, but missed. Ezio already has his own bow, so I'll probably sell this one and split the profits with the party.",
+            "text":"A ranged weapon, similar to Ezio's. The Drow-Spider tried to shot at me with it. Ezio already has his own bow, so I will probably sell this one and split the profits with the party.",
             "quantity":1
         },
         {
             "name":"Scroll",
-            "text":"Luna and I recovered this scroll off the Drow-Spider's body. It's written in a strange language that none of us can read. We decided to hang onto it just in case we need it later.",
+            "text":"Luna and I recovered this scroll off the Drow-Spider's body. It is written in a strange language that none of us can read. We decided to hang onto it just in case we need it later.",
             "quantity":1
         },
         {
@@ -57,7 +57,7 @@
         },
         {
             "name":"Simple Dagger",
-            "text":"A simple melee weapon. This was one of the few things worth keeping from our Kraul and Drow-Spider encounter. Most of Kraul were utterly destroyed. The one who wasn't was found holding this dagger.",
+            "text":"A simple melee weapon. This was one of the few things worth keeping from our Kraul and Drow-Spider encounter. Most of Kraul were utterly destroyed. An intact corpse was found holding this dagger.",
             "quantity":1
         }
     ]

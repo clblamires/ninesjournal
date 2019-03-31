@@ -251,10 +251,18 @@ a {
     padding: 4px 10px;
     font-size: 80%;
 }
-.quests .quest-giver {
-    font-size: 70%;
+.quests .details {
+    display: flex;
 }
-
+.quests .details p {
+    flex: 1;
+}
+.quests .details .tags {
+    text-align: right;
+}
+.quests .quest-giver {
+    font-size: 90%;
+}
 .quests  .complete {
     background: #7b7d2a;
     font-family: "Roboto", sans-serif;
@@ -262,7 +270,7 @@ a {
     border-radius: 4px;
     display: inline-block;
     color: white;
-    font-size: 50%;
+    font-size: 90%;
 }
 .quests .failed {
     background: #8f4731;
@@ -271,7 +279,7 @@ a {
     border-radius: 4px;
     display: inline-block;
     color: white;
-    font-size: 50%;
+    font-size: 90%;
 }
 .quests .in-progress {
     background: #2d5b6b;
@@ -280,7 +288,7 @@ a {
     border-radius: 4px;
     display: inline-block;
     color: white;
-    font-size: 50%;    
+    font-size: 90%;    
 }
 .quests .reward {
     background: #ceab0f;
@@ -289,7 +297,7 @@ a {
     border-radius: 4px;
     display: inline-block;
     color: white;
-    font-size: 50%;
+    font-size: 90%;
 }
 
 
