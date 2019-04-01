@@ -16,4 +16,6 @@ Our ambush failed miserably and the animal was immediately killed. Three phase s
 
 The fight was a victory for us, despite the loss of the animal. Hebo, using only his voice and verses of a foreign song, gave Oromis unfounded strength as he impaled one spider. Another spider went for Spoink, Hebo's steed. Hebo, in an apparent desparation, launched his tiny form at the attacker and stuck it in the head with his small dagger. Luna was injured by the last spider, but Petra came to her aid and reduced the spider to mere ashes.
 
+![Hebo Kills Spider]({{site.url}}/images/adventure/hebo_kills_spider.jpg)
+
 Only after the three spiders were dispatched that we remembered: Exatorus wanted one alive. Oromis laughed it off, knowing his master would not truly require us to spare something as dangerous as a phase spider. For now, we gathered ourselves and decided to look around the farm.
