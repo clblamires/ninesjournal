@@ -14,7 +14,7 @@ Hebo led the way, and we arrived at the farm by nightfall. I soon realized that 
 
 Our ambush failed miserably and the animal was immediately killed. Three phase spiders, larger than I ever knew could exist, attacked us. The thunder cannon, the great weapon of my illusioned past, failed me in the dark. But it did its job. The loud noise distracted the spiders so that my comrades could dispatch them. Oromis and Hebo attacked one. Ezio and I were ambushed on the hill, but we defended ourselves well enough. Petra and Luna cast their spells to keep them at bay.
 
-The fight was a victory for us, despite the loss of the animal. Hebo, using only his voice and verses of a foreign song, gave Oromis unfounded strength as he impaled one spider. Another spider went for Spoink, Hebo's steed. Hebo, in an apparent desparation, launched his tiny form at the attacker and stuck it in the head with his small dagger. Luna was injured by the last spider, but Petra came to her aid and reduced the spider to mere ashes.
+The fight was a victory for us, despite the loss of the animal. Hebo, using only his voice and verses of a foreign song, gave Oromis unfounded strength as he impaled one spider. Another spider went for Spoink, Hebo's steed. Hebo, in an apparent desparation, launched his tiny form at the attacker and stuck it in the head with his small dagger. Luna was injured by the last spider, but Petra came to her aid and reduced the spider to ashes.
 
 ![Hebo Kills Spider]({{site.url}}/images/adventure/hebo_kills_spider.jpg)
 
