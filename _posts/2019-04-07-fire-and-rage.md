@@ -43,8 +43,6 @@ We could only look at Hebo’s small form.
 
 Our friend. 
 
-I... I do not know what... I cannot...
-
 Luna moved to Hebo. She said she still heard Hebo’s music. That does not make sense. My logic dictates that is impossible. The dead make no noise. And yet I could hear it too. We all could hear it. The music came from the chest that Hebo carried. It sounded like one of the tunes that Hebo would hum. Luna opened the box and the cave was dimly lit by a tiny glowing crystal. Something told her to touch it to Hebo. The crystal shattered and cast a cloud of shimmers over Hebo’s body.
 
 Then Hebo took a breath.
