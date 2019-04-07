@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fire and Rage
+title: Chasing Feathers
 date: 2019-04-07T02:00:00.000Z
 tags: death chimera simurgh cave
 episode: '5'
