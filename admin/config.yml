@@ -31,7 +31,7 @@ collections:
         file: "party/hebo.html"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: "Body",name:"body",widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}
       # - label: "Locations Page"
       #   name: "locations"
       #   file: "site/content/locations.yml"
