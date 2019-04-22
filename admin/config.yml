@@ -17,15 +17,15 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Episode", name: "episode", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Pages"
-    name: "pages"
-    files:
-      - label: "Bag of Holding"
-        name: "bagofholding"
-        file: "bagofholding.html"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+  # - label: "Pages"
+  #   name: "pages"
+  #   files:
+  #     - label: "Bag of Holding"
+  #       name: "bagofholding"
+  #       file: "bagofholding.html"
+  #       fields:
+  #         - {label: Title, name: title, widget: string}
+  #         - {label: "Body", name: "body", widget: "markdown"}
   - label: "Party"
     name: "party"
     files:
