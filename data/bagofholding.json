@@ -7,43 +7,8 @@
         },
         {
             "name":"Kraul Chest Armor",
-            "text":"The Kraul we killed were heavily armored by their own carapaces. The armor of the dead were scavenged so we might craft suits of armor later.",
-            "quantity":3
-        },
-        {
-            "name":"Spear",
-            "text":"Simple melee or ranged weapons. We picked them up from some dead Kraul, probably to sell. I suppose we can throw them at someone.",
-            "quantity":8
-        },
-        {
-            "name":"Trident",
-            "text":"Martial melee or ranged weapon. A Kraul tried to hit me with this, so I shot him. The only thing remaining was this trident.",
-            "quantity":1
-        },
-        {
-            "name":"Studded Leather Armor",
-            "text":"The tunnels past Hebo's Farm had some alcoves in it. Hebo and Luna found this armor. It is not special, but might be worth using or selling.",
-            "quantity":1
-        },
-        {
-            "name":"Studded Leather Belt",
-            "text":"Hebo and Luna found this belt, too. It must not have helped its previous owner much. Maybe we can use it.",
-            "quantity":"1 set"
-        },
-        {
-            "name":"Black and White Daggers",
-            "text":"Hebo and Luna found these, and Luna said there is a faint hint of magic to them. The white dagger has an onyx stone set in its pommel. The black dagger has a pearl.",
-            "quantity":1
-        },
-        {
-            "name":"Spider Long Sword",
-            "text":"The Drow-Spider we killed in the caves carried this weapon. It still has Hebo's and Oromis's blood on it. I will wash it off later. We are saving it as evidence of the Drow-Spider's death.",
-            "quantity":1
-        },
-        {
-            "name":"Long Bow",
-            "text":"A ranged weapon, similar to Ezio's. The Drow-Spider tried to shot at me with it. Ezio already has his own bow, so I will probably sell this one and split the profits with the party.",
-            "quantity":1
+            "text":"The Kraul we killed were heavily armored by their own carapaces. The armor of the dead were scavenged so we might craft suits of armor later. I used one to create new armor for Luna.",
+            "quantity":2
         },
         {
             "name":"Scroll",
@@ -51,13 +16,8 @@
             "quantity":1
         },
         {
-            "name":"Short Sword",
-            "text":"A simple melee weapon. The Kraul who worshipped the Drow-Spider were carrying various weapons, but my Thunder Cannon kept vaporizing them. This sword was one of the few things worth keeping.",
-            "quantity":1
-        },
-        {
-            "name":"Simple Dagger",
-            "text":"A simple melee weapon. This was one of the few things worth keeping from our Kraul and Drow-Spider encounter. Most of Kraul were utterly destroyed. An intact corpse was found holding this dagger.",
+            "name":"Gem of Brightness",
+            "text":"An item given by Exatorus, this gem creates a bright light either around me or directly in front of me. It can eventually lose its charge, so I will have to be careful with it.",
             "quantity":1
         }
     ]
