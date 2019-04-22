@@ -32,6 +32,36 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Eclipse"
+        name: "eclipse"
+        file: "party/eclipse.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Petra"
+        name: "petra"
+        file: "party/petra.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Ezio"
+        name: "ezio"
+        file: "party/ezio.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Luna"
+        name: "luna"
+        file: "party/luna.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Oromis"
+        name: "oromis"
+        file: "party/oromis.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
       # - label: "Locations Page"
       #   name: "locations"
       #   file: "site/content/locations.yml"
