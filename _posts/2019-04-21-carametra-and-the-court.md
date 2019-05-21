@@ -17,7 +17,7 @@ Though her mouth never moved or formed words, she spoke to us. Our minds were su
 
 > Your Puppies, so cute<br>
 > Fly with rainbow wings in sky<br>
-> I will boop the nose
+> I will boop the snoot
 
 Hebo’s voice is laced with magic, enough to calm any of us. It seemed to please the mother. She beckoned us closer, identifying each of us. She is Carametra and has the ability to see fragments of the past, present, and future. Carametra foresaw our arrival.
 
@@ -67,5 +67,3 @@ Unsure of where exactly to go, we decided to go south towards Vagrant’s Rest, 
 Hebo rode next to me on Spoink while we traveled. For the first time since I met him, Hebo was strangely quiet. After a while, he asked again about... the one who hunts me. I still cannot bring myself to tell him, or any of my group, of that night. Hebo could sense that something was troubling me. He told me that he would protect me. I looked at Hebo and could still see plainly visible the burns on his body. How could one such as this protect me? 
 
 And yet, I believe him. I sense his sincerity Hebo, and the rest of them, may be able to protect me. I hope they can. In my mind, I can still hear the rending of metal and the cracking of stone.
-
-
