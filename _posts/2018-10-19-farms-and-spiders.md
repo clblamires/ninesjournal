@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "The Farm and the Spiders"
-date:   2018-03-12 19:00:00 -0700
+title: The Farm and the Spiders
+date: '2018-03-12 19:00:00 -0700'
 tags: spiders farm wizard
 episode: 1
 ---
+I have been traveling a long time now. My travels brought me to this place, Oakshade. It is a peaceful hamlet, nice enough that I could find work here. This story begins as I entered Oakshade as I encountered the people who would become my traveling companions.
 
 We met in town, all of us. Each of us was trying to find a local wizard, Exatorus. But we found Hebo first. Ezio tried to convince us to stay away from the wizard, though we do not know why. Even Ezio does not remember it. But Hebo was looking for help with a problem at his farm: all of his animals were dying and perhaps Exatorus could tell him why.
 
