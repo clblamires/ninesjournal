@@ -63,7 +63,7 @@ I exited the room as Eclipse vaulted out the window. While all of this was happe
 
 “Hold it!” she shouted. The snakes turned and cast spells at her. She dodged them and began casting fire and ice at the monsters. They fled around the corner and Petra heard a loud squeal. Spoink found his friend and slammed into the snakes. One fell to the ground and dropped Luna.
 
-Ezio and Oromis watched me enter Petra and Eclipse’s room with my gun. They intended, I guess, to follow me, but saw the commotion of magic outside the window. 
+Ezio and Oromis watched me enter Petra and Eclipse’s room with my cannon. They intended, I guess, to follow me, but saw the commotion of magic outside the window. 
 
 “We need to go around and help Petra,” said Ezio.
 
