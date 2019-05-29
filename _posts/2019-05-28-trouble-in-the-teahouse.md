@@ -81,6 +81,8 @@ The last snake fiend was completely surrounded. I approached it from the side, a
 
 The seven of us were together after the skirmish at the teahouse. My thunder cannon was smoking and I stood covered in the remains of my foes, greatly injured but yet alive. Ezio winced between breaths as Eclipse tended to his wounds. Petra still clung to the wall, her dragon eye smoldering. Oromis was covered in blood from the arteries he had struck, the red smoke of his rage fading slightly. Luna, angrier than I had ever seen her, marched towards the remains of our enemies. Spoink nudged Hebo until the little goblin awoke.
 
-“S.. Spoink?” he said, blinking. “Hi everyone! What... what happened?”
+“S.. Spoink?” he said, blinking. “Hi everyone! That was some party, yeah?”
+
+"You don't know the half of it," said Luna, rubbing her head.
 
 Then, we heard screams from the village.
