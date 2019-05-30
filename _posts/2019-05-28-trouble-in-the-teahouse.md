@@ -23,9 +23,13 @@ Lotus Lake’s small village was welcoming. Hebo, Luna, and Petra went to a teah
 
 Ezio and Eclipse had gone hunting with Oromis not far behind. From what I heard later from Eclipse, Ezio had been so focused on looking ahead that he entirely missed the large snake coiled around a tree branch directly above his head. They backed off until they met up with Oromis again, and Ezio shot the snake with his bow. They harvested some flesh and returned to town.
 
+![Ezio hunting with friends](/images/ezio-hunting-with-friends.png "Ezio hunting with friends")
+
 Eclipse came into the teahouse first. I gave her my cup of tea, but she complained that it was cold. Evidently tea should be taken hot? Perhaps living creatures prefer their food hot? While I pondered this, Ezio rushed in to the teahouse and demanded that Akona help him cook the snake flesh. She was surprised and did not know how to respond. I suddenly had an idea! Now that I knew that food should be hot, I borrowed Akona’s cooking supplies and went to cook the food. Oromis and Ezio complained that it was “overdone” and I still do not know what that means.
 
 At night, Hebo, Eclipse, Luna, and Petra performed at the teahouse for their rooms. It became a party that night. Even Ezio laughed and sang along. My companions all slowly drifted off to their beds. Oromis preferred to stay outside, wanting to watch the stars before he fell asleep in the hay. “Besides”, he told us, “the night was warm enough and I like the quiet after a rowdy night like that!” 
+
+![Hebo singing](/images/hebo-sings.png "Hebo singing")
 
 Ezio followed him, choosing to meditate in the barn with Sebastian, Osha, and Spoink. Petra and Eclipse rented one of the rooms for the night. Hebo and Luna took the other. I stood watch outside their rooms, listening quietly to the giggles coming from Hebo and Luna.
 
@@ -51,6 +55,8 @@ _“You are next,”_ I hissed at the snake, speaking in my native Abyssal langu
 
 _“Not if I kill you first,”_ it hissed back at me, answering in Abyssal. But I could sense its fear. Abyssal, you see, is a very emotional language. It is the language of my creators. Its consonants are harsh and sharp. The inflections of the vowels come from anger, hate, and loathing. I write this because I want to impress upon the reader that the way this snake fiend answered was, to me, very clearly afraid. It tried to intimidate me, but I simply reloaded. Oromis howled at it and it fled. I turned to follow it, hearing Oromis shout, “You ‘ad better run, ya filthy snake!”
 
+![Eclipse and a Wounded Number Nine](/images/nine_and_eclipse.png "Eclipse and a Wounded Number Nine")
+
 It slithered into the room with Eclipse and Petra. Petra had crawled outside the window while Eclipse was gathering her things. The snake, seeing her apparently distracted, lunged at her. But the tabaxi are an interesting race. The timid cleric sensed its entry and nimbly rolled aside. She channeled magic into her claws and slashed. The snake withered, its wounds turning to ash on its body. As I entered the room, I saw it drop its weapons and shrink away from Eclipse. It looked at me and opened its mouth to speak. Another shot fired from my cannon. The snake would never speak gain. 
 
 “Where is Petra?” I demanded. 
@@ -62,6 +68,8 @@ Eclipse pointed to the window. “She went outside. I think she saw some other s
 I exited the room as Eclipse vaulted out the window. While all of this was happening in the hallway, Petra had heard a sound from outside. She told Eclipse to stay behind as she crawled outside and climbed the building. From there, she saw two more snake fiends carrying the limp bodies of Hebo and Luna. 
 
 “Hold it!” she shouted. The snakes turned and cast spells at her. She dodged them and began casting fire and ice at the monsters. They fled around the corner and Petra heard a loud squeal. Spoink found his friend and slammed into the snakes. One fell to the ground and dropped Luna.
+
+![Petra on the wall](/images/petra-on-the-wall.png "Petra on the wall")
 
 Ezio and Oromis watched me enter Petra and Eclipse’s room with my cannon. They intended, I guess, to follow me, but saw the commotion of magic outside the window. 
 
@@ -76,6 +84,8 @@ The snake that had Hebo made the mistake of running past a window within my line
 _“Drop it! We must flee!”_ cried the prone creature. It picked itself up and grabbed its weapon.
 
 Before the snake carrying Hebo could answer, Luna was awake. A still-raging Oromis kicked Luna and chopped at the snake fiend again, removing one of its arms. Luna perhaps had been under some spell, but that spell had now worn off and she was viciously angry. She muttered an incantation and her trident appeared magically in her hand. She channeled her power through it and fired a blast of energy. The snake Oromis had wounded suddenly fell to the ground, blood pouring from its eyes, mouth, nose, and ears. 
+
+![Oromis attacks](/images/oromis-and-ezio-attack.png "Oromis attacks")
 
 The last snake fiend was completely surrounded. I approached it from the side, already reloading my cannon. Ezio, still bleeding from his wound, drew another arrow and loaded it into his bow. Luna and Oromis were seething. Eclipse and Petra came around the corner as well. The snake drew a knife and laid it to Hebo’s throat. Before it could move further, Eclipse ripped the snake apart with a blast of holy fire.
 
