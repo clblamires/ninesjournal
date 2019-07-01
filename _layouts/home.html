@@ -3,55 +3,26 @@
 {% include head.html  %}
 <body>
 
-    {% include header.html %}
-    
+    <div class="container" id="main">
+        <div class="row">
+            <div class="col-sm-12 col-lg-4" id="page">
 
-    <main class="content">
-        <h1>Episodes</h1>
+                {% include header.html %}
+                
+            </div>
+            <div class="col-sm-12 col-lg-8" id="content">
+                <header>
+                    <h1>{{ page.title }}</h1>
+                </header>
 
-        {% if site.posts.size > 0 %}
-            {% for post in site.posts %}
-            <!-- <article class="card">
-                <h2>{{ post.title }}</h2>
-                <h3>{{ post.date | date: '%a, %b %d, %y - %I:%M %P' }}</h3>
-                <p>
-                    {{ post.excerpt }}
-                </p>
-            </article> -->
+                {{ content }}
 
-            <section class="card padding">
-                <h2 class="card-title">
-                    <a href="{{ post.url }}">
-                        Episode {{ post.episode }}: {{ post.title }}
-                    </a>
-                </h2>
-                <div class="card-date">
-                    Posted on {{ post.date | date: '%a, %b %d, %Y' }}
-                </div>
-                <p>
-                    {{ post.excerpt }}
-                </p>
-                <div class="card-tags">
-                    <div class="tags">
-                        Tags: 
-                        {% for tag in post.tags %}
-                        <span class="tag">
-                            {{ tag }}
-                        </span>
-                        {% endfor %}
-                    </div>
-                    <div class="read-more">
-                        <a href="{{ post.url }}" class="button">
-                            Read More <i class="fas fa-caret-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </section>
-            {% endfor %}
-        {% endif %}
-    </main>
-
-    {% include footer.html %}
+                <footer>
+                    {% include footer.html %}
+                </footer>
+            </div>
+        </div>
+    </div>
     
 </body>
 </html>

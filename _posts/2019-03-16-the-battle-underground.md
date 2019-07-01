@@ -2,8 +2,10 @@
 layout: post
 title: The Battle Underground
 date: '2019-03-16 18:00:00 -0700'
+recorded: 'March 16, 2019'
 tags: darkness underground drow-spider farmer scroll
 episode: 4
+adventure: 'discouraged'
 ---
 What would we do to kill that drow spider and its minions and save those people? We debated long before we decided on a plan: Hebo was to sneak in under the guise of invisibility and release the prisoners. The drow spider was asleep and the Kraul were just chittering to themselves, their claws only loosely holding their weapons. Hebo would message us when we should ambush the Kraul as he helped the people to safety. If we moved fast enough, we could kill them all before they even knew we were here. 
 

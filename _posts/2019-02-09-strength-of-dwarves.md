@@ -2,8 +2,10 @@
 layout: post
 title: The Strength of Dwarves
 date: '2019-02-09 17:00:00 -0700'
+recorded: 'February 9, 2019'
 tags: oromis carts rope horses
 episode: 2
+adventure: 'discouraged'
 ---
 Night drew on as we looked over the carcasses of the spiders. We were still uneasy, though. Ezio and I moved to inspect the barn and found it utterly devastated. Hebo, Oromis, Petra, and Luna went to the farmhouse and found it in the same condition. But the farmer was missing, much to Hebo's dismay. Ezio, being a distrustful person, began to interrogate Hebo about the farm and the farmer. Hebo insisted that the farmer was good and that something dreadful had happened here while he was away. We found tracks in the dirt and mud that led towards the mountains, but injured as we were, we could not follow.
 

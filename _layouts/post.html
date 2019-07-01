@@ -1,57 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html  %}
+{% if page.adventure == 'calatia' %}
+    {% assign adventure = "Quest for Calatia" %}
+{% else %}
+    {% assign adventure = "The Tales of the Discouraged" %}
+{% endif %}
 <body>
 
-    {% include header.html %}
-    
+    <div class="container" id="main">
+        <div class="row">
+            <div class="col-sm-12 col-lg-4" id="page">
 
-    <main class="content">
-        <div class="page-nav">
-            {% if page.previous.url %}
-            <a class="prev" href="{{ page.previous.url }}">
-                <i class="fas fa-caret-left"></i>
-                {{page.previous.title}}
-            </a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next" href="{{ page.next.url }}">
-                {{page.next.title}}
-                <i class="fas fa-caret-right"></i>
-            </a>
-            {% endif %}
+                {% include header.html %}
+                
+            </div>
+            <div class="col-sm-12 col-lg-8" id="content">
+                <header>
+                    <h1>{{ adventure }}</h1>
+                </header>
+
+                <p class="prev">
+                    <a href="{{ site.url }}/{{ page.adventure }}">
+                        <i class="fas fa-caret-left"></i>
+                        Back to Episode List
+                    </a>
+                </p>
+
+                <h2>{{ page.title }}</h2>
+                <h3>Episode {{ page.episode }}</h3>
+                <p>
+                    {% for tag in page.tags %}
+                        <span class="badge badge-secondary">{{ tag }}</span>
+                    {% endfor %}
+                </p>
+                <p class="recorded">
+                    Recorded {{ page.date | date: '%b %d, %Y' }}
+                </p>
+                {{ content }}
+
+                <p class="prev">
+                    <a href="{{ page.previous.url }}">
+                        <i class="fas fa-caret-left"></i>
+                        Back to Episode List
+                    </a>
+                </p>
+
+                <footer>
+                    {% include footer.html %}
+                </footer>
+            </div>
         </div>
-
-
-        <h2>{{ page.title }}</h2>
-        <h3>Episode {{ page.episode }}</h3>
-        <p>
-            {% for tag in page.tags %}
-                <span class="tag">{{ tag }}</span>
-            {% endfor %}
-        </p>
-        <p>
-            Recorded {{ page.date | date: '%a, %b %d, %Y' }}
-        </p>
-        {{ content }}
-
-        <div class="page-nav">
-            {% if page.previous.url %}
-            <a class="prev" href="{{ page.previous.url }}">
-                <i class="fas fa-caret-left"></i>
-                {{page.previous.title}}
-            </a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next" href="{{ page.next.url }}">
-                {{page.next.title}}
-                <i class="fas fa-caret-right"></i>
-            </a>
-            {% endif %}
-        </div>
-    </main>
-
-    {% include footer.html %}
+    </div>
     
 </body>
 </html>
