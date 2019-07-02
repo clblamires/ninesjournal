@@ -61,7 +61,7 @@ nav {
 }
 
 #content {
-    border-left: solid 1px $lightgray;
+    // border-left: solid 1px $lightgray;
     font-family: 'PT Sans', sans-serif;
     color: $black;
 
@@ -106,7 +106,7 @@ nav {
 
     img {
         max-width: 500px;
-        width: 100%;
+        width: inherit;
         display: block;
         margin: 0 auto;
     }
@@ -169,4 +169,17 @@ a {
     &:hover, &:active {
         background-color: $darkred;
     }
+}
+
+
+.card-image-top {
+    margin-top: 10px !important;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.hero-image {
+    max-width: 300px !important;
 }
