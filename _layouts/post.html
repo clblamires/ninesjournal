@@ -3,8 +3,10 @@
 {% include head.html  %}
 {% if page.adventure == 'calatia' %}
     {% assign adventure = "Quest for Calatia" %}
+    {% assign episode = "Session" %}
 {% else %}
     {% assign adventure = "The Tales of the Discouraged" %}
+    {% assign episode = "Episode" %}
 {% endif %}
 <body>
 
@@ -23,12 +25,12 @@
                 <p class="prev">
                     <a href="{{ site.url }}/{{ page.adventure }}">
                         <i class="fas fa-caret-left"></i>
-                        Back to Episode List
+                        Back to {{ episode }} List
                     </a>
                 </p>
 
                 <h2>{{ page.title }}</h2>
-                <h3>Episode {{ page.episode }}</h3>
+                <h3>{{ episode }} {{ page.episode }}</h3>
                 <p>
                     {% for tag in page.tags %}
                         <span class="badge badge-secondary">{{ tag }}</span>
@@ -42,7 +44,7 @@
                 <p class="prev">
                     <a href="{{ page.previous.url }}">
                         <i class="fas fa-caret-left"></i>
-                        Back to Episode List
+                        Back to {{ episode }} List
                     </a>
                 </p>
 
