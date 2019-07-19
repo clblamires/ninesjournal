@@ -51,6 +51,13 @@ nav {
     }
 }
 
+.navbar-brand {
+    font-weight: bold;
+    i {
+        color: $red;
+    }
+}
+
 #page {
     font-family: 'PT Sans', sans-serif;
     #site-title {
@@ -127,7 +134,7 @@ nav {
 
     img {
         max-width: 500px;
-        width: inherit;
+        width: 100%;
         display: block;
         margin: 0 auto;
     }
