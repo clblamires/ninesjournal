@@ -21,7 +21,7 @@ Captain Miko and his first mate, Kimala the Zora, were on the dock overseeing th
 
 Soon after, Nayru’s Blessing departed Malin Harbor for Chorus City, capital of Calatia. Zedeki and his crew stood watch as the ship departed Hyrule and came upon open waters. The journey was uneventful, to say the least. The mercenaries spent their time looking towards the water during the day, and resting whenever they could during the night. Ophinia and Nami, during a break, went to the lowest deck of the ship where the goods for trade were stored. Nami was interested in the cargo, looking for any Sheikah trinkets or any other captivating item. Ophinia, on the other hand, had been sensing some very strong power somewhere on the ship, but could not find it.
 
-As sunset was approaching after a little over a week, a deckhand called out “Land ahoy!” and pointed to the north. The mercenaries looked and saw the shores of Calatia far away. Gongu noticed it first: dark clouds were swirling about the land. Kimala suggested that a storm was coming in and that they should get below deck to rest and wait it out.
+As sunset was approaching after a little over three weeks, a deckhand called out “Land ahoy!” and pointed to the north. The mercenaries looked and saw the shores of Calatia far away. Gongu noticed it first: dark clouds were swirling about the land. Kimala suggested that a storm was coming in and that they should get below deck to rest and wait it out.
 
 But during the night, they heard shouting and loud bangs. Zedeki, ever alert, gathered his weapons and began to move towards the upper deck. Before he could, he spied three masked assailants enter the crew cabin deck, all armed with crossbows. 
 

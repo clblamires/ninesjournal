@@ -14,6 +14,14 @@ $gray: #8C8C8C;
 $lightgray: #e0e0e0;
 $black: #555;
 
+// editing Bootstrap's container
+@media (min-width: 768px){
+    .container {
+        max-width: 720px;
+    }
+
+}
+
 #main {
     margin-top: 20px;
 }
@@ -28,11 +36,18 @@ nav {
     }
     a {
         color: $black;
-        border-bottom: solid 1px $red;
+        // border-bottom: solid 1px $red;
+        border: none;
         &:hover {
             color: $red;
             text-decoration: none;
         }
+    }
+    .dropdown-item:active {
+        background-color: $red;
+    }
+    * {
+        font-family: 'PT Sans', sans-serif;
     }
 }
 
@@ -63,12 +78,16 @@ nav {
 
 #content {
     // border-left: solid 1px $lightgray;
-    font-family: 'PT Sans', sans-serif;
+    // font-family: 'PT Sans', sans-serif;
     font-family: 'Merriweather', serif;
     color: $black;
 
+    margin-top: 3em;
+
     p {
         line-height: 200%;
+        font-family: 'Merriweather', serif;
+
     }
 
     header {
@@ -86,11 +105,7 @@ nav {
     footer {
         margin: 20px 0 0 0;
         padding-top: 10px;
-        border-top: solid 1px $lightgray;
-    }
-
-    ul {
-        
+        // border-top: solid 1px $lightgray;
     }
 
     .date {
@@ -148,6 +163,10 @@ a {
     }
 }
 
+.btn-primary:not(:disabled):not(.disabled):active {
+    background-color: $darkred;
+}
+
 
 .social-icons {
     list-style: none;
@@ -188,4 +207,25 @@ a {
 
 .hero-image {
     max-width: 300px !important;
+}
+
+
+dl {
+    dt {
+        font-weight: bold;
+        font-style: italic;
+        font-size: 125%;
+        border-bottom: solid 2px $red;
+        color: $red;
+        margin-bottom: 10px;
+        margin-top: 1.25em;
+    }
+
+    dd {
+        line-height: 200%;
+    }
+}
+
+a {
+    cursor: pointer !important;
 }

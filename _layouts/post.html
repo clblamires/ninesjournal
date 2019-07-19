@@ -9,19 +9,12 @@
     {% assign episode = "Episode" %}
 {% endif %}
 <body>
+    
+    {% include navigation.html %}
 
     <div class="container" id="main">
         <div class="row">
-            <div class="col-sm-12 col-lg-4" id="page">
-
-                {% include header.html %}
-                
-            </div>
-            <div class="col-sm-12 col-lg-8" id="content">
-                <header>
-                    <h1>{{ adventure }}</h1>
-                </header>
-
+            <div class="col-sm-12" id="content">
                 <p class="prev">
                     <a href="{{ site.url }}/{{ page.adventure }}">
                         <i class="fas fa-caret-left"></i>
@@ -42,7 +35,7 @@
                 {{ content }}
 
                 <p class="prev">
-                    <a href="{{ page.previous.url }}">
+                    <a href="{{ site.url }}/{{ page.adventure }}">
                         <i class="fas fa-caret-left"></i>
                         Back to {{ episode }} List
                     </a>

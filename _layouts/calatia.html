@@ -3,38 +3,37 @@
 {% include head.html  %}
 <body>
 
+    {% include navigation.html %}
+
     <div class="container" id="main">
         <div class="row">
-            <div class="col-sm-12 col-lg-4" id="page">
-
-                {% include header.html %}
-                
-            </div>
-            <div class="col-sm-12 col-lg-8" id="content">
-                <header>
-                    <h1>{{ page.title }}</h1>
-                </header>
-
+            <div class="col-sm-12" id="content">
                 {{ content }}
 
                 {% if site.posts.size > 0 %}
-                    <ul class="episodes">
+                    <h2>Sessions</h2>
+                    <table class="table table-bordered">
                         {% for post in site.posts %}
                             {% if post.adventure == 'calatia' %}
-                            <li>
-                                <a href="{{ post.url }}">
-                                    <b>Session {{ post.episode }}: </b>
-                                    {{ post.title }}
-                                </a>
-                                <span class="date">
-                                        <i class="fas fa-angle-double-right"></i> {{ post.recorded | date: '%b %d, %Y'}}
-                                </span>
-                            </li>
+                            <tr>
+                                <td>
+                                    <a href="{{ post.url }}">
+                                        <b>Session {{ post.episode }}: </b>
+                                        {{ post.title }}
+                                    </a>
+                                </td>
+                                <td>
+                                    <span class="date">
+                                        {{ post.recorded | date: '%b %d, %Y'}}
+                                    </span>
+                                </td>
+                            </tr>
                             {% endif %}
                         {% endfor %}
-
-                    </ul>
+                    </table>
                 {% endif %}
+
+                
                 <footer>
                     {% include footer.html %}
                 </footer>

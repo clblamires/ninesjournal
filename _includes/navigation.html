@@ -1,21 +1,40 @@
-<nav>
-    <ul>
-        <li>
-            <a href="{{ site.url }}/">Campaigns</a>
-            <ul>
-                <li>
-                    <a href="{{ site.url }}/discouraged">The Discouraged</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="{{ site.url }}">
+            <i class="fas fa-dice-d20"></i>
+            Number Nine's Journal
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Campaigns
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="{{ site.url }}/discouraged">
+                            The Discouraged
+                        </a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="{{ site.url }}/calatia">
+                            Quest for Calatia
+                        </a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="{{ site.url }}/oneshots">
+                            One-Shots
+                        </a>
+                    </div>
                 </li>
-                <li>
-                    <a href="{{ site.url }}/calatia">Quest for Calatia</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/contact">Contact</a>
                 </li>
             </ul>
-        </li>
-        <li>
-            <a href="{{ site.url }}/about">About</a>
-        </li>
-        <li>
-            <a href="{{ site.url }}/contact">Contact</a>
-        </li>
-    </ul>
+        </div>
+    </div>
 </nav>
