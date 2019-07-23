@@ -35,6 +35,7 @@ collections:
         name: "korok"
         file: "korok.html"
         fields:
+          - {label: "Layout", name: "layout", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
   - label: "Party"
