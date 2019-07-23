@@ -28,6 +28,15 @@ collections:
   #       fields:
   #         - {label: Title, name: title, widget: string}
   #         - {label: "Body", name: "body", widget: "markdown"}
+  - label: "One-Shots"
+    name: "oneshots"
+    files: 
+      - label: "Korok Trial"
+        name: "korok"
+        file: "korok.html"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - label: "Party"
     name: "party"
     files:
@@ -70,6 +79,42 @@ collections:
       - label: "Oromis"
         name: "oromis"
         file: "party/oromis.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Gongu"
+        name: "gongu"
+        file: "party/gongu.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Il"
+        name: "Il"
+        file: "party/il.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Namika"
+        name: "namika"
+        file: "party/namika.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Ophinia"
+        name: "ophinia"
+        file: "party/ophinia.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Whisper"
+        name: "whisper"
+        file: "party/whisper.html"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Zedeki"
+        name: "zedeki"
+        file: "party/zedeki.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
