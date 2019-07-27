@@ -134,7 +134,7 @@ nav {
 
     img {
         max-width: 500px;
-        width: 100%;
+        // width: 100%;
         display: block;
         margin: 0 auto;
     }
@@ -258,4 +258,46 @@ figure {
 
 .padding-bottom {
     padding-bottom: 20px;
+}
+
+// ol { 
+//     counter-reset: item 
+//     li {
+//         display: block;
+//     }
+//     li:before {
+//         content: counters( item, "." ) "";
+//         counter-increment: item;
+//     }
+//     padding: 0;
+//     ol {
+//         padding-left: 40px;
+//     }
+// }
+ol ol {
+    margin-bottom: 10px;
+}
+
+
+.character {
+    clear: both;
+    &:after {
+        clear: both;
+    }
+    overflow: auto;
+}
+.character-image {
+    float: right;
+    width: 40%;
+    border: solid 1px #ddd;
+    margin: 10px;
+}
+@media screen and (max-width: 758px ){
+    .character-image {
+        width: 100% !important;
+        // border: solid 10px red;
+    }
+    #content img {
+        width: 100% !important;
+    }
 }

@@ -11,7 +11,7 @@
                 {{ content }}
 
                 {% if site.posts.size > 0 %}
-                    <h2>Sessions</h2>
+                    <h2 id="sessions">Sessions</h2>
                     <table class="table table-bordered">
                         {% for post in site.posts %}
                             {% if post.adventure == 'calatia' %}
