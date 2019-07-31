@@ -45,6 +45,8 @@ They found me back at the stables, watching over my sleeping companions. I expla
 
 But now we know Ezio's ultimate goal: he fully intends to fight against the government here. I am still unsure, but I will assist him as well as I can in the investigation. And who knows? Perhaps our path will lead us to finding the corruption in the Court and helping the people of Caladmein in some way. Right now, I am fearful of the Court. I explained to Rioma that we will investigate, but going against the Court will certainly lead to a slow and painful death.
 
+Something else that was on my mind while we spoke with Rioma. Luna's body language was... odd. Her face seemed flushed. I did not say anything, but I wonder if she is feeling well. I had not noticed this until she was around Rioma. Perhaps he is a carrier of some disease.
+
 We decided to stay in Lotus Lake for at least one more day. This would let us recover from our injuries and assist the townspeople in any way we can. Rioma planned to do the same. He was interested in the ceremonial knife and amulet that we recovered. We will speak more to this in the morning.
 
 As Hebo and I went back to rest, Rioma asked us what is our group's name. Hebo responded, _"The Great Ones!"_
