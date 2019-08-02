@@ -5,10 +5,9 @@ date: '2019-03-02 18:00:00 -0700'
 recorded: 'March 2, 2019'
 tags: thundercannon kraul darkvision treasure bagofholding
 episode: 3
-adventure: 'discouraged'
+adventure: discouraged
 ---
-
-Our journey to the mountains as we followed the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper behavior. My emotions and reactions are artificial, but even I could feel his sadness emanate from him.
+Our journey to the mountains as we followed the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper behavior.
 
 We followed the tracks for an entire day and noticed something that gave us pause. Our pace was not particularly slow, but this creature we followed showed no signs of weariness. Whatever it was, it moved quickly. On the next day, we found a large hole in the path, and the tracks we followed led directly to it. We lowered Petra into the pit first, and she reported a long tunnel leading into darkness. 
 
@@ -20,7 +19,7 @@ The attackers were Kraul. Two insect-like warriors stood before us, chittering w
 
 As Oromis and Ezio charged at the Kraul, I felt a sudden pierce in my chassis as a spear crashed into me, breaking off a plate of my metal hide. I turned and saw two new Kraul behind us, clinging to the ceiling like the insects they were. Petra and Luna turned and fired their spells again, knocking one off the ceiling into a crumple on the ground. I fired at the attackers, knocking them back. At the other end of our group, Oromis and Ezio swung mightily at the Kraul. One fell to Ezio's scimitars and another to Oromis's great axe.
 
-The two Kraul charged me, evidently drawn to me by the sound of my thunder cannon. Hebo fired from his crossbow. Petra shot blasts of ice and fire. Another Kraul fell, but not before he and his companion tore at me. My body was greatly damaged and my magic kept my soul intact. But Luna saved me. She asked, very suddenly, in her foreign accent, "Do you trust me?" and I was suddenly sent far away from my foe. Forcing my body to obey my soul's command, I raised the cannon again and fired. In my weakened state, the shock of the gun knocked me backwards. 
+The two Kraul charged me, evidently drawn to me by the sound of my thunder cannon. Hebo fired from his crossbow. Petra shot blasts of ice and fire. Another Kraul fell, but not before he and his companion tore at me. My body was greatly damaged and my magic kept my soul intact. But Luna saved me. She asked, very suddenly, in her foreign accent, "Do you trust me?" and I was suddenly sent far away from my foe. Forcing my damaged body up, I raised the cannon again and fired. In my weakened state, the shock of the gun knocked me backwards. 
 
 When I arose, the group was resting after the battle. My companions were salvaging what they could from the Kraul, including weapons and plate armor. They could not get anything from the Kraul I had fired upon last as the thunder cannon's shot had ripped the body of that creature to pieces. I used my magic and skill to repair my body, and the party continued. The things we found on the Kraul were stored in my bag of holding.
 
