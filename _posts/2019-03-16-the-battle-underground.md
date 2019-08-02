@@ -3,9 +3,9 @@ layout: post
 title: The Battle Underground
 date: '2019-03-16 18:00:00 -0700'
 recorded: 'March 16, 2019'
-tags: darkness underground drow-spider farmer scroll
+tags: darkness underground drider farmer scroll
 episode: 4
-adventure: 'discouraged'
+adventure: discouraged
 ---
 What would we do to kill that drow spider and its minions and save those people? We debated long before we decided on a plan: Hebo was to sneak in under the guise of invisibility and release the prisoners. The drow spider was asleep and the Kraul were just chittering to themselves, their claws only loosely holding their weapons. Hebo would message us when we should ambush the Kraul as he helped the people to safety. If we moved fast enough, we could kill them all before they even knew we were here. 
 
@@ -23,6 +23,6 @@ She searched for her next victim and chose Luna. Luna escaped her wrath with a q
 
 All the while, Hebo again saved Oromis with his magic. Oromis was severely weakened, but was in a rage again. White hot smoke seemed to erupt from his body, giving him an eerie glow in the light of my torch. He threw his last javelin, impaling the spider. Only then did she realize what she was up against. The spider had been ravaged in a matter of minutes. Oromis's weapons were still embedded in her. Arrows and gunshot wounds decorated her flank. Burn marks scored her exoskeleton. Her black blood was painting the rocks wherever she went, and she knew she could not face us any longer.
 
-To our dismay, Hebo had moved to protect the captive people. In doing so, he put himself in the spider's path of escape. Hebo survived the attack, but only because the spider was so greatly injured. Hebo fell unconscious, but not dead. Something inside each of us burned. Luna and I sent our last attacks at her as she fled. With a strange guttural cough, the spider suddenly fell to the ground. One final bullet in the dead sealed her fate.
+To our dismay, Hebo had moved to protect the captive people. In doing so, he put himself in the spider's path of escape. Hebo survived the attack, but only because the spider was so greatly injured. Hebo fell unconscious, but not dead. Something inside each of us burned. Luna and I sent our last attacks at her as she fled. With a strange guttural cough, the spider suddenly fell to the ground. One final bullet in the head sealed her fate.
 
-Ezio and Luna quickly bound Hebo's wounds. Hebo would live, and my companions thanked the gods for it. One of the captives was indeed the farmer we were seeking. "Oh, Hebo," he said softly. The farmer and the other captives were lucky to be alive. My food-eating companions fed them and gave them water. We recovered some weapons from the Kraul and got ready to return to the surface. Before we left, Ezio discovered that the creature was in fact a drow spider, a strange cross between a large spider and a dark-elf. It carried with it a scroll of unreadable letters. We collected the legs of the spider, and its greatsword before we began our accent back to the world of light.
+Ezio and Luna quickly bound Hebo's wounds. Hebo would live, and my companions thanked the gods for it. One of the captives was indeed the farmer we were seeking. "Oh, Hebo," he said softly. The farmer and the other captives were lucky to be alive. My food-eating companions fed them and gave them water. We recovered some weapons from the Kraul and got ready to return to the surface. Before we left, Ezio discovered that the creature was in fact a drider, a strange cross between a large spider and a drow. It carried with it a scroll of unreadable letters. We collected the legs of the spider, and its greatsword before we began our accent back to the world of light.
