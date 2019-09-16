@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Do We Go?
+title: Where Do We Go Now?
 date: 2019-09-16T18:23:49.192Z
 recorded: 'Sept 15, 2019'
 tags: stalfos horses caretaker
