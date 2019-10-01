@@ -3,7 +3,7 @@ layout: post
 title: Mabel City Cistern
 date: 2019-10-01T18:27:42.192Z
 recorded: 'Sept 28, 2019'
-tags: pirates ghost flamebreaker wargroove
+tags: cistern blind spiders rupees
 episode: '7'
 adventure: calatia
 ---
