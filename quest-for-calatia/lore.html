@@ -1,0 +1,20 @@
+---
+layout: page
+title: Calatian Lore
+---
+
+<h2>Calatian Lore</h2>
+
+{% include return.html content="quest-for-calatia" %}
+
+{% assign lore = site.data.lore.lore | sort: 'name' %}
+{% for l in lore %}
+<div class="people">
+    <h4>{{ l.name }}</h4>
+    <p>
+        {{ l.text }}
+    </p>
+</div>
+{% endfor %}
+
+{% include return.html content="quest-for-calatia" %}

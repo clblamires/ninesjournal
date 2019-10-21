@@ -1,0 +1,60 @@
+{
+    "lore": [
+        {
+            "name" : "Provinces",
+            "text" : "The country of Calatia is very large. It is broken down into separate regions called Provinces. Each province has a capital city or town, and a group of provincial police called Marshals."
+        },
+        {
+            "name" : "Old Calatia",
+            "text" : "This region of the country is to the far north, perpetually under snow. It was the original country of Calatia before the Great Disaster laid it to waste. Few people venture to Old Calatia anymore, except a few adventerous explorers and the Ice Gorons."
+        },
+        {
+            "name" : "The Caretaker",
+            "text" : "The Hyruleans have many stories and legends of the creation of the world. The Calatians do, too, but revere one god above all others: The Caretaker. The Caretaker is depicted as a tall figure wearing thick furs and a long hood. The Church of the Caretaker is the primary religion of Calatia."
+        },
+        {
+            "name" : "Hylia",
+            "text" : "Hylia is honored as the guardian and protector of Hyrule. But in Calatia, she is largely unknown. A small and dirty shrine to her is found in a back alley in Mabel Village's impoverished fishing district."
+        },
+        {
+            "name" : "Lighthouses",
+            "text" : "Large magical lighthouses guard the borders of Calatia and are revered as holy sites to worshippers of the Caretaker. There are at least three that are known and still in operation: the Southern Lighthouse in the Loftwing Province, the Western Lighthouse near the sea, and the Eastern Lighthouse at the end of Hokani Bay. More lighthouses are rumored, including a Northern Lighthouse somewhere in Old Calatia. The legends say that the lighthouses keep the darkness at bay, but few people understand what this means or if it is even true."
+        },
+        {
+            "name" : "Ancient Sheikah",
+            "text" : "The Ancient Sheikah were the original surveyors and explorers of the world, and are most commonly seen in Hyrule. Sheikah-made relics and items have also been found in Calatia. In fact, the light stone in the Southern Lighthouse is apparently created by the Ancient Sheikah."
+        },
+        {
+            "name" : "The Spring of Wellness",
+            "text" : "This is a magical spring in the Featherwood Forest. Those that bathe in it are granted instant relief from pain. A Bokoblin, Huk, operates the spring of wellness as a campground and has enchanted the water so that it dyes a bather's skin purple for a few days."
+        },
+        {
+            "name" : "Tail Cave",
+            "text" : "Tail Cave is a small cave south of Mabel Village and has been shut to the public for some time by Ulrira, the Elder of Mabel Village. It was originally a fishing location during high tides, but was most recently used as a site for the masked assailants to abduct people. A large Mothula lived in the back room."
+        },
+        {
+            "name" : "Downrigger",
+            "text" : "A title given to the head of the police force in Mabel Village. In fishing terms, a downrigger keeps the line below the water while trolling. In police terms, the Downrigger \"keeps the darkness below the surface\". Other towns have local police as well, but only Mabel Village uses this term."
+        },
+        {
+            "name" : "Marshals",
+            "text" : "The name of the provincial police force, usually moving from one town or city to the next."
+        },
+        {
+            "name" : "Sentinels",
+            "text" : "The roaming police force for all of Calatia. Sentinels are not tied to a particular place, and are given freedom to enforce the law wherever they are. Their salary is subsidized by the Crown of Calatia, unlike Marshals who are paid by individual towns. Most Sentinels take the role as a supplement to their adventuring jobs."
+        },
+        {
+            "name" : "Crazy Tracy's Potion Shop",
+            "text" : "This is a chain of potion shops all around Calatia, usually run by Gerudo potion makers. Their potions are priced high but are incredibly useful. They offer discounts to patrons who bring their own ingredients, and even hold classes to teach potion-making. A few branches also sell discounted \"mystery potions\" from time to time."
+        },
+        {
+            "name" : "The Temple of Paraba",
+            "text" : "Does this place even exist? Only a few vague references seem to point towards a location in the Hokani Mountains. Supposedly it was a place to worship Paraba, some unknown god."
+        },
+        {
+            "name" : "Mabel City Cistern",
+            "text" : "Mabel Village used to be Mabel City, a very large metropolis before people moved to what is now Old Calatia. Below the village is an ancient cistern, built to collect and store fresh water for the population. Now, it is infested with chu chus and skulltulas."
+        }
+    ]
+}

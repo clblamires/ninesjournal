@@ -2,7 +2,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,900&display=swap');
 * {
     box-sizing: border-box;
 }
@@ -15,295 +15,112 @@ $lightgray: #e0e0e0;
 $black: #555;
 
 // editing Bootstrap's container
-@media (min-width: 768px){
-    .container {
-        max-width: 820px;
-    }
+// @media (min-width: 768px){
+//     .container {
+//         max-width: 820px;
+//     }
 
+// }
+
+.container {
+    box-shadow: 0 0 10px black;
+    background-color: white;
+}
+
+body {
+    background-image: url('../images/leather.jpg');
 }
 
 #main {
-    margin-top: 20px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding: 20px;
 }
 
-nav {
-    color: $red;
-    & > ul {
-        font-size: 125%;
-        ul {
-            font-size: 75%;
-        }
-    }
-    a {
-        color: $black;
-        // border-bottom: solid 1px $red;
-        border: none;
-        &:hover {
-            color: $red;
-            text-decoration: none;
-        }
-    }
-    .dropdown-item:active {
-        background-color: $red;
-    }
-    * {
-        font-family: 'PT Sans', sans-serif;
-    }
+footer {
+    width: 100%;
 }
-
-.navbar-brand {
-    font-weight: bold;
+#site-title {
+    font-family: 'Merriweather', serif;
+    color: $black;
+    text-decoration: none;
     i {
         color: $red;
     }
 }
 
-#page {
-    font-family: 'PT Sans', sans-serif;
-    #site-title {
-        text-decoration: none;
-        p {
-            text-align: center;
-            font-size: 12px;
-            color: $gray;
-        }
-
-        .icon {
-            text-align: center;
-            font-size: 300%;
-            color: $red;
-
-        }
-        h1 {
-            text-align: center;
-            font-size: 200%;
-            color: $red;
-            font-weight: bold;
-        }
-    }
-}
-
-#content {
-    // border-left: solid 1px $lightgray;
-    // font-family: 'PT Sans', sans-serif;
-    font-family: 'Merriweather', serif;
-    color: $black;
-
-    // margin-top: 3em;
-
-    p {
-        line-height: 200%;
-        font-family: 'Merriweather', serif;
-
-    }
-
-    header {
-        margin: 0 0 20px 0;
-        padding-bottom: 10px;
-        border-bottom: solid 1px $lightgray;
-        h1 {
-            font-size: 150%;
-            color: $black;
-            font-weight: bold;
-            text-align: center;
-        }
-    }
-
-    footer {
-        margin: 20px 0 0 0;
-        padding-top: 10px;
-        // border-top: solid 1px $lightgray;
-    }
-
-    .date {
-        font-size: 80%;
-        color: $gray;
-    }
-
-    .prev {
-        font-size: 80%;
-        a {
-            color: $red;
-        }
-    }
-
-    blockquote {
-        font-style: italic;
-        text-align: center;
-    }
-
-    img {
-        max-width: 500px;
-        // width: 100%;
-        display: block;
-        margin: 0 auto;
-    }
-
-    h2 {
+nav {
+    margin-top: 2rem;
+    a {
         color: $black;
-        font-weight: bold;
-    }
-    h3 {
-        font-size: 100%;
-        font-weight: bold;
-    }
-
-    .recorded {
-        font-size: 80%;
-        color: $gray;
-    }
-
-    .episodes {
-        li {
-            margin-bottom: 6px;
-        }
-        a {
+        font-family: 'PT Sans', sans-serif;
+        &:hover, &:active {
             color: $red;
+            background-color: lighten($lightgray, 7%);
+        }
+        i {
+            color: $red;
+        }
+    }
+    .nav-link-small {
+        font-size: 80%;
+        text-indent: 15px;
+        i {
+            // font-size: 80%;
         }
     }
 }
 
+.top-of-page {
+    margin-top: 3.4rem;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, table, th, td, li, blockquote, figcaption {
+    font-family: 'Merriweather', sans-serif;
+    color: $black;
+}
 a {
     color: $red;
     &:hover {
-        color: $darkred;
+        color: darken($red, 10%);
+        text-decoration: underline;
     }
 }
 
-.btn-primary:not(:disabled):not(.disabled):active {
-    background-color: $darkred;
+
+p {
+    line-height: 175%;
 }
 
-
-.social-icons {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+.blog-image {
     text-align: center;
-    li {
-        display: inline-block;
-        margin-right: 10px;
-        &:last-child {
-            margin-right: 0;
-        }
+    display: block;
+    margin: 0 auto 2em auto;
+    // width: 100%;
+}
+
+.post-information {
+    margin-bottom: 1rem;
+}
+.post-details {
+    span {
+        color: $black;
     }
-    a {
-        font-size: 3rem;
-        &:hover {
-            color: $darkred;
-        }
+}
+.episode_icon {
+    img {
+        height: 16px;
     }
 }
 
 .btn-primary {
     background-color: $red;
-    border: none;
-    &:hover, &:active {
-        background-color: $darkred;
+    border-color: darken($red,1%);
+    &:hover {
+        background-color: darken($red, 5%);
+        border-color: darken($red,6%);
     }
 }
-
-
-.card-image-top {
-    margin-top: 10px !important;
-    width: inherit !important;
-}
-
-.card {
-    margin-bottom: 20px;
-}
-
-.hero-image {
-    max-width: 300px !important;
-}
-
-
-dl {
-    dt {
-        font-weight: bold;
-        font-style: italic;
-        font-size: 125%;
-        border-bottom: solid 2px $red;
-        color: $red;
-        margin-bottom: 10px;
-        margin-top: 1.25em;
-    }
-
-    dd {
-        line-height: 200%;
-    }
-}
-
-a {
-    cursor: pointer !important;
-}
-
-
-#characters a {
-    margin-bottom: 4px;
-}
-
-
-figure {
-    img {
-        width: 100%;
-        max-width: 100% !important;
-    }
-    small {
-        text-align: center;
-        display: block;
-    }
-}
-
-
-.padding-bottom {
-    padding-bottom: 20px;
-}
-
-// ol { 
-//     counter-reset: item 
-//     li {
-//         display: block;
-//     }
-//     li:before {
-//         content: counters( item, "." ) "";
-//         counter-increment: item;
-//     }
-//     padding: 0;
-//     ol {
-//         padding-left: 40px;
-//     }
-// }
-ol ol {
-    margin-bottom: 10px;
-}
-
-
-.character {
-    clear: both;
-    &:after {
-        clear: both;
-    }
-    overflow: auto;
-}
-.character-image {
-    float: right;
-    width: 40%;
-    border: solid 1px #ddd;
-    margin-left: 10px !important;
-}
-@media screen and (max-width: 758px ){
-    .character-image {
-        width: 100% !important;
-        margin-left: auto;
-        // border: solid 10px red;
-    }
-    #content img {
-        width: 100% !important;
-    }
-
-}
-
 
 .portraits {
     display: flex;
@@ -319,11 +136,347 @@ ol ol {
     }
 }
 
-.locations {
-    li {
-        margin-bottom: 10px;
-    }
-    b {
-        text-decoration: underline;
+.title-image {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.character-image {
+    float: right;
+    width: 100%;
+    max-width: 270px;
+    margin: 10px;
+}
+
+.character {
+    span {
+        font-weight: bold;
     }
 }
+
+.people {
+    border-bottom: solid 1px $lightgray;
+    margin-bottom: 1rem;
+    ul {
+        font-size: 80%;
+    }
+}
+
+figcaption {
+    color: $red !important;
+    font-weight: bold;
+}
+
+// nav {
+//     color: $red;
+//     & > ul {
+//         font-size: 125%;
+//         ul {
+//             font-size: 75%;
+//         }
+//     }
+//     a {
+//         color: $black;
+//         // border-bottom: solid 1px $red;
+//         border: none;
+//         &:hover {
+//             color: $red;
+//             text-decoration: none;
+//         }
+//     }
+//     .dropdown-item:active {
+//         background-color: $red;
+//     }
+//     * {
+//         font-family: 'PT Sans', sans-serif;
+//     }
+// }
+
+
+
+// #page {
+//     font-family: 'PT Sans', sans-serif;
+//     #site-title {
+//         text-decoration: none;
+//         p {
+//             text-align: center;
+//             font-size: 12px;
+//             color: $gray;
+//         }
+
+//         .icon {
+//             text-align: center;
+//             font-size: 300%;
+//             color: $red;
+
+//         }
+//         h1 {
+//             text-align: center;
+//             font-size: 200%;
+//             color: $red;
+//             font-weight: bold;
+//         }
+//     }
+// }
+
+// #content {
+//     // border-left: solid 1px $lightgray;
+//     // font-family: 'PT Sans', sans-serif;
+//     font-family: 'Merriweather', serif;
+//     color: $black;
+
+//     // margin-top: 3em;
+
+//     p {
+//         line-height: 200%;
+//         font-family: 'Merriweather', serif;
+
+//     }
+
+//     header {
+//         margin: 0 0 20px 0;
+//         padding-bottom: 10px;
+//         border-bottom: solid 1px $lightgray;
+//         h1 {
+//             font-size: 150%;
+//             color: $black;
+//             font-weight: bold;
+//             text-align: center;
+//         }
+//     }
+
+//     footer {
+//         margin: 20px 0 0 0;
+//         padding-top: 10px;
+//         // border-top: solid 1px $lightgray;
+//     }
+
+//     .date {
+//         font-size: 80%;
+//         color: $gray;
+//     }
+
+.prev {
+    font-size: 80%;
+    a {
+        color: $red;
+    }
+}
+
+//     blockquote {
+//         font-style: italic;
+//         text-align: center;
+//     }
+
+//     img {
+//         max-width: 500px;
+//         // width: 100%;
+//         display: block;
+//         margin: 0 auto;
+//     }
+
+//     h2 {
+//         color: $black;
+//         font-weight: bold;
+//     }
+//     h3 {
+//         font-size: 100%;
+//         font-weight: bold;
+//     }
+
+//     .recorded {
+//         font-size: 80%;
+//         color: $gray;
+//     }
+
+//     .episodes {
+//         li {
+//             margin-bottom: 6px;
+//         }
+//         a {
+//             color: $red;
+//         }
+//     }
+// }
+
+// a {
+//     color: $red;
+//     &:hover {
+//         color: $darkred;
+//     }
+// }
+
+// .btn-primary:not(:disabled):not(.disabled):active {
+//     background-color: $darkred;
+// }
+
+
+// .social-icons {
+//     list-style: none;
+//     margin: 0;
+//     padding: 0;
+//     text-align: center;
+//     li {
+//         display: inline-block;
+//         margin-right: 10px;
+//         &:last-child {
+//             margin-right: 0;
+//         }
+//     }
+//     a {
+//         font-size: 3rem;
+//         &:hover {
+//             color: $darkred;
+//         }
+//     }
+// }
+
+// .btn-primary {
+//     background-color: $red;
+//     border: none;
+//     &:hover, &:active {
+//         background-color: $darkred;
+//     }
+// }
+
+
+// .card-image-top {
+//     margin-top: 10px !important;
+//     width: inherit !important;
+// }
+
+// .card {
+//     margin-bottom: 20px;
+// }
+
+// .hero-image {
+//     max-width: 300px !important;
+// }
+
+
+// dl {
+//     dt {
+//         font-weight: bold;
+//         font-style: italic;
+//         font-size: 125%;
+//         border-bottom: solid 2px $red;
+//         color: $red;
+//         margin-bottom: 10px;
+//         margin-top: 1.25em;
+//     }
+
+//     dd {
+//         line-height: 200%;
+//     }
+// }
+
+// a {
+//     cursor: pointer !important;
+// }
+
+
+// #characters a {
+//     margin-bottom: 4px;
+// }
+
+
+// figure {
+//     img {
+//         width: 100%;
+//         max-width: 100% !important;
+//     }
+//     small {
+//         text-align: center;
+//         display: block;
+//     }
+// }
+
+
+// .padding-bottom {
+//     padding-bottom: 20px;
+// }
+
+// // ol { 
+// //     counter-reset: item 
+// //     li {
+// //         display: block;
+// //     }
+// //     li:before {
+// //         content: counters( item, "." ) "";
+// //         counter-increment: item;
+// //     }
+// //     padding: 0;
+// //     ol {
+// //         padding-left: 40px;
+// //     }
+// // }
+// ol ol {
+//     margin-bottom: 10px;
+// }
+
+
+// .character {
+//     clear: both;
+//     &:after {
+//         clear: both;
+//     }
+//     overflow: auto;
+// }
+// .character-image {
+//     float: right;
+//     width: 40%;
+//     border: solid 1px #ddd;
+//     margin-left: 10px !important;
+// }
+// @media screen and (max-width: 758px ){
+//     .character-image {
+//         width: 100% !important;
+//         margin-left: auto;
+//         // border: solid 10px red;
+//     }
+//     #content img {
+//         width: 100% !important;
+//     }
+
+// }
+
+
+// .portraits {
+//     display: flex;
+//     margin-bottom: 2rem;
+//     a {
+//         flex: 1;
+//         width: 13%;
+//         padding: 0 1px 0 1px;
+//         margin: 0;
+//         img {
+//             width: 100%;
+//         }
+//     }
+// }
+
+// .locations {
+//     li {
+//         margin-bottom: 10px;
+//     }
+//     b {
+//         text-decoration: underline;
+//     }
+// }
+
+
+
+
+
+// Updates using the new layout:
+// .row {
+//     display: -webkit-box;
+//     display: -webkit-flex;
+//     display: -ms-flexbox;
+//     display: flex;
+//     flex-wrap: wrap;
+// }
+// .row > [class*='col-'] {
+//     display: flex;
+//     flex-direction: column;
+// }

@@ -1,40 +1,58 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: page
 ---
 
+<h2>Latest Session</h2>
+<div class="latest">
+    {% for post in site.posts limit:1 %}
+        {% if post.adventure contains "calatia" %}
+            {% assign adventure = "Quest for Calatia" %}
+        {% else if post.adventure contains "great-ones" %}
+            {% assign adventure = "The Great Ones" %}
+        {% else  %}
+            {% assign adventure = "One-Shot Adventures" %}
+        {% endif %}
+        {% if post.image %}
+        <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="rounded blog-image">
+        {% endif %}
+        <h3>
+            {{ post.title }}
+        </h3>
 
-<div class="card">
-    <a href="{{ site.url }}/discouraged">
-        <img src="{{ site.url }}/images/logos/great_ones_large.png" alt="The Tales of the Discouraged Logo" class="card-image-top">
-    </a>
-    <div class="card-body">
-        <p class="card-text">
-            The first campaign that takes place in the far away region of Caladmein. It follow the tales of a group of unlikely comrades who are challenged at every turn and find themselves discouraged along the way. This is written in the voice of one of the members, a Warforged named Number Nine.
-        </p>
-    </div>
-</div>
+            <div class="row post-information">
+                <div class="col post-details">
+                    <span class="episode_icon">
+                        <img src="{{ site_url }}/images/calatia_icon.gif">
+                    </span>
+                    <span>
+                        {{ adventure }}
+                    </span>
+                </div>
+                <div class="col post-details">
+                    <i class="fas fa-hashtag"></i>
+                    <span>
+                        Session {{ post.episode }}
+                    </span>
+                </div>
+                <div class="col post-details">
+                    <i class="fas fa-calendar"></i>
+                    <span>
+                        {{ post.recorded | date: '%b %d, %Y'}}
+                    </span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    {{ post.excerpt }}
+                    <p class="text-center">
+                        <a href="{{ post.url }}" class="btn btn-primary">
+                            Read More
+                            <i class="fas fa-chevron-right"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
 
-<div class="card">
-    <a href="{{ site.url }}/calatia">
-        <img src="{{ site.url }}/images/logos/calatia_logo.png" alt="The Quest for Calatia" class="card-image-top">
-    </a>
-    <div class="card-body">
-        <p class="card-text">
-            This is the adventure in Calatia, a country far north of Hyrule, a land of ruins and ice. It is a Legend of Zelda themed campaign.
-        </p>
-    </div>
-</div>
-
-<div class="card">
-    <a href="{{ site.url }}/oneshots">
-        <img src="{{ site.url }}/images/logos/oneshot.png" alt="One Shot Adventures" class="card-image-top">
-    </a>
-    <div class="card-body">
-        <p class="card-text">
-            Sometimes our group runs one-shots, little single-session adventures in various different places.
-        </p>
-    </div>
+    {% endfor %}
 </div>

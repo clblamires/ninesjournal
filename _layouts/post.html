@@ -2,49 +2,42 @@
 <html lang="en">
 {% include head.html  %}
 {% if page.adventure == 'calatia' %}
+    {% assign url = "quest-for-calatia" %}
     {% assign adventure = "Quest for Calatia" %}
-    {% assign episode = "Session" %}
+{% else if page.adventure == "greatones" %}
+    {% assign url = "the-great-ones" %}
+    {% assign adventure = "The Tales of the Great Ones" %}
 {% else %}
-    {% assign adventure = "The Tales of the Discouraged" %}
-    {% assign episode = "Episode" %}
+    {% assign url = "oneshots" %}
+    {% assign adventure = "One-Shot Adventures" %}
 {% endif %}
 <body>
-    
-    {% include navigation.html %}
 
     <div class="container" id="main">
         <div class="row">
-            <div class="col-sm-12" id="content">
-                <p class="prev">
-                    <a href="{{ site.url }}/{{ page.adventure }}">
-                        <i class="fas fa-caret-left"></i>
-                        Back to {{ episode }} List
-                    </a>
-                </p>
-
-                <h2>{{ page.title }}</h2>
-                <h3>{{ episode }} {{ page.episode }}</h3>
-                <p>
-                    {% for tag in page.tags %}
-                        <span class="badge badge-secondary">{{ tag }}</span>
-                    {% endfor %}
-                </p>
-                <p class="recorded">
-                    Recorded {{ page.date | date: '%b %d, %Y' }}
-                </p>
-                {{ content }}
-
-                <p class="prev">
-                    <a href="{{ site.url }}/{{ page.adventure }}">
-                        <i class="fas fa-caret-left"></i>
-                        Back to {{ episode }} List
-                    </a>
-                </p>
-
-                <footer>
-                    {% include footer.html %}
-                </footer>
+            <div class="col-sm-4">
+                {% include navigation.html %}
             </div>
+            <div class="col-sm-8 top-of-page">
+                <p class="prev">
+                    <a href="{{ site.url }}/{{ url }}">
+                        <i class="fas fa-caret-left"></i>
+                        Back to {{ adventure }}
+                    </a>
+                </p>
+                
+                <h2>{{ page.title }}</h2>
+                <p>
+                    Session {{ page.episode }}: {{ page.recorded | date: '%b %d, %Y'}}
+                </p>
+                {% if page.image  %}
+                    <img src="{{ page.image }}" alt="" class="rounded blog-image">
+                {% endif %}
+                {{ content }}
+            </div>
+        </div>
+        <div class="row">
+            {% include footer.html %}
         </div>
     </div>
     

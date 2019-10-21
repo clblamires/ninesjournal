@@ -1,0 +1,116 @@
+{
+    "people": [
+        {
+            "name"  : "Il",
+            "race"  : "Fairy",
+            "class" : "Cleric",
+            "equip" : "Fairy magic",
+            "text"  : "Most fairies produce a soft white or pink glow. Il emits a dark purple color that gets stronger or weaker depending on his mood. He suffers from depression and is almost always bringing down the mood of those around him. He was bound to Captain Miko on Nayru's Blessing and often annoys his comrages. In Calatia, he chose to stay behind with Tarin at the Southern Lighthouse, but left a short time after. His whereabouts are unknown."
+        } ,
+        {
+            "name"  : "Captain Miko",
+            "race"  : "Hylian",
+            "class" : "None",
+            "equip" : "Bombs",
+            "text"  : "Miko was the captain of the merchant ship Nayru's Blessing. It made frequent trips between Hyrule and Calatia. Miko is an old, bumbling Hylian that dresses very nicely and loves food. He was often very jovial, rarely serious. When his ship was attacked, he was mortally wounded. He sent the remainder of his crew away while sacrificing himself to destroy as many of his enemies as he could."
+        },
+        {
+            "name"  : "Zima",
+            "race"  : "Rito",
+            "class" : "Unknown",
+            "equip" : "Bow and arrows",
+            "text"  : "A mercenary in charge of Nayru's Blessing's night crew. She was usually very cold to her subordinates and comrades, speaking rarely to anyone. She mostly stayed in the crow's nest of the ship until the end of her shift. She was last seen by the crew as she flew up to the nest, saying \"Good night\" to them while eying the horizon. She is presumed dead."
+        },
+        {
+            "name"  : "Beedle",
+            "race"  : "Hylian",
+            "class" : "Unknown",
+            "equip" : "Crossbow, various items",
+            "text"  : "Beedle is a traveling merchant from Hyrule. He carries a huge bag full of trinkets, artifacts, and knick-knacks to sell. He was hired by Miko as a mercenary because he owns a crossbow, though it is unlikely he was ever had to use it. In a fight, Beedle usually just gets in the way and fumbles with his weapon. He leaves the group of mercenaries to travel on his own towards Mabel Village to start his merchant business."
+        },
+        {
+            "name"  : "Masked Assailants",
+            "race"  : "Many",
+            "class" : "Cleric, Fighter, and more",
+            "equip" : "Crossbows, maces, swords, magic, etc.",
+            "text"  : "These mysterious enemies dress in dark leather clothes with a mask covering their face. They were responsible for attacking Nayru's Blessing, vanishing by magic when they found some important artifact within its cargo hold. They are very dangerous, claiming that they will soon be a part of a holy war in Calatia."
+        },
+        {
+            "name"  : "Tarin",
+            "race"  : "Hylian",
+            "class" : "None",
+            "equip" : "Scimitar",
+            "text"  : "The caretaker of the Southern Lighthouse. Tarin is a very old man who walks with a cane. He and his wife became caretakers of the Lighthouse when they were young. After his wife passed away, Tarin assumed responsibility of the Lighthouse on his own. The task is simple: keep the light stone in the pedastal. For the most part, Tarin was successful with this, until a swarm of Skulltulas covered the light and allowed a demon to temporarily knock the light out. The mercenaries from Hyrule saved him before anything bad could happen, and the Lighthouse was relit."
+        },
+        {
+            "name"  : "Huk",
+            "race"  : "Bokoblin",
+            "class" : "Sorcerer/Warlock",
+            "equip" : "Magic",
+            "text"  : "Huk is a self-proclaimed Good Bokoblin who runs the Spring of Wellness campground in the Featherwood Forest. His former tribe was very vicious, and Huk's conscience kept him from that path. He seeks to help people as much as he can even though almost everyone hates his kind. Huk's skin is purple, but this is only an illusion. His real skin color is gold, indicative of his extreme combat prowess."
+        },
+        {
+            "name"  : "Ior",
+            "race"  : "Bokoblin",
+            "class" : "Fighter",
+            "equip" : "Ophinia's broken spear",
+            "text"  : "Ior is Huk's son and is also gold-skinned. He acts as a cleaner of the Spring of Wellness and often runs errands for his father, including escorting Beedle to Mabel Village. Unfortunately he was captured and had his left hand cut off. Despite this, he stays in good spirits and helps the mercenaries in other tasks such as protecting Leera. He is very fond of Zedeki and Ophinia, though he acts very shy around them."
+        },
+        {
+            "name"  : "Killiack",
+            "race"  : "Hylian",
+            "class" : "Rogue",
+            "equip" : "Longbow, daggers",
+            "text"  : "A poor fisherman's son in Mabel Village, Killiack does his best to protect his mother and sister after his father's untimely death years ago. Killiack was blackmailed by the mysterious masked assailants into service. His mission was to kill the Hyrulean Mercenaries or his mother and sister would be killed. The mercenaries instead saved him and moved him and his sister away from Mabel Village."
+        },
+        {
+            "name"  : "Leera",
+            "race"  : "Kokiri",
+            "class" : "Sorcerer",
+            "equip" : "Fairy magic",
+            "text"  : "Leera is a kokiri girl with bright green hair. The kokiri should have disappeared long ago, but Leera continues to roam the cold regions in Calatia, moving between towns and being \"adopted\" by different families. She has a little bit of remaining magic and uses it to defend herself when necessary. Leera is over 4,000 years old. Long ago, the Great Deku Tree of Hyrule sent her to Calatia for a purpose she no longer remembers. She longs for her fairy companion."
+        },
+        {
+            "name"  : "Dax",
+            "race"  : "Zora",
+            "class" : "Barbarian/Fighter",
+            "equip" : "Great sword",
+            "text"  : "The Downrigger (and later, Marshal) of Mabel Village. Dax is a tall, blue-skinned Zora with a sword covered in shark teeth. In his position, he intimidates suspicious people who enter the village while also acting as the chief of the town police force. When in a rage, his skin changes to bright red. He interrogates the Hyrulean Mercenaries because he believes them to be colluding with the ravaging Bokoblins, but later comes to trust them. After a change in leadership of Mabel Village, he unwillingly becomes an Interim Marshal of the Loftwing Province."
+        },
+        {
+            "name"  : "Ulrira",
+            "race"  : "Hylian",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee."
+        },
+        {
+            "name"  : "Acheman",
+            "race"  : "Unknown",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "Not much is known about this demonic entity who was apparently responsible for snuffing out the light of the Southern Lighthouse for a night. Tarin described it as a winged demon, and Huk said that he feared it. Dax mentioned to the Hyrulean Mercenaries that an Acheman killed his wife fifty years ago, suggesting that there may be more than one."
+        },
+        {
+            "name"  : "Not the Caretaker",
+            "race"  : "Unknown",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "A mysterious voice spoke to Ophinia while she prayed to Hylia. It claimed to be the Caretaker, but its presence left Ophinia with a discomforting feeling. Later, a specter attacked her, warning her to beware, and leaving her with a similar feeling. She surmised that the voice she heard was only an impersonator, and not the real Caretaker."
+        },
+        {
+            "name"  : "Blind",
+            "race"  : "Hylian/Demon",
+            "class" : "Wizard?",
+            "equip" : "Long sword, fire magic",
+            "text"  : "He used to be a thief, according to anyone's best guess. The thieves in the Mabel City Cistern call Blind their leader. Blind wore a cloth around his eyes that his the darkness in them. He could separate his head from his body and cast fire magic. At first, he tried to trick the Hyrulean Mercenaries into helping him find his daughter, but Ophinia saw through the guise and the mercenaries brought him down. His real name was Tavio."
+        },
+        {
+            "name"  : "Bartimus Brumlee",
+            "race"  : "Hylian",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "The owner and president of the Brumlee Fishing Company. Brumlee is a very rich resident of Mabel Village and is often subsidizing the town's police force and merchants with his own money. He and some of his associates later oust Ulrira as Elder, and Brumlee takes over as Interim Elder until an election can be held. Dax suggests that Brumlee is an honorable man and could be trusted."
+        }
+    ]
+}

@@ -6,12 +6,13 @@ recorded: 'Sept 28, 2019'
 tags: cistern blind spiders rupees
 episode: '7'
 adventure: calatia
+image: 'https://fakeimg.pl/350x200/?text=Hello'
 ---
 The mercenaries awoke in the morning, memories of the ghost from the previous night still fresh in their minds. Ophinia, in fact, looked very pale, but was more than eager to push on and find answers about what had happened to her. After reserving their room for another night, the mercenaries traveled back to Dax's jail house and found him somewhat distressed over some local political disputes. It seemed that the wealthier citizens in town were planning to move against Elder Ulrira and remove him from his position. Nevertheless, Dax was insistent on investigating the sewers for the masked assailants.
 
 This never came to pass. As the party approached the entrance to the sewer system, one of Dax's town guards found them and informed Dax that the overthrow of Ulrira had actually already taken place peacefully while they were walking, and Dax had been promoted to Interim Marshal. As a Marshal, Dax was required to attend the power shift at city hall and would no longer have time to enter the sewers. Zedeki suggested that they assist Dax for a short while and see to the new matters at hand. Dax thanked them for their support and left the town guard to watch over the sewer access.
 
-In city hall, Bartimus Brumlee of the Brumlee Fishing Company sat happily in the Elder's Chair as the newly appointed Interim Elder. The overthrow had truly been quick and painless, with Ulrira stepping aside and immediately vacating the premises. The mercenaries overheard the conversation, learning that Ulrira had poorly managed the money of the town and was bringing it into utter ruin, but an election for a new mayor would take place within days and someone better would then be appointed. 
+In city hall, Bartimus Brumlee of the Brumlee Fishing Company sat happily in the Elder's Chair as the newly appointed Interim Elder. The overthrow had truly been quick and painless, with Ulrira stepping aside and immediately vacating the premises. The mercenaries overheard the conversation, learning that Ulrira had poorly managed the money of the town and was bringing it into utter ruin, but an election for a new mayor would take place within days and someone better would then be appointed.
 
 Dax, who was very displeased to have been appointed to be a Marshal, insisted that Brumlee was an honest man and good for the town. He asked if the mercenaries would be willing to go into the sewers without him if he offered them more money. They agreed, and the former Downrigger gave them a few heart potions just in case they needed them.
 

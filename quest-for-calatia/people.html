@@ -1,0 +1,31 @@
+---
+layout: page
+title: The People of Calatia
+---
+
+<h2>The People of Calatia</h2>
+
+{% include return.html content="quest-for-calatia" %}
+
+{% assign people = site.data.people.people | sort: 'name' %}
+{% for person in people %}
+<div class="people">
+    <h4>{{ person.name }}</h4>
+    <ul>
+        <li>
+            <b>Race</b>: {{ person.race }}
+        </li>
+        <li>
+            <b>Class</b>: {{ person.class }}
+        </li>
+        <li>
+            <b>Equipment</b>: {{ person.equip }}
+        </li>
+    </ul>
+    <p>
+        {{ person.text }}
+    </p>
+</div>
+{% endfor %}
+
+{% include return.html content="quest-for-calatia" %}

@@ -1,40 +1,119 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container">
-        <a class="navbar-brand" href="{{ site.url }}">
-            <i class="fas fa-dice-d20"></i>
-            Number Nine's Journal
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
+<h1 class="text-center">
+    <a href="{{ site_url }}/" id="site-title">
+        <i class="fas fa-dice-d20"></i><br>
+        Nine's Journal
+    </a>
     
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Campaigns
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="{{ site.url }}/discouraged">
-                            The Great Ones
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.url }}/calatia">
-                            Quest for Calatia
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.url }}/oneshots">
-                            One-Shots
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/about">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/contact">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </div>
+</h1>
+
+<nav>
+    <ul class="nav flex-column">
+        <li class="nav-item">
+            <a href="{{ site_url }}/the-great-ones/" class="nav-link">
+               <i class="fas fa-chevron-right fa-fw"></i>
+                The Great Ones
+            </a>
+        </li>
+        {% if page.url contains "the-great-ones" %}
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/numbernine.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Number Nine
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/hebo.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Hebo
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/luna.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Luna
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/ezio.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Ezio
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/petra.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Petra
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/oromis.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Oromis
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/eclipse.html" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Eclipse
+            </a>
+        </li>
+        {% endif %}
+
+
+
+
+
+        <li class="nav-item">
+            <a href="{{ site_url }}/quest-for-calatia/" class="nav-link">
+                <i class="fas fa-chevron-right fa-fw"></i>
+                Quest for Calatia
+            </a>
+        </li>
+        {% if page.url contains "quest-for-calatia" %}
+        <li class="nav-item">
+            <a href="{{ site.url }}/quest-for-calatia/people" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                People of Calatia
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/quest-for-calatia/lore" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Calatian Lore
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/quest-for-calatia/maps" class="nav-link nav-link-small">
+                <i class="fas fa-caret-right"></i>
+                Maps
+            </a>
+        </li>
+        {% endif %}
+
+
+        <li class="nav-item">
+            <a href="{{ site_url }}/oneshots/koroktrials" class="nav-link">
+                <i class="fas fa-chevron-right fa-fw"></i>
+                The Legendary Korok Trials
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site_url }}/oneshots/adventureskeletons" class="nav-link">
+                <i class="fas fa-chevron-right fa-fw"></i>
+                Adventure Skeletons
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site_url }}/about" class="nav-link">
+                <i class="fas fa-chevron-right fa-fw"></i>
+                About
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site_url }}/contact" class="nav-link">
+                <i class="fas fa-chevron-right fa-fw"></i>
+                Contact
+            </a>
+        </li>
+    </ul>
 </nav>
