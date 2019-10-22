@@ -69,6 +69,11 @@ nav {
             // font-size: 80%;
         }
     }
+    .oneshot-link {
+        font-size: smaller;
+        color: $gray;
+        text-indent: 25px;
+    }
 }
 
 .top-of-page {
@@ -146,11 +151,17 @@ p {
     width: 100%;
     max-width: 270px;
     margin: 10px;
+    border: solid 2px $black;
 }
 
 .character {
     span {
         font-weight: bold;
+    }
+    &:after {
+        content: "";
+        clear: both;
+        display: table;
     }
 }
 
@@ -166,6 +177,8 @@ figcaption {
     color: $red !important;
     font-weight: bold;
 }
+
+
 
 // nav {
 //     color: $red;
