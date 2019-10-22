@@ -14,7 +14,7 @@
                 The Great Ones
             </a>
         </li>
-        {% if page.url contains "the-great-ones" %}
+        {% if page.url contains "the-great-ones" or page.adventure == "greatones" %}
         <li class="nav-item">
             <a href="{{ site.url }}/party/numbernine.html" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
@@ -69,7 +69,7 @@
                 Quest for Calatia
             </a>
         </li>
-        {% if page.url contains "quest-for-calatia" %}
+        {% if page.url contains "quest-for-calatia" or page.adventure == "calatia" %}
         <li class="nav-item">
             <a href="{{ site.url }}/quest-for-calatia/people" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
@@ -92,9 +92,9 @@
 
 
         <li class="nav-item">
-            <a href="{{ site_url }}/oneshots/koroktrials" class="nav-link">
+            <a href="{{ site_url }}/oneshots/koroktrial" class="nav-link">
                 <i class="fas fa-chevron-right fa-fw"></i>
-                The Legendary Korok Trials
+                The Legendary Korok Trial
             </a>
         </li>
         <li class="nav-item">

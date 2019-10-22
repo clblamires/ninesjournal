@@ -8,10 +8,13 @@ layout: page
     {% for post in site.posts limit:1 %}
         {% if post.adventure contains "calatia" %}
             {% assign adventure = "Quest for Calatia" %}
+            {% assign session = "Session " | append: post.episode %}
         {% else if post.adventure contains "great-ones" %}
             {% assign adventure = "The Great Ones" %}
+            {% assign session = "Session " | append: post.episode %}
         {% else  %}
             {% assign adventure = "One-Shot Adventures" %}
+            {% assign session = "" %}
         {% endif %}
         {% if post.image %}
         <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="rounded blog-image">
@@ -19,40 +22,18 @@ layout: page
         <h3>
             {{ post.title }}
         </h3>
-
-            <div class="row post-information">
-                <div class="col post-details">
-                    <span class="episode_icon">
-                        <img src="{{ site_url }}/images/calatia_icon.gif">
-                    </span>
-                    <span>
-                        {{ adventure }}
-                    </span>
-                </div>
-                <div class="col post-details">
-                    <i class="fas fa-hashtag"></i>
-                    <span>
-                        Session {{ post.episode }}
-                    </span>
-                </div>
-                <div class="col post-details">
-                    <i class="fas fa-calendar"></i>
-                    <span>
-                        {{ post.recorded | date: '%b %d, %Y'}}
-                    </span>
-                </div>
+        <h5>{{ adventure }} {{ session }}</h5>
+        <div class="row">
+            <div class="col">
+                {{ post.excerpt }}
+                <p class="text-center">
+                    <a href="{{ post.url }}" class="btn btn-primary">
+                        Read More
+                        <i class="fas fa-chevron-right"></i>
+                    </a>
+                </p>
             </div>
-            <div class="row">
-                <div class="col">
-                    {{ post.excerpt }}
-                    <p class="text-center">
-                        <a href="{{ post.url }}" class="btn btn-primary">
-                            Read More
-                            <i class="fas fa-chevron-right"></i>
-                        </a>
-                    </p>
-                </div>
-            </div>
+        </div>
 
     {% endfor %}
 </div>
