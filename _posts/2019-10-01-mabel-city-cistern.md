@@ -6,7 +6,6 @@ recorded: 'Sept 28, 2019'
 tags: cistern blind spiders rupees
 episode: '7'
 adventure: calatia
-image: 'https://fakeimg.pl/350x200/?text=Hello'
 ---
 The mercenaries awoke in the morning, memories of the ghost from the previous night still fresh in their minds. Ophinia, in fact, looked very pale, but was more than eager to push on and find answers about what had happened to her. After reserving their room for another night, the mercenaries traveled back to Dax's jail house and found him somewhat distressed over some local political disputes. It seemed that the wealthier citizens in town were planning to move against Elder Ulrira and remove him from his position. Nevertheless, Dax was insistent on investigating the sewers for the masked assailants.
 
