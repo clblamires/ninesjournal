@@ -15,7 +15,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Recorded Date", name: "recorded", widget: "string", default: "Month 01, 2019"}
-      - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Episode", name: "episode", widget: "string"}
       - {label: "Adventure", name: "adventure", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

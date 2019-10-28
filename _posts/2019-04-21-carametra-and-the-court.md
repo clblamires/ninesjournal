@@ -5,7 +5,7 @@ date: 2019-04-21T02:00:32.530Z
 recorded: 'April 20, 2019'
 tags: simurgh magic feathers songs court
 episode: '6'
-adventure: discouraged
+adventure: greatones
 ---
 Hebo did not remember dying, which was probably a good thing. Despite his burns and ruined clothes, he seemed in good spirits. Eclipse and I bound his and Ezio’s wounds. Petra and Luna brought in Spoink from outside the cave while Oromis searched the cave. He found a few long-dead bodies, victims of the Chimera, with nothing more than broken swords and empty quivers. He did, however, find an interesting cloak, a metallic arrow, and a wand of some kind. While the group rested for the night, I performed a ritual to identify these things. Hebo took the cloak, a cloak that changes color according to Hebo’s desires. The arrow is infused with magic to make it entirely unbreakable. Oromis gave it to Ezio as he was the only one of us with a bow. The wand is a Wand of Smiles, an interesting magical device that forces a victim to smile. I am fortunate to be made of metal, stone, and wood. I cannot smile and therefore cannot succumb to this kind of magic.
 

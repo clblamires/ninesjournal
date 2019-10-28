@@ -5,7 +5,7 @@ date: 2019-08-07T23:11:34.679Z
 recorded: 'August 3, 2019'
 tags: ship fishing bounty
 episode: '10'
-adventure: discouraged
+adventure: greatones
 ---
 Mist rose over Lotus Lake in the morning. My companions awoke at the first sign of light, having slept through the afternoon, evening, and night of the previous day. They were still stiff and sore from their injuries, and I had only just barely finished repairing my body and coat. But dawn had approached nonetheless, and we had things to do.
 

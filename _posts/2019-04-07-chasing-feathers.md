@@ -5,7 +5,7 @@ date: 2019-04-07T02:00:00.000Z
 recorded: 'April 6, 2019'
 tags: death chimera simurgh cave
 episode: '5'
-adventure: 'discouraged'
+adventure: 'greatones'
 ---
 Our party journeyed out of the underground tunnels with the people we saved: Hebo’s farmer, an old woman from some far away town, a young boy, a young man from Vagrant’s Rest down south, and a young woman from Oakshade. Our group was not sure what to do with these people. They all come from different parts of Caladmein and we could not return them all to their towns. While we debated, we came upon our rope that led us out of the hole. Ezio, Hebo, and I climbed up first. Our horses and Spoink were still there with our cart, but there was a campfire nearby.
 

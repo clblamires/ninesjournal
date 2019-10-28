@@ -5,7 +5,7 @@ date: 2019-05-26T01:30:00.000Z
 recorded: 'May 25, 2019'
 tags: snakes eclipse spoink teahouse
 episode: '7'
-adventure: discouraged
+adventure: greatones
 ---
 Traveling to Lotus Lake progressively became more eventful as the days came and went. Hebo and Oromis had become very fast friends, teasing each other most of the way. Ezio and I were constantly on the lookout. Petra, Luna, and Eclipse stayed in the wagon and talked with one another the entire time. The sun shone during the day, and the stars were beautifully clear at night.
 

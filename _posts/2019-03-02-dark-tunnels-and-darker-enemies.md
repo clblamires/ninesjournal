@@ -5,7 +5,7 @@ date: '2019-03-02 18:00:00 -0700'
 recorded: 'March 2, 2019'
 tags: thundercannon kraul darkvision treasure bagofholding
 episode: 3
-adventure: discouraged
+adventure: greatones
 ---
 Our journey to the mountains as we followed the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper behavior.
 

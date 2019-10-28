@@ -5,7 +5,7 @@ date: 2019-07-27T18:25:42.108Z
 recorded: 'July 27, 2019'
 tags: heroes abomination monk bad-cop
 episode: '9'
-adventure: discouraged
+adventure: greatones
 ---
 Outnumbered. Outmatched. Outmaneuvered.
 

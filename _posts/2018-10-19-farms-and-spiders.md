@@ -5,7 +5,7 @@ date: '2018-03-12 19:00:00 -0700'
 recorded: 'October 20, 2018'
 tags: spiders farm wizard
 episode: 1
-adventure: discouraged
+adventure: greatones
 ---
 I have been traveling a long time now. My travels brought me to this place, Oakshade. It is a peaceful hamlet, nice enough that I could find work here. This story begins as I entered Oakshade as I encountered the people who would become my traveling companions.
 

@@ -5,7 +5,7 @@ date: 2019-07-02T04:28:42.983Z
 recorded: 'June 22, 2019'
 tags: snake sacrifice mountain battle
 episode: '8'
-adventure: discouraged
+adventure: greatones
 ---
 We only saw the aftermath of the attack by the Yuan-Ti. A few houses were burning, and people were frantically carrying buckets from Lotus Lake to quench the fire. We looked around and, not finding any other snake demons, went to help the townspeople. Oromis and I began hauling buckets of water from the lake while Petra cast ice magic. Eclipse began tending to the wounded. Hebo and Luna began helping others to look for other people. I do not know where Ezio went initially, but he later informed me that he was still looking for any sign of the enemy.
 

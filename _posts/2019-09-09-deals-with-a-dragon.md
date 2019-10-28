@@ -5,7 +5,7 @@ date: 2019-09-09T15:20:27.924Z
 recorded: 'Sept 2, 2019'
 tags: dragon skeletons glyph-trap caves
 episode: '12'
-adventure: discouraged
+adventure: greatones
 ---
 The green dragon bellowed. It spoke to Oromis in the Common tongue: "I have not eaten a dwarf in a very long time." Oromis fumbled over his words, trying to shield Eclipse while the rest of us gazed in awe. It was not a large dragon by any means. Not like I had seen many years ago. But a young dragon is just as dangerous and cunning as their elders. Even more so because a young dragon is haughty and perhaps not as cautious as it should be.
 
