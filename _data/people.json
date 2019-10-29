@@ -92,16 +92,9 @@
             "text"  : "Not much is known about this demonic entity who was apparently responsible for snuffing out the light of the Southern Lighthouse for a night. Tarin described it as a winged demon, and Huk said that he feared it. Dax mentioned to the Hyrulean Mercenaries that an Acheman killed his wife fifty years ago, suggesting that there may be more than one."
         },
         {
-            "name"  : "Not the Caretaker",
-            "race"  : "Unknown",
-            "class" : "Unknown",
-            "equip" : "Unknown",
-            "text"  : "A mysterious voice spoke to Ophinia while she prayed to Hylia. It claimed to be the Caretaker, but its presence left Ophinia with a discomforting feeling. Later, a specter attacked her, warning her to beware, and leaving her with a similar feeling. She surmised that the voice she heard was only an impersonator, and not the real Caretaker."
-        },
-        {
             "name"  : "Blind",
             "race"  : "Hylian/Demon",
-            "class" : "Wizard?",
+            "class" : "Wizard",
             "equip" : "Long sword, fire magic",
             "text"  : "He used to be a thief, according to anyone's best guess. The thieves in the Mabel City Cistern call Blind their leader. Blind wore a cloth around his eyes that his the darkness in them. He could separate his head from his body and cast fire magic. At first, he tried to trick the Hyrulean Mercenaries into helping him find his daughter, but Ophinia saw through the guise and the mercenaries brought him down. His real name was Tavio."
         },
@@ -111,6 +104,20 @@
             "class" : "Unknown",
             "equip" : "Unknown",
             "text"  : "The owner and president of the Brumlee Fishing Company. Brumlee is a very rich resident of Mabel Village and is often subsidizing the town's police force and merchants with his own money. He and some of his associates later oust Ulrira as Elder, and Brumlee takes over as Interim Elder until an election can be held. Dax suggests that Brumlee is an honorable man and could be trusted."
+        },
+        {
+            "name"  : "The Grave Child",
+            "race"  : "Currently Hylian",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "Not much is known about the Grave Child, other than she appears as a ash-skinned Hylian girl. It appears that the body may simply be possessed, though, and is not the Grave Child itself. She claims to be in service of a master who its followers call 'Cruel'. She strangely thanks the sentinels for their help and service to Cruel in killing the masked assailants. It was the Grave Child who spoke to Ophinia while she tried to pray to Hylia, intending on testing the Paladin's resolve before asking her to align with Cruel."
+        },
+        {
+            "name"  : "Cruel",
+            "race"  : "Unknown",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "An unknown entity whom the Grave Child serves. According to the Grave Child, the masked assailants also claim to be in Cruel's service, though their quest does not align with Cruel's. Beyond this, nothing else is known about it."
         }
     ]
 }
