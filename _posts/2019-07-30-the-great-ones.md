@@ -14,7 +14,7 @@ From my vantage point down on the cliff, I saw Oromis draw his axe towards Petra
 
 I meant to follow them up the mountain, but was distracted by what I saw to my right. Luna, Hebo, Spoink, and Ezio had gone in that direction, and I saw another Yuan-Ti monster giving them chase. I turned towards the monster instead.
 
-On that side of the mountain, my companions fought off their own attackers. Luna drew one away, making magical copies of herself to fend off the attacks. Hebo and Ezio teamed up to weaken another while I shot it in the spine. Hebo fired a bolt as Luna cursed her attacker with a loud boom. It was stunned and tried to move away, but the lingering injury snuffed out its life like breath to a candle. With our enemies dead, we drew up to the summit to join Oromis, Petra, and Eclipse.
+On that side of the mountain, my companions fought off their own attackers. Luna drew one away, making magical copies of herself to fend off the attacks. Hebo and Ezio teamed up to weaken another while I shot it in the spine. Hebo fired a bolt as Luna cursed her attacker with a loud boom. It was stunned and tried to move away, but the lingering injury caused it to teeter and fall. With our enemies dead, we drew up to the summit to join Oromis, Petra, and Eclipse.
 
 We were surprised to find an ally helping us: a monk named Rioma was contending with the abomination that led the Yuan-Ti, a humanoid carrying all manner of instruments of death in its serpentine arms. The monk was badly wounded, but we used the distraction of the leader to our advantage and worked to eliminate its companions. Ezio and Hebo rained arrows upon it. Petra and Luna cast all manner of magic. I took my shots from afar. Oromis and Eclipse rushed it with their weapons drawn.
 
