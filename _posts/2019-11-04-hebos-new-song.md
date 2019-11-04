@@ -6,9 +6,10 @@ recorded: 'Nov 2, 2019'
 episode: '14'
 adventure: greatones
 ---
-## **Part One: The Plan**
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.
+
+## **Part One: The Plan**
 
 Oromis thought of a different approach. What if we attacked first? He was a soldier, after all, and could think of a smart way for us to catch the dragon unawares. His plan seemed simple enough: give the dragon a _fake_ scroll. While the dragon was inspecting it, we could surround it and take it down.
 
@@ -94,11 +95,13 @@ Renshato landed on the ship, trying to take cover from the arrows. He turned to 
 
 Petra, still down on the beach, began laughing at the dragon. She translated the message for me later: “Poor Renshato! We are the Great Ones! Look at yourself! You are a disgrace to our kind!”
 
-Renshato inhaled deeply and prepared another poisonous breath attack. As he inhaled, another arrow rammed into his throat. He caughted and hacked, unable to breathe. Renshato regarded us and knew that he would not survive against us any longer. Dragons are unpredictable, yes, but so are the Great Ones. With blood pouring from his injuries, Renshato fled. He flew up into the air away from us. 
+Renshato inhaled deeply and prepared another poisonous breath attack. As he inhaled, another arrow rammed into his throat. He caughted and hacked, unable to breathe. Renshato regarded us and knew that he would not survive against us any longer. Dragons are unpredictable, yes, but so are the Great Ones. With blood pouring from his injuries, Renshato fled. He flew up into the air away from us.
 
 “The cannon!” shouted Oromis from the beach. “Nine! Ezio! Keep shooting! Petra, keep it busy!”
 
-Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing the dragon’s direction, Petra summoned a ball of fire and sent it in front of Renshato. The injured dragon reacted by slowing down and dodging. As he did, Eclipse aimed the cannon. Hebo flipped onto it, hands in the air, and shouted bad words in Goblin-tongue. He snapped his fingers, igniting the cannon. The sound of the cannon outclassed even my own thunder cannon. An explosive blast of gunpowder and smoke erupted from the cannon, but Hebo balanced and watched.
+Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing the dragon’s direction, Petra summoned a ball of fire and sent it in front of Renshato. The injured dragon reacted by slowing down and dodging. 
+
+As he did, Eclipse aimed the cannon. Hebo flipped onto it, hands in the air, and shouted bad words in Goblin-tongue. He snapped his fingers, igniting the cannon. An explosive blast of gunpowder and smoke erupted from the cannon, but Hebo balanced and watched.
 
 In the dark, we could barely make out the shape of the retreating dragon as the cannonball slammed into it. The dragon crashed into the woods. Soon after, the sounds came to us. We heard the sound of the dragon’s spine shattering from the cannonball, the sound of the crash into the trees and the splintering of wood. We heard a faint, weak roar. And then, silence.
 

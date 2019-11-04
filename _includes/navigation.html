@@ -9,50 +9,55 @@
 <nav>
     <ul class="nav flex-column">
         <li class="nav-item">
-            <a href="{{ site_url }}/the-great-ones/" class="nav-link">
+            <a href="{{ site_url }}/the-great-ones/#greatones" class="nav-link">
                <i class="fas fa-chevron-right fa-fw"></i>
                 The Great Ones
             </a>
         </li>
         {% if page.url contains "the-great-ones" or page.adventure == "greatones" %}
         <li class="nav-item">
-            <a href="{{ site.url }}/party/numbernine.html" class="nav-link nav-link-small">
+            <a href="{{ site_url }}/the-great-ones/#episodes" class="nav-link nav-link-small">
+                Episode List
+            </a>
+        </li>
+        <li class="nav-item">
+            <a href="{{ site.url }}/party/numbernine.html#nine" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Number Nine
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/hebo.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/hebo.html#hebo" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Hebo
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/luna.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/luna.html#luna" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Luna
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/ezio.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/ezio.html#ezio" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Ezio
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/petra.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/petra.html#petra" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Petra
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/oromis.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/oromis.html#oromis" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Oromis
             </a>
         </li>
         <li class="nav-item">
-            <a href="{{ site.url }}/party/eclipse.html" class="nav-link nav-link-small">
+            <a href="{{ site.url }}/party/eclipse.html#eclipse" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>
                 Eclipse
             </a>
@@ -64,12 +69,17 @@
 
 
         <li class="nav-item">
-            <a href="{{ site_url }}/quest-for-calatia/" class="nav-link">
+            <a href="{{ site_url }}/quest-for-calatia/#calatia" class="nav-link">
                 <i class="fas fa-chevron-right fa-fw"></i>
                 Quest for Calatia
             </a>
         </li>
         {% if page.url contains "quest-for-calatia" or page.adventure == "calatia" %}
+        <li class="nav-item">
+            <a href="{{ site_url }}/quest-for-calatia/#episodes" class="nav-link nav-link-small">
+                Episode List
+            </a>
+        </li>
         <li class="nav-item">
             <a href="{{ site.url }}/quest-for-calatia/people" class="nav-link nav-link-small">
                 <i class="fas fa-caret-right"></i>

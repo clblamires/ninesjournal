@@ -160,6 +160,18 @@ blockquote {
     border: solid 2px $black;
 }
 
+@media (max-width: 576px) {
+    .character-image {
+        display: block;
+        margin: 0 auto;
+        float: none;
+    }
+
+    #main {
+        margin: 0;
+    }
+}
+
 .character {
     span {
         font-weight: bold;

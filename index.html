@@ -3,7 +3,6 @@ title: Home
 layout: page
 ---
 
-<h2 class="text-center">Latest Session</h2>
 <div class="latest">
     {% for post in site.posts limit:1 %}
         {% if post.adventure contains "calatia" %}
@@ -17,7 +16,7 @@ layout: page
         <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="rounded blog-image">
         {% endif %}
         <h3>
-            {{ post.title }}
+            Latest Episode: {{ post.title }}
         </h3>
         <h5>{{ adventure }} {{ session }}</h5>
         <div class="row">
