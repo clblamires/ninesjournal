@@ -28,7 +28,7 @@ Here is the plan:
 
 This plan did not work. Not because of our lack of planning or preparation, but because of exactly what we initially feared: dragons are unpredictable.
 
-****
+- - -
 
 ## **Part Two: Emissaries**
 
@@ -53,8 +53,6 @@ I turned to Eclipse and Hebo. “Is this cannon prepared to fire?” They both n
 When I turned back to the beach and the treeline, Ezio had vanished. Oromis and Petra were next to each other, speaking. Luna waved to me and pointed to the sky. 
 
 The dragon was coming.
-
-
 
 ## Part Three: The Cannon
 
@@ -102,8 +100,6 @@ Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing t
 
 In the dark, we could barely make out the shape of the retreating dragon as the cannonball slammed into it. The dragon crashed into the woods. Soon after, the sounds came to us. We heard the sound of the dragon’s spine shattering from the cannonball, the sound of the crash into the trees and the splintering of wood. We heard a faint, weak roar. And then, silence.
 
-
-
 ## Part Four: Collection
 
 “I killed a dragon!” exclaimed Hebo, jumping up and down and hugging Cloud and Gift. Soul seemed relieved, more than any of us. Oromis, chuckling to himself about how the plan did not work as intended, took me and Eclipse with him to gather the belongings of the dead Kobolds. Petra wanted to investigate the body of Renshato and took Luna and Eclipse with her.
@@ -124,6 +120,6 @@ When we had finished our grisly work, we returned to the Cat’s Tail. I created
 
 Hebo’s music was always very pleasant to hear. “What’s the song called?”
 
-Hebo stopped writing and turned to me, smiling with his sharp teeth. Not a mischievous smile, though. Hebo is always so sincere. “It’s called ‘Hebo Tells You a Tale of a Big Dragon Tail.”
+Hebo stopped writing and turned to me, smiling with his sharp teeth. Not a mischievous smile, though. Hebo is always so sincere. “It’s a secret! I'll tell you when it's done.”
 
 I would have smiled if I had a mouth.
