@@ -3,7 +3,6 @@ layout: post
 title: The Great Ones
 date: 2019-07-27T18:25:42.108Z
 recorded: 'July 27, 2019'
-tags: heroes abomination monk bad-cop
 episode: '9'
 adventure: greatones
 ---
@@ -11,7 +10,7 @@ Outnumbered. Outmatched. Outmaneuvered.
 
 Nevertheless, we fought. We could not leave these people behind, those captured by the Yuan-Ti. These people should mean nothing to me, except that the leader of Lotus Lake offered money for their rescue and the death of the monsters. Without us, these people would die in whatever ceremony we had interrupted. I cannot let that happen.
 
-From my vantage point down on the cliff, I saw Oromis draw his axe towards Petra and Eclipse. Last night at the tea house, Oromis had been cursed by one of these snake monsters. It was happening again, and Oromis's struggle was plain on is face. Eclipse quickly protected Petra with her magic just as Petra took the blow. The magic controlling Oromis faced and he glowed with a murderous rage, spitting a short apology to Petra as he rushed to the summit. I fired another shot from my cannon, utterly wasting one of the Yuan-Ti archers, and hastily cast a protection spell on Oromis. Though bleeding, Petra fired a bolt of fire and turned another archer to ash. Eclipse ran after Oromis, giving him cover with her spiritual weapon.
+From my vantage point down on the cliff, I saw Oromis draw his axe towards Petra and Eclipse. Last night at the tea house, Oromis had been cursed by one of these snake monsters. It was happening again, and Oromis's struggle was plain on is face. Eclipse quickly protected Petra with her magic just as Petra took the blow. The magic controlling Oromis faded and he glowed with a murderous rage, spitting a short apology to Petra as he rushed to the summit. I fired another shot from my cannon, utterly wasting one of the Yuan-Ti archers, and hastily cast a protection spell on Oromis. Though bleeding, Petra fired a bolt of fire and turned another archer to ash. Eclipse ran after Oromis, giving him cover with her spiritual weapon.
 
 I meant to follow them up the mountain, but was distracted by what I saw to my right. Luna, Hebo, Spoink, and Ezio had gone in that direction, and I saw another Yuan-Ti monster giving them chase. I turned towards the monster instead.
 
