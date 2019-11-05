@@ -9,7 +9,7 @@ adventure: greatones
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.
 
-## **Part One: The Plan**
+## Part One: The Plan
 
 Oromis thought of a different approach. What if we attacked first? He was a soldier, after all, and could think of a smart way for us to catch the dragon unawares. His plan seemed simple enough: give the dragon a _fake_ scroll. While the dragon was inspecting it, we could surround it and take it down.
 
@@ -29,9 +29,7 @@ Here is the plan:
 
 This plan did not work. Not because of our lack of planning or preparation, but because of exactly what we initially feared: dragons are unpredictable.
 
-- - -
-
-## **Part Two: Emissaries**
+## Part Two: Emissaries
 
 Before we could initiate the battle plan, we would rest for the night. The sun was fully down on the mysterious island and fighting the dragon at night would put us at a disadvantage. Eclipse, Hebo, Luna, Oromis, and Petra stood on the deck of the ship with the loaded cannon. They would watch the skies while Ezio and I headed for the tree line. From here we thought we could get an alternate line of sight if the dragon suddenly appeared.
 
@@ -79,9 +77,9 @@ Oromis stammered, caught off guard by the question. “The... the cave. There we
 
 “Give it to me,” growled Renshato. Oromis instinctively took a step back. "No, no, dwarf. Stay where you are. Drop the axe. I want it."
 
-“Now,” I said to Hebo. I sent a message to Ezio. “It is time.”
+“Now,” I said to Hebo. We sent the message to our allies. “It is time.”
 
-Oromis laughed, unafraid. “You want this axe?” he said. “Very well, I’ll introduce you!”
+Oromis suddenly laughed, unafraid. “You want this axe?” he said. “Very well, I’ll introduce you!”
 
 He launched himself forward at the dragon. Renshato moved to dodge, but my cannon struck him in the back of the head and he crumbled to the ground, roaring in pain. Oromis leapt into the air and drove the axe down into Renshato’s shoulder. An arrow from Ezio’s hidden location struck the dragon in the face. 
 
