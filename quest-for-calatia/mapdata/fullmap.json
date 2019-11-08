@@ -1,0 +1,39 @@
+{
+    "name" : "Map of Calatia",
+    "description" : "Calatia is a cold and frigid region in the far north of the world, far beyond Hyrule. In ancient legends, it is said that the country was created by the Three Golden Goddesses as a resting place before they traveled to the stars. The country was originally a great world power until an event called 'The Great Disaster' ruined much of it, creating the Break and leaving much of the north in utter ruin. Today, it is a country of miners, fishers, and farmers, all struggling to survive against the cold.",
+    "image" : "calatia_map.jpg",
+    "areas" : [
+        {
+            "name" : "Central Province",
+            "text" : ""
+        },
+        {
+            "name" : "Kingdom's Edge",
+            "text" : ""
+        },
+        {
+            "name" : "Loftwing Province",
+            "text": ""
+        },
+        {
+            "name" : "Lynna Province",
+            "text" : ""
+        },
+        {
+            "name" : "Mudora Territory",
+            "text" : ""
+        },
+        {
+            "name" : "Old Calatia",
+            "text" : ""
+        },
+        {
+            "name" : "Soutuna Province",
+            "text" : ""
+        },
+        {
+            "name" : "The Outlands",
+            "text" : ""
+        }
+    ]
+}

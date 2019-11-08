@@ -1,0 +1,40 @@
+{
+    "name" : "Central Province",
+    "description" : "Like the name suggests, this is the central region of Calatia and home to the Calatian Royalty. The greatest city of the country is located in the Central Province: Meridia. Though Meridia is the largest city, the capital of the Central Province is in Chorus of Angels. Chorus is also where the Greenkeep is located, the great castle of the Queen. Warriors and adventurers from all over the country travel to the Knights Academy to become Sentinels or join the Calatian army.",
+    "image" : "central.jpg",
+    "areas" : [
+        {
+            "name" : "Chorus of Angels",
+            "text": "The capital of Calatia! This city was founded after the Great Disaster had destroyed much of the country to the north. The builders of the city claimed that their work was accompanied by the sound of singing, though the source of music could never be verified. The Queen's castle, the Greenkeep, is in the center of Chorus."
+        },
+        {
+            "name" : "Knights Academy",
+            "text": "This is where the Knights of Calatia train. The Knights make up a majority of the Calatian army. The rest are Marshals, Sentinels, and, recently, the Courageous."
+        },
+        {
+            "name" : "Queen's Gardens",
+            "text": "A private wooded area that only a select few may enter."
+        },
+        {
+            "name" : "Meridia",
+            "text": "Calatia's largest city, Meridia is located in the center of the country. The residents earn their money primarily through the mines in the Meridia Mountains. "
+        },
+        {
+            "name" : "Fable Mountain",
+            "text": "This mountain was a legendary place to commune with the Caretaker, but it has been quiet for many years."
+        },
+        {
+            "name" : "Ironwood",
+            "text": "A strange forest known for its particularly resilient trees. Houses or items crafted with ironwood are extremely expensive."
+        },
+        {
+            "name" : "Highburn",
+            "text": "A fortress on the borders of the Outlands. Only those with a writ from the Queen may pass its walls."
+        }
+        ,
+        {
+            "name" : "Meridia Mountains",
+            "text": "A series of mountains in Central Calatia, known for their vast mines and riches."
+        }
+    ]
+}

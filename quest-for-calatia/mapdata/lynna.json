@@ -1,0 +1,31 @@
+{
+    "name" : "Lynna Province",
+    "description" : "This is the western region of Calatia (not including the Outlands). It is abundantly populated, though this population dwindles as one gets closer to the Outlands. The people here are outwardly very friendly.",
+    "image" : "lynna.jpg",
+    "areas" : [
+        {
+            "name" : "Lynna",
+            "text": "This is the capital of the province. It is built near the border of the Outlands. Because of this proximity, the people are constantly on edge."
+        },
+        {
+            "name" : "Arisia",
+            "text": "A peaceful town just past the Arisia Passage."
+        },
+        {
+            "name" : "Lynna Highlands",
+            "text": "A range of mountains separating the Lynna and Central provinces, known for their mining companies."
+        },
+        {
+            "name" : "Arisia Passage",
+            "text": "A forested area that surrounds the Queens's Road."
+        },
+        {
+            "name" : "Porre Mountains",
+            "text": "A range of mountains that separate the Lynna and Loftwing provinces. "
+        },
+        {
+            "name" : "West Woods",
+            "text": "A small forest near the sea, known for their hunting grounds."
+        }
+    ]
+}

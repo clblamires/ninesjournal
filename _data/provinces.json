@@ -1,0 +1,36 @@
+{
+    "provinces" : [
+       {
+           "name" : "Loftwing Province",
+           "id" : "loftwing"
+       },
+       {
+           "name" : "Soutuna Province",
+           "id" : "soutuna"
+       },
+       {
+           "name" : "Central Province",
+           "id" : "central"
+       },
+       {
+           "name" : "Lynna Province",
+           "id" : "lynna"
+       },
+       {
+           "name" : "Mudora Territory",
+           "id" : "mudora"
+       },
+       {
+           "name" : "Kingdom's Edge",
+           "id" : "kingdomsedge"
+       },
+       {
+           "name" : "The Outlands",
+           "id" : "outlands"
+       },
+       {
+           "name" : "Old Calatia",
+           "id" : "oldcalatia"
+       }
+    ]
+}

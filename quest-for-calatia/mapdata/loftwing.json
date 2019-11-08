@@ -1,0 +1,39 @@
+{
+    "name" : "Loftwing Province",
+    "description" : "The Loftwing Province is named after the great loftwing birds that roost in the southern mountains at Skygarden. It is generally considered one of the most impoverished provinces in Calatia. Over a thousand years ago, this area was the capital of Calatia. During the Rush, this southern area was entirely abandoned and its cities fell to ruin. After the Great Disaster, new villages were founded on the ruins.",
+    "image" : "loftwing.jpg",
+    "areas" : [
+        {
+            "name" : "Skygarden",
+            "text": "This is the capital of the province and is the home of mostly Rito and Gerudo. This city has the most successful economy in the province. The city is considered to be unfriendly and unwelcoming to newcomers."
+        },
+        {
+            "name" : "Mabel",
+            "text" : "A very small fishing village with a high rate of homelessness and poverty. Mabel Village was founded over the ruins of the great Mabel City of historic Calatia, but few remember this. Deep below the village is an ancient Sheikah cistern meant for collecting fresh water. The economy is driven by fishing, especially during the winter months."
+        },
+        {
+            "name" : "Oldtown",
+            "text" : "Another town built on the ruins of an ancient Calatian city, of which no record of its former name exists. The people of Oldtown are extremely religious and have built many churches and cathedrals to the Caretaker. The government of the town is run by the Var (High Priest of the Church)."
+        },
+        {
+            "name" : "Kanalet",
+            "text" : "The largest town in the province, Kanalet is known mostly as a farming community."
+        },
+        {
+            "name" : "Southern Lighthouse",
+            "text" : "The legends say that the lighthouses keep the darkness at bay. This lighthouse is guarded by a solitary caretaker and is supplied by Oldtown and Mabel. "
+        },
+        {
+            "name" : "Blackbite Woods",
+            "text" : "Also called the 'Mysterious Woods' by the villagers in Mabel, these woods are considered extremely dangerous if travelers ever leave the path. There are rumors of hauntings, strange voices, or monsters on the roads, but a safehouse supposedly exists halfway through."
+        },
+        {
+            "name" : "Hokani Mountains",
+            "text" : "This mountain range separates Skygarden from the northern part of the province and the rest of Calatia. An ancient town is rumored to be in the mountains, in which a temple to the god Paraba was supposedly built. No records of this town or the temple exist."
+        },
+        {
+            "name" : "Lellow Prairie",
+            "text" : "A large region of farmland."
+        }
+    ]
+}

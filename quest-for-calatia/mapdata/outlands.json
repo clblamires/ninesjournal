@@ -1,0 +1,27 @@
+{
+    "name" : "The Outlands",
+    "description" : "When Calatia was destroyed in the Great Disaster, some of its regions receded from the remains of the country. This area was named 'The Outlands' when it became clear that the people living here were no longer abiding by Calatian law. Residents of the Outlands do not take kindly to outsiders.",
+    "image" : "outlands.jpg",
+    "areas" : [
+        {
+            "name" : "Reesong",
+            "text": "The largest settlement in the Outlands. Reesong, unlike the rest of the Outlands, operates on a moral code of honor."
+        },
+        {
+            "name" : "Thieves' Blockade",
+            "text": "This fortress sits opposite the Highburn Fortress and acts as a barricade to entrants into the Outlands."
+        },
+        {
+            "name" : "Western and Eastern Splits",
+            "text": "During the Great Disaster, this great mountain range was split into two parts. Each half of the Split sits on either side of Reesong."
+        },
+        {
+            "name" : "Western Lighthouse",
+            "text": "The lighthouse of the western half of Calatia. Unlike the other two lighthouses, this one has no full-time keeper. The Outlands are too dangerous."
+        },
+        {
+            "name" : "Ankel Islands",
+            "text": "These islands were formed during the Great Disaster out of the tops of great mountains. At the top of these mountains were various temples and shrines."
+        }
+    ]
+}

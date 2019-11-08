@@ -3,34 +3,80 @@ layout: page
 title: Calatia Maps
 ---
 
-<h2>Maps of Calatia</h2>    
-<p>
-    Maps of the country of Calatia (and its surrounding areas) will be revealed as the Hyrulean Mercenaries explore it. 
-</p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="{{ site.url }}/js/maps.js"></script>
 
-<h3>Loftwing Province</h3>
-<figure>
-    <a href="{{ site.url }}/images/calatia/loftwing_province.jpg">
-        <img src="{{ site.url }}/images/calatia/loftwing_province_small.jpg" alt="Map of loftwing province">
-        <figcaption>
-            <small>Click to enlarge</small>
-        </figcaption>
+
+<h2>Maps</h2>
+<div class="text-center" id="maps">
+    <a href="#fullmap" class="badge badge-link badge-primary">
+        Full Map of Calatia
     </a>
-</figure>
-<ul class="locations">
-    <li><b>Mabel Village</b>: a small fishing village to the far west</li>
-    <li><b>Mysterious Woods</b>: a strange and thick forest north of Mabel Village with only a small path leading through</li>
-    <li><b>Tail Cave</b>: a fishing cave south of Mabel. It is currently closed to the public</li>
-    <li><b>Edgewater Bay</b></li>
-    <li><b>Featherwood Forest</b>: a thick and lush forest in the center of the province. Lately it is haunted by monsters at night</li>
-    <li><b>Spring of Wellness</b>: a magical spring deep in the Featherwood. It is run by Bokoblins and has a campground.</li>
-    <li><b>Hokani Mountains</b>: the mountain range separating the Loftwing Province from the north. Its caves are inhabited by monsters.</li>
-    <li><b>Hokani Lowlands</b></li>
-    <li><b>Toronbo Cape</b></li>
-    <li><b>Toronbo Shores</b>: the shores that overlook the Great Sea.</li>
-    <li><b>Southern Lighthouse</b>: the magical lighthouse that is supposed to keep the darkness at bay. It is run by a single caretaker.</li>
-    <li><b>Loftwing Steppe</b>: the large grasslands between the southern shore and the Skygarden Mountains</li>
-    <li><b>Skygarden</b></li>
-    <li><b>Martha's Bay</b></li>
-    <li><b>Oldtown</b></li>
-</ul>
+    {% assign provinces = site.data.provinces.provinces | sort: "name" %}
+    {% for p in provinces %}
+    <a class="badge badge-link badge-primary" href="#{{ p.id }}">
+        {{ p.name }}
+    </a>
+    {% endfor %}
+</div>
+<hr>
+<div id="map">
+    <h4>Map of Calatia</h4>
+    <figure>
+        <a href="{{ site.url }}/images/calatia/maps/calatia_map.jpg" alt="Map of Calatia" target="_blank">
+            <img src="{{ site.url }}/images/calatia/maps/calatia_map.jpg" alt="" class="small-map">
+            <figcaption>
+                <small>Click to enlarge</small>
+            </figcaption>
+        </a>
+    </figure>
+    <p id="map-description"></p>
+    <div id="map-areas">
+        <h5>Areas and Towns</h5>
+        <ul>
+    
+        </ul>
+    </div>
+</div>
+<!-- <ul>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/loftwing" alt="Map of Loftwing Province">
+            Loftwing Province
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/soutuna" alt="Map of Soutuna Province">
+            Soutuna Province
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/lynna" alt="Map of Lynna Province">
+            Lynna Province
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/central" alt="Map of Central Province">
+            Central Province
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/outlands" alt="Map of the Outlands">
+            The Outlands
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/mudora" alt="Map of Mudora Province">
+            Mudora Province
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/kingdomsedge" alt="Map of Kingdom's Edge">
+            Kingdom's Edge
+        </a>
+    </li>
+    <li>
+        <a href="{{ site.url }}/quest-for-calatia/oldcalatia" alt="Map of Old Calatia">
+            Old Calatia
+        </a>
+    </li>
+</ul> -->

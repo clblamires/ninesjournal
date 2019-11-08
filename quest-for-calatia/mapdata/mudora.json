@@ -1,0 +1,35 @@
+{
+    "name" : "Mudora Territory",
+    "description" : "When Calatia was destroyed by the Great Disaster, its regions had to fend for themselves. Most regions became official provinces of Calatia as the country rebuilt itself. The Mudora Territory did not, instead preferring to remain its own territory. While geographically a part of Calatia, the Mudorans govern themselves.",
+    "image" : "mudora.jpg",
+    "areas" : [
+        {
+            "name" : "Vilus",
+            "text": "The capital of the Mudora Territory. The city is grand but has fallen to disrepair. It is ruled by the Vipers, a violent group of local rulers."
+        },
+        {
+            "name" : "Eastern Lighthouse",
+            "text": "The lighthouse is located inside the city of Vilus. The Vipers give Calatia access to the lighthouse, but for a price."
+        },
+        {
+            "name" : "Sadako",
+            "text": "A Mudoran city that acts as the gateway into the rest of the Mudora Territory."
+        },
+        {
+            "name" : "Sakado Heights",
+            "text": "A small range of mountains overlooking the Gulf of Calatia."
+        },
+        {
+            "name" : "Harmony Woods",
+            "text": "Called by the Mudorans the 'smaller forest', Harmony Woods are a peaceful place of escape from the toils of life. Or, so says the church in Vilus."
+        },
+        {
+            "name" : "Forest of Discord",
+            "text": "Called the 'larger forest', the Forest of Discord is wrought with dangers around every turn. At least, that's what the church in Vilus tells people."
+        },
+        {
+            "name" : "Skybreak Mountains",
+            "text": "The mountain range to the north of the Mudora Territory."
+        }
+    ]
+}

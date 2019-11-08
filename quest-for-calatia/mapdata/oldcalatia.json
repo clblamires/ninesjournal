@@ -1,0 +1,39 @@
+{
+    "name" : "Old Calatia",
+    "description" : "Calatia was one a large country built on a single continent. During the Great Disaster, much of the north was laid to utter ruin. This north region, now called 'Old Calatia' is separated from the rest of the country by the Break, a large sundering of the land. Very few people ever venture into Old Calatia anymore. The few who do rarely survive.",
+    "image" : "oldcalatia.jpg",
+    "areas" : [
+        {
+            "name" : "The Halls of Calatia",
+            "text": "In ancient days, a great underground tunnel was created below the northern mountains. Its halls were magnificently crafted. But for the last thousand years since the Great Disaster, no living soul has passed its gates."
+        },
+        {
+            "name" : "Fort Dragonia",
+            "text": "The northernmost Calatian settlement, Fort Dragonia was built as a precaution against any lingering evil from the Great Disaster. It operates with a very small regiment of soldiers who rarely go beyond its walls."
+        },
+        {
+            "name" : "Ruins of Serigon",
+            "text": "Serigon was the largest city of Old Calatia before the Great Disaster. Because of this, it is now the largest ruin in the fields of snow."
+        },
+        {
+            "name" : "Ice Goron Ruins",
+            "text": "These mountains were the ancient home of the Ice Gorons. Since the Great Disaster, they have been abandoned."
+        },
+        {
+            "name" : "Sun Tower",
+            "text": "A great tower meant to collect sunlight as a source of magic. The tower has long been dismantled."
+        },
+        {
+            "name" : "Silver Lake",
+            "text": "Named for the strange silver glow that comes from the water at night."
+        },
+        {
+            "name" : "Deadwoods",
+            "text": "Long ago, a forest was planted to protect the entrance to the Halls of Calatia. The forest has since become overgrown, despite the icy nature of the region."
+        },
+        {
+            "name" : "Forever Winter",
+            "text": "Beyond the mountains is the land of Forever Winter. What lies beyond into this vast field of ice and death?"
+        }
+    ]
+}

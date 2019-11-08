@@ -1,0 +1,31 @@
+{
+    "name" : "Kingdom's Edge",
+    "description" : "The northernmost region of the Calatia as it is presently. It was originally uninhabited as most travelers passed through this region to get to the north. Now, it has become a place for the Ice Gorons to live. Few Calatians venture up this far as the region is very cold.",
+    "image" : "kingdomsedge.jpg",
+    "areas" : [
+        {
+            "name" : "Abitaru",
+            "text": "This is the capital of the province and is the home of mostly Rito and Gerudo. This city has the most successful economy in the province. The city is considered to be unfriendly and unwelcoming to newcomers."
+        },
+        {
+            "name" : "Black Wolf Forest",
+            "text": "A sacred forest to the Ice Gorons. Few are permitted to enter."
+        },
+        {
+            "name" : "Fort Indigo",
+            "text": "At the tip of Calatia is Fort Indigo, acting as a Calatian-side stronghold before adventurers foolishly travel north."
+        },
+        {
+            "name" : "Mistwood",
+            "text": "This forest is traditionally considered cursed by most people in Kingdom's Edge, though no one remembers why."
+        },
+        {
+            "name" : "Central Lake",
+            "text": "A frigid lake in the north. Its edges are dotted by small fishing companies."
+        },
+        {
+            "name" : "Driftlands",
+            "text": "This flat region is perpetually covered in snow drifts coming out of Old Calatia, even in the warmer summer months."
+        }
+    ]
+}
