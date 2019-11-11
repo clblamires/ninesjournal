@@ -2,10 +2,10 @@
     "people": [
         {
             "name"  : "Il",
-            "race"  : "Fairy",
+            "race"  : "Fallen Fairy",
             "class" : "Cleric",
             "equip" : "Fairy magic",
-            "text"  : "Most fairies produce a soft white or pink glow. Il emits a dark purple color that gets stronger or weaker depending on his mood. He suffers from depression and is almost always bringing down the mood of those around him. He was bound to Captain Miko on Nayru's Blessing and often annoys his comrages. In Calatia, he chose to stay behind with Tarin at the Southern Lighthouse, but left a short time after. His whereabouts are unknown."
+            "text"  : "Most fairies produce a soft white or pink glow. Il emits a dark purple color that gets stronger or weaker depending on his mood. He suffers from depression and is almost always bringing down the mood of those around him. He was bound to Captain Miko on Nayru's Blessing and often annoys his comrages. In Calatia, he chose to stay behind with Tarin at the Southern Lighthouse, but left a short time after. His whereabouts are unknown. It is surmised that Il is actually a fallen fairy, and that his kokiri has died."
         } ,
         {
             "name"  : "Captain Miko",
@@ -82,7 +82,7 @@
             "race"  : "Hylian",
             "class" : "Unknown",
             "equip" : "Unknown",
-            "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee."
+            "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee. It is soon discovered that he is in league with the masked people, and has fled the village."
         },
         {
             "name"  : "Acheman",
@@ -117,7 +117,35 @@
             "race"  : "Unknown",
             "class" : "Unknown",
             "equip" : "Unknown",
-            "text"  : "An unknown entity whom the Grave Child serves. According to the Grave Child, the masked assailants also claim to be in Cruel's service, though their quest does not align with Cruel's. Beyond this, nothing else is known about it."
+            "text"  : "An unknown entity whom the Grave Child serves. According to the Grave Child, the masked assailants also claim to be in Cruel's service, though their quest does not align with Cruel's. Beyond this, nothing else is known about it, including its real name."
+        },
+        {
+            "name"  : "Elsith",
+            "race"  : "Sheikah",
+            "class" : "Wizard",
+            "equip" : "Staff",
+            "text"  : "Elsith is a retired sentinel who has settled in the Blackbite Woods. She acts as the steward of a safe house for anyone traveling through. Her demeanor is very abrasive to anyone who isn't Sheikah."
+        },
+        {
+            "name"  : "Koragath",
+            "race"  : "Ice Goron",
+            "class" : "Ranger",
+            "equip" : "Stone and Metal Bow",
+            "text"  : "A retired sentinel who used to adventure with Elsith. Koragath has an Anima, Frost, who acts as a travel companion. He is very jolly and is always willing to help a friend. He might be the only non-Sheikah to whom Elsith is kind."
+        },
+        {
+            "name"  : "The Man in Wrappings",
+            "race"  : "Unknown",
+            "class" : "Unknown",
+            "equip" : "Rune Battle Axe",
+            "text"  : "Not much is known about the man in wrappings. He keeps to himself and is very quiet, though he seems to have taken an interest in Ophinia. He offers to accompany the sentinels into the mountains."
+        },
+        {
+            "name"  : "Esola",
+            "race"  : "Fallen Fairy",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "As a fallen fairy, Esola's radiance is a dull purple and gray color. She is extremely apathetic and doesn't speak much. According to her, her kokiri, Eakus, and many other kokiri were all killed far in the north."
         }
     ]
 }

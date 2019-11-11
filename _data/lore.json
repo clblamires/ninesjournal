@@ -55,6 +55,10 @@
         {
             "name" : "Mabel City Cistern",
             "text" : "Mabel Village used to be Mabel City, a very large metropolis before people moved to what is now Old Calatia. Below the village is an ancient cistern, built to collect and store fresh water for the population. Now, it is infested with chu chus and skulltulas."
+        },
+        {
+            "name" : "Animas",
+            "text" : "According to Koragath, an Ice Goron may bond with an Anima, a spiritual creature in the form of a wolf. Animas are extensions of the goron's own soul. When an Anima wears a collar with an Anima Totem, it gains special magical powers."
         }
     ]
 }
