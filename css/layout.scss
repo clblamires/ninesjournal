@@ -235,8 +235,12 @@ figure {
     padding-bottom: 0;
 }
 .table-episode-list {
+    tr {
+        border-bottom: solid 1px $lightgray;
+    }
     td {
-        padding-bottom: 0;
+        padding-bottom: .25rem;
+        padding-top: .25rem;
     }
     .episode-number {
         width: 12%;
