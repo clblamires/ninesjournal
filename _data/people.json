@@ -24,7 +24,7 @@
         {
             "name"  : "Beedle",
             "race"  : "Hylian",
-            "class" : "Unknown",
+            "class" : "Fighter",
             "equip" : "Crossbow, various items",
             "text"  : "Beedle is a traveling merchant from Hyrule. He carries a huge bag full of trinkets, artifacts, and knick-knacks to sell. He was hired by Miko as a mercenary because he owns a crossbow, though it is unlikely he was ever had to use it. In a fight, Beedle usually just gets in the way and fumbles with his weapon. He leaves the group of mercenaries to travel on his own towards Mabel Village to start his merchant business."
         },
@@ -54,7 +54,7 @@
             "race"  : "Bokoblin",
             "class" : "Fighter",
             "equip" : "Ophinia's broken spear",
-            "text"  : "Ior is Huk's son and is also gold-skinned. He acts as a cleaner of the Spring of Wellness and often runs errands for his father, including escorting Beedle to Mabel Village. Unfortunately he was captured and had his left hand cut off. Despite this, he stays in good spirits and helps the mercenaries in other tasks such as protecting Leera. He is very fond of Zedeki and Ophinia, though he acts very shy around them."
+            "text"  : "Ior is Huk's son and is also gold-skinned. He acts as a cleaner of the Spring of Wellness and often runs errands for his father, including escorting Beedle to Mabel Village. He was captured and had his left hand cut off. Despite this, he stays in good spirits and helps the mercenaries in other tasks such as protecting Leera. He is very fond of Zedeki and Ophinia, though he acts very shy around them."
         },
         {
             "name"  : "Killiack",
@@ -82,14 +82,14 @@
             "race"  : "Hylian",
             "class" : "Unknown",
             "equip" : "Unknown",
-            "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee. It is soon discovered that he is in league with the masked people, and has fled the village."
+            "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee. At the Temple of Paraba, Majora pulls him into his lair, presumably killing him."
         },
         {
-            "name"  : "Acheman",
-            "race"  : "Unknown",
-            "class" : "Unknown",
-            "equip" : "Unknown",
-            "text"  : "Not much is known about this demonic entity who was apparently responsible for snuffing out the light of the Southern Lighthouse for a night. Tarin described it as a winged demon, and Huk said that he feared it. Dax mentioned to the Hyrulean Mercenaries that an Acheman killed his wife fifty years ago, suggesting that there may be more than one."
+            "name"  : "Billimug",
+            "race"  : "Acheman",
+            "class" : "Sorcerer/Paladin",
+            "equip" : "Spear",
+            "text"  : "Identified by a Bokoblin as Billimug, the Acheman was the entity responsible for snuffing out the light of the Southern Lighthouse for a night. Tarin described it as a winged demon, and Huk said that he feared it. Dax mentioned to the Hyrulean Mercenaries that an Acheman killed his wife fifty years ago, suggesting that there may be more than one."
         },
         {
             "name"  : "Blind",
@@ -107,17 +107,17 @@
         },
         {
             "name"  : "The Grave Child",
-            "race"  : "Currently Hylian",
-            "class" : "Unknown",
+            "race"  : "Spectre",
+            "class" : "Warlock",
             "equip" : "Unknown",
-            "text"  : "Not much is known about the Grave Child, other than she appears as a ash-skinned Hylian girl. It appears that the body may simply be possessed, though, and is not the Grave Child itself. She claims to be in service of a master who its followers call 'Cruel'. She strangely thanks the sentinels for their help and service to Cruel in killing the masked assailants. It was the Grave Child who spoke to Ophinia while she tried to pray to Hylia, intending on testing the Paladin's resolve before asking her to align with Cruel."
+            "text"  : "Not much is known about the Grave Child, other than she appeared once as a ash-skinned Hylian girl. It appears that the body may simply be possessed, though, and is not the Grave Child itself. She claims to be in service of a master who its followers call 'Cruel'. It was the Grave Child who spoke to Ophinia while she tried to pray to Hylia, intending on testing the Paladin's resolve before asking her to align with Cruel."
         },
         {
-            "name"  : "Cruel",
-            "race"  : "Unknown",
+            "name"  : "Majora",
+            "race"  : "God",
             "class" : "Unknown",
             "equip" : "Unknown",
-            "text"  : "An unknown entity whom the Grave Child serves. According to the Grave Child, the masked assailants also claim to be in Cruel's service, though their quest does not align with Cruel's. Beyond this, nothing else is known about it, including its real name."
+            "text"  : "The dark god Majora claims to be working for Calatia's benefit, though that remains to be seen. His servants include the Grave Child, Billimug the Acheman, and the masked assailants - all of whom simply call him 'Cruel'. For unknown reasons, he is bound inside a magical archway and claims that he'll soon be free to purify Calatia."
         },
         {
             "name"  : "Elsith",
@@ -134,11 +134,11 @@
             "text"  : "A retired sentinel who used to adventure with Elsith. Koragath has an Anima, Frost, who acts as a travel companion. He is very jolly and is always willing to help a friend. He might be the only non-Sheikah to whom Elsith is kind."
         },
         {
-            "name"  : "The Man in Wrappings",
-            "race"  : "Unknown",
-            "class" : "Unknown",
-            "equip" : "Rune Battle Axe",
-            "text"  : "Not much is known about the man in wrappings. He keeps to himself and is very quiet, though he seems to have taken an interest in Ophinia. He offers to accompany the sentinels into the mountains."
+            "name"  : "Paraba",
+            "race"  : "God",
+            "class" : "Warlock",
+            "equip" : "Runic Battle Axe",
+            "text"  : "Paraba used to the the patron god of heroes, but has fallen from power and divinity when Majora took over his temple. For hundreds of years, Paraba wandered Calatia and tried to reintroduce his religion to build up his own power, but found that no one remembered him or his temple anymore."
         },
         {
             "name"  : "Esola",

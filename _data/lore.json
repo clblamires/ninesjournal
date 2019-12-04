@@ -50,15 +50,19 @@
         },
         {
             "name" : "The Temple of Paraba",
-            "text" : "Does this place even exist? Only a few vague references seem to point towards a location in the Hokani Mountains. Supposedly it was a place to worship Paraba, some unknown god."
+            "text" : "High in the Hokani Mountains was the ancient town of Acton. The villagers here were worshippers of a lesser god named Paraba, the patron of heroes. When the Great Disaster occurred, Acton was abandoned and religion of Paraba was gone. The temple had since been taken over by a dark entity, Majora."
         },
         {
             "name" : "Mabel City Cistern",
             "text" : "Mabel Village used to be Mabel City, a very large metropolis before people moved to what is now Old Calatia. Below the village is an ancient cistern, built to collect and store fresh water for the population. Now, it is infested with chu chus and skulltulas."
         },
         {
-            "name" : "Animas",
+            "name" : "Anima",
             "text" : "According to Koragath, an Ice Goron may bond with an Anima, a spiritual creature in the form of a wolf. Animas are extensions of the goron's own soul. When an Anima wears a collar with an Anima Totem, it gains special magical powers."
+        },
+        {
+            "name" : "Ice Gorons",
+            "text" : "In the far northern reaches of Calatia, a group of gorons used magic to temper themselves against the cold. They became the Ice Gorons, noted for their gray and white skin and blue eyes."
         }
     ]
 }
