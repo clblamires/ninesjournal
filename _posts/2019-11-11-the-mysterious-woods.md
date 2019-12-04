@@ -5,6 +5,8 @@ date: 2019-11-11T19:35:26.959Z
 recorded: 'Nov 10, 2019'
 episode: '9'
 adventure: calatia
+summary: "The mercenaries, now appointed sentinels, learn that the former Elder of the village attacked some people and escaped into the Blackbite Woods to the north. They follow the trail and learn why the villagers call the woods 'mysterious'."
+levelup: true
 ---
 Snow was falling in Mabel Village that morning and each of the new sentinels felt rested despite the strange visions that they all saw. Namika was reading her book while Zedeki still rested, and Ophinia and Gongu headed out into the marketplace to gather the things they needed for their journey. Gongu, reeling from the smells in Crazy Tracy’s Potion shop, picked up the heart potion. Ophinia went to Bladon’s smithy and retrieved her weapons, then ventured to the stables and acquired her horse, My Lady.
 

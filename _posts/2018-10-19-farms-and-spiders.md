@@ -6,6 +6,8 @@ recorded: 'October 20, 2018'
 tags: spiders farm wizard
 episode: 1
 adventure: greatones
+summary: "Six travelers join forces to protect a small farm on the outskirts of Oakshade from a mysterious threat."
+levelup: false
 ---
 I have been traveling a long time now. My travels brought me to this place, Oakshade. It is a peaceful hamlet, nice enough that I could find work here. This story begins as I entered Oakshade as I encountered the people who would become my traveling companions.
 

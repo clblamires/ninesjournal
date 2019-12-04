@@ -6,6 +6,8 @@ recorded: 'Sept 23, 2019'
 tags: pirates ghost flamebreaker wargroove
 episode: '13'
 adventure: greatones
+summary: "The Great Ones learn that the ocean cave was once a rest stop for Bloodpack Pirates. Those pirates seem to have left behind many tools and items of magical power."
+levelup: false
 ---
 We thought that the danger had passed, now that the iron golem was scrapped. Oromis and Luna needed a moment of repose while the rest of us continued onward. We found a tunnel further in, its hallway crowded with tripwires, and a small chest at the end resting quietly on the dusty floor. I foolishly tried to set off the wires from a distance with my magic, assuming that a blast of fire or poisoned darts would attack whoever set the traps off. Instead, the tunnel collapsed and buried the chest. My companions were upset with me, and rightly so. Perhaps what the green dragon sought was in there, and now we would need to dig it out. We returned to Oromis and Luna and rested with them, listening to a strange melody Hebo played on his lute.
 

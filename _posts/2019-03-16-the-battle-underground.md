@@ -6,8 +6,10 @@ recorded: 'March 16, 2019'
 tags: darkness underground drider farmer scroll
 episode: 4
 adventure: greatones
+summary: "The group executes a plan to defeat the Drider and her minions. The Drider fights furiously but is no match for the travelers."
+levelup: true
 ---
-What would we do to kill that drow spider and its minions and save those people? We debated long before we decided on a plan: Hebo was to sneak in under the guise of invisibility and release the prisoners. The drow spider was asleep and the Kraul were just chittering to themselves, their claws only loosely holding their weapons. Hebo would message us when we should ambush the Kraul as he helped the people to safety. If we moved fast enough, we could kill them all before they even knew we were here. 
+What would we do to kill that drow spider and its minions and save those people? We debated long before we decided on a plan: Hebo was to sneak in under the guise of invisibility and release the prisoners. The drow spider was asleep and the Kraul were just chittering to themselves, their claws only loosely holding their weapons. Hebo would message us when we should ambush the Kraul as he helped the people to safety. If we moved fast enough, we could kill them all before they even knew we were here.
 
 The plan worked, but not in the way we expected. We got into position. Oromis and Luna, with their weapons drawn, hid in the alcove of our tunnel. I extinguished my light. Petra cast a spider-climb spell on herself and me, and she led me along the ceiling above our enemies. Ezio drew his bow and waited. Hebo managed to free the prisoners. He used his magic to send the message to Ezio. Ezio shouted, loosed his arrow, and we began our battle.
 

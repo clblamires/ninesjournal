@@ -5,6 +5,8 @@ date: 2019-07-27T18:25:42.108Z
 recorded: 'July 27, 2019'
 episode: '9'
 adventure: greatones
+summary: "The group fights the Yuan-Ti, overcoming all odds and rescuing the missing villagers. They take on the name 'The Great Ones' as their adventuring group."
+levelup: true
 ---
 Outnumbered. Outmatched. Outmaneuvered.
 

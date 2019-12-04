@@ -6,6 +6,8 @@ recorded: 'May 25, 2019'
 tags: snakes eclipse spoink teahouse
 episode: '7'
 adventure: greatones
+summary: "Three events happen over the course of the next few days: a strange messenger in the woods, a hunting trip gone awry, and an attack by a deadly force of enemies."
+levelup: false
 ---
 Traveling to Lotus Lake progressively became more eventful as the days came and went. Hebo and Oromis had become very fast friends, teasing each other most of the way. Ezio and I were constantly on the lookout. Petra, Luna, and Eclipse stayed in the wagon and talked with one another the entire time. The sun shone during the day, and the stars were beautifully clear at night.
 

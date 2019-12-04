@@ -6,20 +6,22 @@ recorded: 'April 6, 2019'
 tags: death chimera simurgh cave
 episode: '5'
 adventure: 'greatones'
+summary: "The travelers rescue the farmer and other villagers and escort them back to Oakshade. They join up with a tabaxi cleric and head for the mountains to follow a mysterious sky creature."
+levelup: false
 ---
 Our party journeyed out of the underground tunnels with the people we saved: Hebo’s farmer, an old woman from some far away town, a young boy, a young man from Vagrant’s Rest down south, and a young woman from Oakshade. Our group was not sure what to do with these people. They all come from different parts of Caladmein and we could not return them all to their towns. While we debated, we came upon our rope that led us out of the hole. Ezio, Hebo, and I climbed up first. Our horses and Spoink were still there with our cart, but there was a campfire nearby.
 
 We approached the campfire and found a traveling cleric, a tabaxi called Eclipse. She said she was journeying across the countryside, found our beasts by the cave, and decided to keep watch over them. Ezio was immediately distrustful, but Hebo and I could not see any reason to doubt the cleric. She helped us bring up our group and let us join her in her camp for the night. Hebo, Petra, and Luna offered to cook for the people. I began infusing my magic into Oromis’s axe and Luna’s trident. Ezio took the first watch.
 
-While most of our nights had been largely uneventful, something strange happened while we slept. In the distance, Ezio saw what he believes to be a simurgh. Simurghs, he explained the next morning, are a sign of good luck or correct choices, but seeing a simurgh far away from a desert might be something else. Ezio had briefly attempted to follow it but lost it at the tree line nearer to the mountains. He did, however, find a rainbow-colored feather. 
+While most of our nights had been largely uneventful, something strange happened while we slept. In the distance, Ezio saw what he believes to be a simurgh. Simurghs, he explained the next morning, are a sign of good luck or correct choices, but seeing a simurgh far away from a desert might be something else. Ezio had briefly attempted to follow it but lost it at the tree line nearer to the mountains. He did, however, find a rainbow-colored feather.
 
 At sunrise, we had decided to take all of the people to Oakshade and ask Exatorus for advice. Eclipse offered to travel with us. On the journey, Hebo and the farmer discussed the ruins of his farm. While clearly discouraged, he thought it would be best to remain in Oakshade for a time before he returned to the farm and tried to rebuild it. At Oakshade, Hebo went with the farmer and the people we rescued and got them all rooms at the inn.
 
 The rest of the party visited Exatorus. The wizard was delighted to see us, but perhaps that was only because he wanted to study the creature that attacked the farm. When we informed him that it was a Drider, his demeanor very suddenly changed to a mix of fear and anger. He was very pleased to hear that we slew the Drider and her Kraul, and offered to pay us a small wage for our efforts. He suggested we inform the authorities in town, members of The Exchange, and let them deal with the people we saved. Exatorus also informed us that the twin daggers we found in the Kraul tunnels were magically powered. I gave them to Ezio since he is the only one of our group that uses daggers.
 
-Exatorus gave us charge to find the simurgh and bring it to him, offering to pay handsomely if we could capture it. We returned to town to rest for the night. Hebo, Petra, and Luna went to the inn to perform again, and Eclipse offered to join the song. Oromis again returned to his home. Ezio and I watched the horses at the stable. During the night, I took some of the leather parts I was keeping in my bag and began to create armor for Luna. 
+Exatorus gave us charge to find the simurgh and bring it to him, offering to pay handsomely if we could capture it. We returned to town to rest for the night. Hebo, Petra, and Luna went to the inn to perform again, and Eclipse offered to join the song. Oromis again returned to his home. Ezio and I watched the horses at the stable. During the night, I took some of the leather parts I was keeping in my bag and began to create armor for Luna.
 
-The Exchange would ensure that the people we saved would all return to their residences, so our group was making ready to follow the trail of the Simurgh Ezio saw. We honestly did not expect Hebo to join us, but Hebo returned to our group on Spoink, saying that the farmer suggested he join us. For the first time, I noticed that Hebo was carrying a strange chest with him. Eclipse offered to help, too, as she was headed for the mountains and enjoyed our company. 
+The Exchange would ensure that the people we saved would all return to their residences, so our group was making ready to follow the trail of the Simurgh Ezio saw. We honestly did not expect Hebo to join us, but Hebo returned to our group on Spoink, saying that the farmer suggested he join us. For the first time, I noticed that Hebo was carrying a strange chest with him. Eclipse offered to help, too, as she was headed for the mountains and enjoyed our company.
 
 In this moment, I questioned to myself: Why is this group traveling together? We completed our mission: the farmer is safe. Exatorus hired us all, obviously, but is there some other motivation each of us has? After we track down the simurgh, what next? Will our group continue traveling together?
 
@@ -37,13 +39,13 @@ I do not know if I actually have emotions. I have a soul, but everything else ab
 
 And then...
 
-No one moved. 
+No one moved.
 
-No one breathed. 
+No one breathed.
 
 We could only look at Hebo’s small form.
 
-Our friend. 
+Our friend.
 
 Why did I not protect him? I should have cast sanctuary on him. But I did not... I did not...
 

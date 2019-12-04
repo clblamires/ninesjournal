@@ -6,10 +6,12 @@ recorded: 'Sept 15, 2019'
 tags: stalfos horses caretaker
 episode: '6'
 adventure: calatia
+summary: "The mercenaries take up the task of reuniting Killiack with his sister Leera at the Spring of Wellness before returning to Mabel Village to help the Downrigger track down the masked enemies."
+levelup: false
 ---
 In Mabel Village, the mercenary party prepared their horses and readied themselves for the trek to the Spring of Wellness. Zedeki took the map Gongu and Namika created and took it to Dax at the jail house. The Downrigger was surprised to see him again, remembering that they intended on taking Killiack to wherever his sister was. Zedeki gave him a copy of the map. Dax was surprised to see that it appeared to be up in the mountains near Mabel Village. He promised Zedeki he would investigate if he could, but most of his manpower was spent hunting for the masked people in the sewer access below the village. He once again promised Zedeki and his group that he would reward them if they could assist him should they return to the village.
 
-The party departed from Mabel Village and began traveling on the dirt road towards the east. The days were steadily growing colder, and today was no exception. The only person they passed on the road was an eldery guard from Mabel who Killiack recognized as Old Man Copper. He politely waved to the party and, though his strange ramblings, warned them of the road up ahead. Ophinia noticed his shield was heavily damaged, but Copper didn’t seem to notice or care. 
+The party departed from Mabel Village and began traveling on the dirt road towards the east. The days were steadily growing colder, and today was no exception. The only person they passed on the road was an eldery guard from Mabel who Killiack recognized as Old Man Copper. He politely waved to the party and, though his strange ramblings, warned them of the road up ahead. Ophinia noticed his shield was heavily damaged, but Copper didn’t seem to notice or care.
 
 Night was approaching and the party ventured off the road for a place to camp. Zedeki stood watch while Namika helped Killiack find some firewood and Gongu and Ophinia took care of the horses. As the group began to warm themselves, Zedeki and Namika noticed the ground beneath them tremble slightly. The moment the sun went down beyond the horizon, three large skeletons burst from the ground beneath their feet. They drew magical longswords from the earth and attacked.
 
@@ -27,7 +29,7 @@ Huk offered to let them stay at the spring and the campground for free as long a
 
 The party discussed their next course of action. Many roads were ahead of them now. The masked people were meeting in a place in the mountains just north of Mabel Village. They also knew that some masked people were in Mabel Village itself, using the sewers below the town to hide. They also remembered that Tarin from the Southern Lighthouse mentioned that the supply cart from Oldtown was late. Ultimately, the group settled on returning to Mabel Village to assist the Downrigger. They had to return their rented horses anyway, and the Downrigger was offering them rupees if they would assist in his investigation of the sewers. Once the party looked into the sewers, they could go to the mountains and find the meeting place afterwards.
 
-That night, everyone sat around the campfire while Huk’s brother, Mook, served a rather disgusting soup with some unknown meat product. Gongu spent some time chatting with Tangu, apparently another Hyrulean goron who had immigrated to Calatia over a year ago. Killiack and Leera were both hired by Huk to work at the Spring of Wellness, working as a pool cleaner and animal caretaker respectively. 
+That night, everyone sat around the campfire while Huk’s brother, Mook, served a rather disgusting soup with some unknown meat product. Gongu spent some time chatting with Tangu, apparently another Hyrulean goron who had immigrated to Calatia over a year ago. Killiack and Leera were both hired by Huk to work at the Spring of Wellness, working as a pool cleaner and animal caretaker respectively.
 
 Huk gave to each of the mercenaries a special magical item to thank them for what they had done for his son. To Zedeki, Huk gave a Stamina Ring that would keep him from exhausting himself. Ior told his father that Zedeki rescued him from the jail in Mabel, but that Zedeki was very tired. To Namika, Huk had a Sheikah relic that he had found in the far north years ago. It was a broken Lens of Truth, but it still had some magical power in it that could be useful to her. To Gongu, Huk produced a small black totem shaped like a wolf. The Ice Gorons of the far north use them on their wolf companions and give them magical powers, but Huk explained that this totem was cursed and won’t work until its curse is broken. To Ophinia, Huk gave two golden Bokoblin Teeth. When crushed, these would polymorph the user into a Bokoblin for a time, and this could be useful if they run into trouble down the road.
 
@@ -51,11 +53,11 @@ Ophinia picked up something else when the Downrigger was speaking to them. He se
 
 As they left, Ophinia felt that she needed to pray to Hylia. She left Gongu and Namika and found herself in the dirty alley with the small shrine to Hylia again. As she prayed, a strange prickly feeling overcame her and she heard a voice.
 
-_“Who..... are you..?”_
+_“Who..... are you..?”
 
 Ophinia identified herself as a paladin and servant of Hylia.
 
-_“Hylia.... I .... have not heard... that name.... in so long.... I am the Caretaker.”_
+_“Hylia.... I .... have not heard... that name.... in so long.... I am the Caretaker.”
 
 Surprised to hear the voice of a new god, Ophinia said that she sought guidance from Hylia to help her with her path forward. The Caretaker offered to speak to Hylia on her behalf and would find her for answers. The strange prickly feeling that Ophinia got left her feeling disturbed. The feeling of the Caretaker was not the same warmth that she felt when she communed with Hylia. Brushing off the shrine, she stood up and followed the path to The Rusty Anchor.
 

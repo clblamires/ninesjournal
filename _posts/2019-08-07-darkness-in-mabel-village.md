@@ -6,6 +6,8 @@ recorded: 'August 4, 2019'
 tags: assassin bokoblins village
 episode: '3'
 adventure: calatia
+summary: "The mercenaries travel west to Mabel Village and meet a strange family of Bokoblins who run a campsite in the nearby woods. In the village, they find more of the masked attackers from their ship."
+levelup: false
 ---
 Dim light shone through the windows of the Souther Lighthouse, and the sound of hail rattled against the windows. The mercenaries woke and found themselves alone. At first, they worried that something had happened to Tarin, but Zedeki and Namika found him outside and down the cliff toward the beach. Tarin had fallen asleep next to the grave of his wife. He told them that she had passed away twenty years ago and Tarin visited her every morning. He thanked Zedeki and Namika again for their help, and gave them some rupees as payment. He also suggested that the money would be necessary to enter Mabel Village. Mabel, he explained, was suffering from some economic stress and now had a toll to enter.
 

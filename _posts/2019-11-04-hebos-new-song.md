@@ -5,6 +5,8 @@ date: 2019-11-04T19:40:26.959Z
 recorded: 'Nov 2, 2019'
 episode: '14'
 adventure: greatones
+summary: "Armed with the spoils of the ocean cave, the Great Ones prepare to encounter Renshato again. To survive, they have two choices: continue serving the dragon, or kill it."
+levelup: true
 ---
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.

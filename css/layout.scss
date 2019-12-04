@@ -149,6 +149,9 @@ blockquote {
 
 .title-image {
     width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
     margin-bottom: 1rem;
 }
 
@@ -223,4 +226,28 @@ figure {
 
 #map-areas {
     display: none;
+}
+
+
+.summary {
+    font-size: 70%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.table-episode-list {
+    td {
+        padding-bottom: 0;
+    }
+    .episode-number {
+        width: 12%;
+    }
+    .episode-date {
+        text-align: center;
+        width: 18%;
+        font-size: 80%;
+    }
+}
+
+.small-font {
+    font-size: 50%;
 }

@@ -6,12 +6,14 @@ recorded: 'Sept 2, 2019'
 tags: dragon skeletons glyph-trap caves
 episode: '12'
 adventure: greatones
+summary: "Renshato enlists the Great Ones to acquire some magical item for him from a nearby ocean cave. The Great Ones happily comply, willing to find any means necessary to protect themselves from him."
+levelup: false
 ---
 The green dragon bellowed. It spoke to Oromis in the Common tongue: "I have not eaten a dwarf in a very long time." Oromis fumbled over his words, trying to shield Eclipse while the rest of us gazed in awe. It was not a large dragon by any means. Not like I had seen many years ago. But a young dragon is just as dangerous and cunning as their elders. Even more so because a young dragon is haughty and perhaps not as cautious as it should be.
 
 "Look at me, and listen!" called a small voice. Petra strode directly up to the dragon, being sure to show her dragon features. She and the dragon spoke in what Petra later told me is Draconic. She was very nervous, but stood her ground.
 
-Before long, the dragon spoke in Common again to us all. He said that he would spare our lives if we served. Whatever Petra had said to the dragon had worked. Hebo tried to respond, but the dragon just roared. It told us that a certain magical item could be obtained in the cave we had discovered earlier in the day, and that we should bring it to the him atop the highest mountain on the island. Ezio tried to ask what the item was that we should seek, but the dragon only quipped that we would know it when we found it. Luna asked why the dragon could not get the item itself. The dragon only chuckled and said that it had eaten too many dwarves - looking at Oromis as it said this - and that it was now too large to enter the cave.
+Before long, the dragon spoke in Common again to us all. He said that he would spare our lives if we served. Whatever Petra had said to the dragon had worked. Hebo tried to respond, but the dragon just roared. Renshato (as was its name) told us that a certain magical item could be obtained in the cave we had discovered earlier in the day, and that we should bring it to the him atop the highest mountain on the island. Ezio tried to ask what the item was that we should seek, but the dragon only quipped that we would know it when we found it. Luna asked why the dragon could not get the item itself. The dragon only chuckled and said that it had eaten too many dwarves - looking at Oromis as it said this - and that it was now too large to enter the cave.
 
 Unfortunately, Oromis made a remark about the dragon's size (specifically using the word _fat_) and dragon heard it. It reared back its horned head and exhaled a blast of noxious gas. Oromis shrugged off the attack but did not see Eclipse nearly faint behind him. I quickly ran forward and stood in front of Eclipse, keeping my thunder cannon aimed at the sand beneath me. "We hear you and will serve you!" I cried out. "We will find what you seek and will bring it to you!"
 

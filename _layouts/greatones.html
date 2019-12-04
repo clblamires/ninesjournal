@@ -11,29 +11,39 @@
             <div class="col-sm-8 top-of-page">
                 {{ content }}
                 <h2 id="episodes">Episodes</h2>
-                <table class="table table-borderless">
+                <table class="table table-borderless table-episode-list">
                     <thead class="thead-dark">
                         <tr>
-                            <th>Session</th>
+                            <th class="text-center">Session</th>
                             <th>Title</th>
-                            <th>Date</th>
+                            <th class="text-center">Date</th>
                         </tr>
                     </thead>
                     <tbody>
                         {% for post in site.posts %}
                             {% if post.adventure == 'greatones' %}
                             <tr>
-                                <td>
+                                <td class="episode-number">
                                     <a href="{{ post.url }}">
                                         {{ post.episode }}
                                     </a>
                                 </td>
-                                <td>
-                                    <a href="{{ post.url }}">
-                                        {{ post.title }}
-                                    </a>
+                                <td class="episode-name">
+                                    <span>
+                                        <a href="{{ post.url }}">
+                                            {{ post.title }}
+                                        </a>
+                                        {% if post.levelup %}
+                                            <span class="badge badge-pill badge-danger small-font">
+                                                Level Up
+                                            </span>
+                                        {% endif %}
+                                    </span>
+                                    <p class="summary">
+                                        {{ post.summary }}
+                                    </p>
                                 </td>
-                                <td>
+                                <td class="episode-date">
                                     {{ post.recorded | date: '%b %d, %Y' }}
                                 </td>
                             </tr>
