@@ -17,20 +17,10 @@ collections:
       - {label: "Recorded Date", name: "recorded", widget: "string", default: "Month 01, 2019"}
       - {label: "Episode", name: "episode", widget: "string"}
       - {label: "Adventure", name: "adventure", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Level Up?", name: "levelup", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  # - label: "Pages"
-  #   name: "pages"
-  #   files:
-  #     - label: "Bag of Holding"
-  #       name: "bagofholding"
-  #       file: "bagofholding.html"
-  #       fields:
-  #         - {label: Title, name: title, widget: string}
-  #         - {label: "Body", name: "body", widget: "markdown"}
-  
-  
-  
-  
+
   
   
   - label: "One-Shots"
@@ -52,87 +42,81 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Hebo"
         name: "hebo"
         file: "party/hebo.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Eclipse"
         name: "eclipse"
         file: "party/eclipse.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Petra"
         name: "petra"
         file: "party/petra.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Ezio"
         name: "ezio"
         file: "party/ezio.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Luna"
         name: "luna"
         file: "party/luna.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Oromis"
         name: "oromis"
         file: "party/oromis.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Gongu"
         name: "gongu"
         file: "party/gongu.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Il"
-        name: "Il"
-        file: "party/il.html"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Namika"
         name: "namika"
         file: "party/namika.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Ophinia"
         name: "ophinia"
         file: "party/ophinia.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Whisper"
         name: "whisper"
         file: "party/whisper.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Adventure", name: "adventure", widget: "string"}
       - label: "Zedeki"
         name: "zedeki"
         file: "party/zedeki.html"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      # - label: "Locations Page"
-      #   name: "locations"
-      #   file: "site/content/locations.yml"
-      #   fields:
-      #     - {label: Title, name: title, widget: string}
-      #     - {label: Intro, name: intro, widget: markdown}
-      #     - label: Locations
-      #       name: locations
-      #       widget: list
-      #       fields:
-      #         - {label: Name, name: name, widget: string}
-      #         - {label: Address, name: address, widget: string}
+          - {label: "Adventure", name: "adventure", widget: "string"}
