@@ -15,7 +15,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Recorded Date", name: "recorded", widget: "string", default: "Month 01, 2019"}
-      - {label: "Episode", name: "episode", widget: "string"}
+      - {label: "Episode", name: "episode", widget: "string", required: false}
       - {label: "Adventure", name: "adventure", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Level Up?", name: "levelup", widget: "boolean", default: false}
