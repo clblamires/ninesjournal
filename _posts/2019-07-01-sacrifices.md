@@ -9,9 +9,13 @@ adventure: greatones
 summary: "The people of Lotus Lake ask the group to help them find some missing villagers, leading to a battle of religions at the top of a mountain."
 levelup: false
 ---
+
+{:.quote}
+The languages of the creators. I seldom speak it. It scares people. But not you. You embraced it.
+
 We only saw the aftermath of the attack by the Yuan-Ti. A few houses were burning, and people were frantically carrying buckets from Lotus Lake to quench the fire. We looked around and, not finding any other snake demons, went to help the townspeople. Oromis and I began hauling buckets of water from the lake while Petra cast ice magic. Eclipse began tending to the wounded. Hebo and Luna began helping others to look for other people. I do not know where Ezio went initially, but he later informed me that he was still looking for any sign of the enemy.
 
-Luna and Hebo noticed that some houses had their windows open and that none of these houses were on fire. Being taken captive themselves briefly, they surmised that the burning houses were set by the monsters as a distraction so they could more easily abduct other people. 
+Luna and Hebo noticed that some houses had their windows open and that none of these houses were on fire. Being taken captive themselves briefly, they surmised that the burning houses were set by the monsters as a distraction so they could more easily abduct other people.
 
 As they were returning to us, they found one building with a burning roof. No other person was outside of it, so they decided to check if anyone was still within. Hebo snuck through a window and heard cries from a storage closet at the back. Two people were trapped and Hebo and Luna could not break them out. Hebo cast a Message spell and informed me of the trouble. I gave my water bucket to Oromis and ran as fast as I could to Hebo and Luna.
 
@@ -23,7 +27,7 @@ The next day brought us both good news and bad. The bad news was that almost twe
 
 The creatures were snakes, so it made sense that they could swim and had gone through the lake in order to hide their trails. We had guessed correctly and found new tracks on the far side of the lake that lead out of the crater and into the nearby woods. There, we briefly lost the trail. While we debated on what to do, Oromis became irritable and wandered off. After a few moments, we noticed that he had disappeared. Fearing that the snake demons were still out there and perhaps had captured our companion, we followed Oromis’s tracks with great haste.
 
-When we soon found him, Oromis was bleeding slightly, but certainly not as bad as the Yuan-Ti creature lying prone with deep cuts in its side. Knowing they spoke the language of my masters, I began to interrogate the creature, translating its words back to my companions. 
+When we soon found him, Oromis was bleeding slightly, but certainly not as bad as the Yuan-Ti creature lying prone with deep cuts in its side. Knowing they spoke the language of my masters, I began to interrogate the creature, translating its words back to my companions.
 
 I am afraid I scared Hebo and Luna. The Abyssal language is not pleasant on the ears or the tongue. I did not speak harsh words to the monster, other than promising it death if it did not comply with our demands, but my native language perhaps makes me sound much more intimidating than I wanted my companions to hear. The monster did in fact tell us what we needed to know. Apparently he and his kind planned on sacrificing those that they captured atop the highest mountain in the region. I asked my companions if we had any further questions for our enemy, but Oromis was still burning with rage. _“I’ve ‘eard enough outta this!”_ he roared as he brought his axe down and removed the creature's head.
 

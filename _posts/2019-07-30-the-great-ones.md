@@ -8,6 +8,10 @@ adventure: greatones
 summary: "The group fights the Yuan-Ti, overcoming all odds and rescuing the missing villagers. They take on the name 'The Great Ones' as their adventuring group."
 levelup: true
 ---
+
+{:.quote}
+I believe you would have been proud of me. I did everything you taught me.
+
 Outnumbered. Outmatched. Outmaneuvered.
 
 Nevertheless, we fought. We could not leave these people behind, those captured by the Yuan-Ti. These people should mean nothing to me, except that the leader of Lotus Lake offered money for their rescue and the death of the monsters. Without us, these people would die in whatever ceremony we had interrupted. I cannot let that happen.
@@ -42,7 +46,7 @@ Ezio and Luna finished resting as twilight approached. They decided to find the 
 
 Meanwhile, Ezio, Luna, and Hebo approached the monk, Rioma. He told them he was sent on a mission to learn more about the Yuan-Ti in the area and had been subject to very bad luck. He declined to help our group at Obsidian Garrison. Rioma then asked our group what were our intentions. Ezio surprised Luna and Hebo by explaining that he intended to take down the Court of Towls. Rioma, too, was surprised by this. Persuaded by Hebo - pretending to be a tough "bad cop", Rioma decided to meet with the rest of our group to discuss this.
 
-They found me back at the stables, watching over my sleeping companions. I explained to Rioma that we would investigate the corruption in the Court of Owls, but I would not personally get involved in an overthrow. I and my companions still had our suspicions that the Court of Owls may have something to do with the monsters in the Redstone Canyons and the intimidation of Exatorus, but we have a lot to learn before getting involved further. 
+They found me back at the stables, watching over my sleeping companions. I explained to Rioma that we would investigate the corruption in the Court of Owls, but I would not personally get involved in an overthrow. I and my companions still had our suspicions that the Court of Owls may have something to do with the monsters in the Redstone Canyons and the intimidation of Exatorus, but we have a lot to learn before getting involved further.
 
 But now we know Ezio's ultimate goal: he fully intends to fight against the government here. I am still unsure, but I will assist him as well as I can in the investigation. And who knows? Perhaps our path will lead us to finding the corruption in the Court and helping the people of Caladmein in some way. Right now, I am fearful of the Court. I explained to Rioma that we will investigate, but going against the Court will certainly lead to a slow and painful death.
 

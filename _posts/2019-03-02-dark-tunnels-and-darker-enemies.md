@@ -9,6 +9,10 @@ adventure: greatones
 summary: "The trail leads to an underground network of caves filled with fearsome beasts. "
 levelup: false
 ---
+
+{:.quote}
+I could not protect you. I cannot even protect myself. Maybe they can protect me.
+
 Our journey to the mountains as we followed the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper behavior.
 
 We followed the tracks for an entire day and noticed something that gave us pause. Our pace was not particularly slow, but this creature we followed showed no signs of weariness. Whatever it was, it moved quickly. On the next day, we found a large hole in the path, and the tracks we followed led directly to it. We lowered Petra into the pit first, and she reported a long tunnel leading into darkness.

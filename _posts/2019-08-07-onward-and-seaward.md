@@ -9,6 +9,10 @@ adventure: greatones
 summary: "Intent on claiming the bounty at Obsidian Garrison, the Great Ones set their sights towards the Moonrift Orchards and must find a ship to take them there in the city of Green Hollow."
 levelup: false
 ---
+
+{:.quote}
+I am getting better at it, thanks to your book. I wish the circumstances of this inheritance were kinder to us both.
+
 Mist rose over Lotus Lake in the morning. My companions awoke at the first sign of light, having slept through the afternoon, evening, and night of the previous day. They were still stiff and sore from their injuries, and I had only just barely finished repairing my body and coat. But dawn had approached nonetheless, and we had things to do.
 
 We split into groups to get our errands accomplished. Eclipse and Oromis were tasked with helping the townspeople tear down the ruined structures and begin repairs on those that could still be salvaged. Ezio continued his training while looking out for trouble. Luna and I were to find the mayor and settle the debt of our service. Hebo and Petra went fishing for breakfast. The fishing did not last long, though. Without the proper supplies, they mostly just splashed in the water. The traveler Rioma assisted for a moment until Petra tried to cook the fish with fire and scared Hebo away. I noticed this as Luna and I walked by, and Luna noted that Hebo seemed uncharacteristically scared. She suggested that the fire may have given him some lingering fear due to dying in the Chimera's fiery breath a week earlier. Perhaps I will discuss this with Hebo later.
@@ -27,6 +31,6 @@ What happened in the market place was embarrassing. The Great Ones, as we are, a
 
 We split up to do more errands in town. Oromis purchased rations for the party (myself not included). Luna, Hebo, Petra, and Eclipse went fishing with the new fishing supplies that Hebo had purchased in Lotus Lake. Ezio and I went to procure a ship to the Moonrift. Unfortunately, few people were willing to talk to us and give directions. I want to blame Ezio's still-bleeding nose, but I know my metal and stone features do not incite much confidence in people.
 
-At sundown, we finally spotted a boat and met with the rest of our party (with Hebo, Luna, Petra, and Eclipse toting many fish in their arms). The small boat, Cat's Eye, was commanded by three tabaxi: Soul, Cloud, and Gift. They offered to speak with us in the morning about their fee to take us to the Moonrift, but it appears that we will need to sell or stable our horses and wagon.
+At sundown, we finally spotted a boat and met with the rest of our party (with Hebo, Luna, Petra, and Eclipse toting many fish in their arms). The small boat, Cat's Eye, was commanded by three tabaxi: Soul, Cloud, and Gift. They offered to speak with us in the morning about their fee to take us to the Moonrift, but it seems that we will need to sell or stable our horses and wagon.
 
 In the morning, we will hopefully be at sea. For now, we need to stop Ezio's nose from bleeding any further. Perhaps I can cook some of Hebo's fish tonight. I cannot help but wonder what is taste. It must be pleasant because my companions make such strange facial expressions when they eat any of Hebo's chocolate.

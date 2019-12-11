@@ -9,6 +9,9 @@ summary: "Armed with the spoils of the ocean cave, the Great Ones prepare to enc
 levelup: true
 ---
 
+{:.quote}
+I do not understand religion. But I mean to learn more about it. Like you always said, knowledge makes us stronger.
+
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.
 
 ## Part One: The Plan
@@ -17,7 +20,7 @@ Oromis thought of a different approach. What if we attacked first? He was a sold
 
 Petra could read and write Draconic, the language of that spell scroll, so Oromis had her start there. He gave her his quill and ink and she began transcribing the spell onto some old paper I had in my bag. Since this was not magical ink, the spell would not work and the dragon could not use it against us. Luna helped Petra with some of the markings while she worked.
 
-While Petra worked on this, I asked Soul if we could lift the ship’s solitary cannon onto the deck in case the dragon appeared. The surprised look on Soul’s face hinted that Hebo had not warned Soul and his sisters like we asked him to, so Ezio and I explained the situation. Soul agreed and we lifted the cannon up to the deck. Soul quickly taught Eclipse and Hebo how to operate it before going back below deck to protect his sisters. 
+While Petra worked on this, I asked Soul if we could lift the ship’s solitary cannon onto the deck in case the dragon appeared. The surprised look on Soul’s face hinted that Hebo had not warned Soul and his sisters like we asked him to, so Ezio and I explained the situation. Soul agreed and we lifted the cannon up to the deck. Soul quickly taught Eclipse and Hebo how to operate it before going back below deck to protect his sisters.
 
 Back below deck, Oromis asked me to inscribe some magic into the ink to make it appear as if it was written with magical ink. The ink glistened in the light, but Luna suggested that it was still obviously fake. That would not matter, Oromis explained. While the dragon was reading it, we would already be in a position to attack.
 

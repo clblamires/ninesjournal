@@ -9,6 +9,10 @@ adventure: 'greatones'
 summary: "The travelers rescue the farmer and other villagers and escort them back to Oakshade. They join up with a tabaxi cleric and head for the mountains to follow a mysterious sky creature."
 levelup: false
 ---
+
+{:.quote}
+I am so sorry. I was not strong enough. Not then. Not now.
+
 Our party journeyed out of the underground tunnels with the people we saved: Hebo’s farmer, an old woman from some far away town, a young boy, a young man from Vagrant’s Rest down south, and a young woman from Oakshade. Our group was not sure what to do with these people. They all come from different parts of Caladmein and we could not return them all to their towns. While we debated, we came upon our rope that led us out of the hole. Ezio, Hebo, and I climbed up first. Our horses and Spoink were still there with our cart, but there was a campfire nearby.
 
 We approached the campfire and found a traveling cleric, a tabaxi called Eclipse. She said she was journeying across the countryside, found our beasts by the cave, and decided to keep watch over them. Ezio was immediately distrustful, but Hebo and I could not see any reason to doubt the cleric. She helped us bring up our group and let us join her in her camp for the night. Hebo, Petra, and Luna offered to cook for the people. I began infusing my magic into Oromis’s axe and Luna’s trident. Ezio took the first watch.
@@ -47,8 +51,10 @@ We could only look at Hebo’s small form.
 
 Our friend.
 
-Why did I not protect him? I should have cast sanctuary on him. But I did not... I did not...
+Why did I not protect him? I should have done something. But I did not... I did not...
 
-Luna moved to Hebo. She said she still heard Hebo’s music. That does not make sense. My logic dictates that is impossible. The dead make no noise. And yet I could hear it too. We all could hear it. The music came from the chest that Hebo carried. It sounded like one of the tunes that Hebo would hum. Luna opened the box and the cave was dimly lit by a tiny glowing crystal. Something told her to touch it to Hebo. The crystal shattered and cast a cloud of shimmers over Hebo’s body.
+It happened again.
 
-Then Hebo took a breath.
+Luna moved to Hebo. She said she still heard Hebo’s music. That does not make sense. The dead make no noise. And yet I could hear it too. We all could hear it. The music came from the chest that Hebo carried. It sounded like one of the tunes that Hebo would hum. Luna opened the box and the cave was dimly lit by a tiny glowing crystal. Something told her to touch it to Hebo. The crystal shattered and cast a cloud of shimmers over Hebo’s body.
+
+And Hebo took a breath.

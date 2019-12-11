@@ -9,6 +9,10 @@ adventure: greatones
 summary: "Six travelers join forces to protect a small farm on the outskirts of Oakshade from a mysterious threat."
 levelup: false
 ---
+
+{:.quote}
+Thank you for the book. I'm sorry it costed you everything.
+
 I have been traveling a long time now. My travels brought me to this place, Oakshade. It is a peaceful hamlet, nice enough that I could find work here. This story begins as I entered Oakshade as I encountered the people who would become my traveling companions.
 
 We met in town, all of us. Each of us was trying to find a local wizard, Exatorus. Hebo is a singing goblin, an assistant to a local farmer. Luna is an eladrin hexblade - a warlock with a magical, color-changing trident - with apparently no memory. Petra is a sorceress with dragon scales on half of her face. The four of us met and decided to form a company as we sought the wizard. While asking the townspeople, we were approached by Ezio, an assassin employed by the Court of Owls, the governing body of Caladmein. He suggested we avoid Exatorus, but did not explain why before he left to find the wizard on his own. In the end, we found the wizard's keep with the help of his employee, a barbarian mountain dwarf named Oromis.

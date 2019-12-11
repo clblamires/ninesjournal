@@ -9,6 +9,10 @@ adventure: greatones
 summary: "Renshato enlists the Great Ones to acquire some magical item for him from a nearby ocean cave. The Great Ones happily comply, willing to find any means necessary to protect themselves from him."
 levelup: false
 ---
+
+{:.quote}
+This new group of mine has already been through a lot. They would have liked you.
+
 The green dragon bellowed. It spoke to Oromis in the Common tongue: "I have not eaten a dwarf in a very long time." Oromis fumbled over his words, trying to shield Eclipse while the rest of us gazed in awe. It was not a large dragon by any means. Not like I had seen many years ago. But a young dragon is just as dangerous and cunning as their elders. Even more so because a young dragon is haughty and perhaps not as cautious as it should be.
 
 "Look at me, and listen!" called a small voice. Petra strode directly up to the dragon, being sure to show her dragon features. She and the dragon spoke in what Petra later told me is Draconic. She was very nervous, but stood her ground.
@@ -17,7 +21,7 @@ Before long, the dragon spoke in Common again to us all. He said that he would s
 
 Unfortunately, Oromis made a remark about the dragon's size (specifically using the word _fat_) and dragon heard it. It reared back its horned head and exhaled a blast of noxious gas. Oromis shrugged off the attack but did not see Eclipse nearly faint behind him. I quickly ran forward and stood in front of Eclipse, keeping my thunder cannon aimed at the sand beneath me. "We hear you and will serve you!" I cried out. "We will find what you seek and will bring it to you!"
 
-The dragon seemed pleased, and flew away. Hebo and I picked up Eclipse, very sick from the breath attack, and began to carry her back to the Cat's Tail. We spoke harsh words to Oromis for nearly getting her killed, but he was very intent on finally exploring that cave. I wanted to return to Soul and his sisters and tell them about the dragon and our apparent servitude, but Luna suggested it might be better to lie. The Great Ones can handle a dragon in a fight, but the sailors might not survive an encounter.
+The dragon seemed pleased, and flew away. Hebo and I picked up Eclipse, very sick from the breath attack, and began to carry her back to the Cat's Tail. We spoke harsh words to Oromis for nearly getting her killed. "She's fine!" he replied, slapping Eclipse on the back. He was clearly very intent on finally exploring that cave. I wanted to return to Soul and his sisters and tell them about the dragon and our apparent servitude, but Luna suggested it might be better to lie. The Great Ones can handle a dragon in a fight, but the sailors might not survive an encounter.
 
 Hebo offered to explain to Soul and his sisters that we found nothing at the shipwreck and instead were going to explore the cave. But Hebo was greatly distressed at the thought of entering another cave, and ran up to the deck of the ship and cast a tiny hut spell over himself and Spoink. Ezio and Oromis wished to enter the cave immediately, but I convinced them to wait and give Hebo a moment. After all, the last few times we had been in a cave, Hebo was either greatly injured or had died. While Hebo was beside himself, we tended to Eclipse and helped her back on her feet. Hebo eventually dispelled the tiny hut and left Spoink in Soul's care.
 
