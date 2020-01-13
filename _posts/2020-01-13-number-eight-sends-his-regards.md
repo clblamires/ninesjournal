@@ -63,7 +63,7 @@ The ship sailed away from the mysterious island. As we left the beach, I saw him
 
 Instead, as the island faded from our view, I collapsed onto the deck of the ship. My companions did not say anything to me or each other. Soul and his sisters were quiet, avoiding my gaze. I looked at each of them but I could not speak. I pulled out Eight’s book and stared at it.
 
-No. Number Eight doesnotsend his regards. He will never speak again.
+No. Number Eight does not send his regards. He will never speak again.
 
 My companions rejoiced when, not two days later, Soul told us that we were fast approaching Everdusk in the Moonrift Orchards and would arrive in the early hours of the morning. He thanked us for rescuing them from the dragon and told us that he would be very happy to have us on the Cat’s Eye should we ever need his services again. Petra offered to pay Soul for the cost of additional repairs once we were in port, but Soul kindly declined the offer. “You were just passengers. You could have run when that dragon came. But you saved me and my sisters. I am in your debt for this.”
 
