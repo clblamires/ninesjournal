@@ -87,7 +87,7 @@ I excused myself and went up to the room to prepare it for the night. I cast Ala
 
 As I thought about this, Luna entered the room, despondent from the news. She sat next to me on the floor. For a while, neither of us spoke.
 
-“I am sorry, Luna,” I said.
+“I am sorry, Luna,” I said after several minutes.
 
 “For what?” she asked.
 
