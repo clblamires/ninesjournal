@@ -11,7 +11,7 @@ summary: >-
   and begin preparations to hunt their bounty.
 levelup: false
 ---
-{:.quote}I should have shot him. I should have fought. So why did I hesitate?
+{:.quote} I should have shot him. I should have fought. So why did I hesitate?
 
 The Great Ones, being triumphant in defeating the Foul Spawn, set ourselves upon the tasks of repairing the ship and taking care of our wounds from the fight. Eclipse and Petra began speaking with Soul about the ship repairs while Oromis, Luna, Hebo, and I began sorting through the spoils from Renshato’s body. Ezio, feeling restless from the fight still, began discussing exploring further parts of the island. Before he could leave, we all heard rustling from the nearby trees. Twelve kobolds approached us, unarmed and cheering. Their leader was in a large, feathered headdress. He said something in their strange language and his followers stopped at the tree line. The leader stepped onto the beach and approached us, altogether without caution.
 
@@ -64,8 +64,6 @@ The ship sailed away from the mysterious island. As we left the beach, I saw him
 Instead, as the island faded from our view, I collapsed onto the deck of the ship. My companions did not say anything to me or each other. Soul and his sisters were quiet, avoiding my gaze. I looked at each of them but I could not speak. I pulled out Eight’s book and stared at it.
 
 No. Number Eight doesnotsend his regards. He will never speak again.
-
-
 
 My companions rejoiced when, not two days later, Soul told us that we were fast approaching Everdusk in the Moonrift Orchards and would arrive in the early hours of the morning. He thanked us for rescuing them from the dragon and told us that he would be very happy to have us on the Cat’s Eye should we ever need his services again. Petra offered to pay Soul for the cost of additional repairs once we were in port, but Soul kindly declined the offer. “You were just passengers. You could have run when that dragon came. But you saved me and my sisters. I am in your debt for this.”
 
