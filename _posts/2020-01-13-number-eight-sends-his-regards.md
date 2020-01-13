@@ -101,7 +101,7 @@ As I thought about this, Luna entered the room, despondent from the news. She sa
 
 “I cannot lie. I am terrified of him. I am not sure I am strong enough.”
 
-Luna paused. “Maybe not. But that’s okay, right? You might not be, butweare. We are strong together.”
+Luna paused. “Maybe not. But that’s okay, right? You might not be, but we are. We are strong together.”
 
 I shook my head. “You could have left me on the island. If Zero kills me-”
 
