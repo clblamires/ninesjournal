@@ -8,6 +8,7 @@ episode: '1'
 adventure: calatia
 summary: "The merchant ship Nayru's Blessing is sailing to Calatia and is hiring mercenaries for protection. But what dangers it needs protection from?"
 levelup: false
+quote: ''
 ---
 And now, the story of those from Hyrule who traveled to a new land in search of wisdom and meaning.
 

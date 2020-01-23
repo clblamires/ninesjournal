@@ -8,10 +8,8 @@ episode: 1
 adventure: greatones
 summary: "Six travelers join forces to protect a small farm on the outskirts of Oakshade from a mysterious threat."
 levelup: false
+quote: 'Thank you for the book. I am sorry it cost you everything.'
 ---
-
-{:.quote}
-Thank you for the book. I'm sorry it costed you everything.
 
 I have been traveling a long time now. My travels brought me to this place, Oakshade. It is a peaceful hamlet, nice enough that I could find work here. This story begins as I entered Oakshade as I encountered the people who would become my traveling companions.
 

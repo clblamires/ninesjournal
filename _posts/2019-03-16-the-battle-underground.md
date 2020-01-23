@@ -8,10 +8,8 @@ episode: 4
 adventure: greatones
 summary: "The group executes a plan to defeat the Drider and her minions. The Drider fights furiously but is no match for the travelers."
 levelup: true
+quote: 'When it is necessary, we are a deadly group. Perhaps I will yet have my revenge.'
 ---
-
-{:.quote}
-When it is necessary, we are a deadly force. Perhaps I will yet have my revenge.
 
 What would we do to kill that drow spider and its minions and save those people? We debated long before we decided on a plan: Hebo was to sneak in under the guise of invisibility and release the prisoners. The drow spider was asleep and the Kraul were just chittering to themselves, their claws only loosely holding their weapons. Hebo would message us when we should ambush the Kraul as he helped the people to safety. If we moved fast enough, we could kill them all before they even knew we were here.
 

@@ -10,8 +10,9 @@ summary: >-
   something truly horrible into the world. They land in the Moonrift Orchards
   and begin preparations to hunt their bounty.
 levelup: false
+quote: >-
+  I should have shot him. I should have fought. Why did I hesitate?
 ---
-{:.quote} I should have shot him. I should have fought. So why did I hesitate?
 
 The Great Ones, being triumphant in defeating the Foul Spawn, set ourselves upon the tasks of repairing the ship and taking care of our wounds from the fight. Eclipse and Petra began speaking with Soul about the ship repairs while Oromis, Luna, Hebo, and I began sorting through the spoils from Renshato’s body. Ezio, feeling restless from the fight still, began discussing exploring further parts of the island. Before he could leave, we all heard rustling from the nearby trees. Twelve kobolds approached us, unarmed and cheering. Their leader was in a large, feathered headdress. He said something in their strange language and his followers stopped at the tree line. The leader stepped onto the beach and approached us, altogether without caution.
 
@@ -77,13 +78,13 @@ Oromis and I (still disguised as Thoromis) found Everdusk’s shopping district.
 
 Hebo, Luna, Eclipse, and Petra found the chocolate shop. Hebo later told me that the shopkeeper was not terribly happy with him because he had apparently eaten all of their samples. The concept of a sample of chocolate eludes me, but I confess I found the story amusing. Hebo and company returned to the Sailor’s Chateau with sweets barely fitting in their pockets. Hebo offered to play and perform for the inn as part of his arrangement for our rooms for the night.
 
-Oromis and I returned to the inn as Ezio reappeared. He seemed very bothered, but somewhat resolute. He brought the group together to give us an update. Apparently, as he was invisible and moving as quietly as he could through Everdusk, someone from the Court had spotted him. He did not give us full details, but said that he met with someone ranked higher than him in a secret room. This person, Spider, was to be Ezio’s new Watcher, and that Ezio would be working with the Court of Owls again. The Court was displeased with Ezio’s disappearance from the Redstone Canyons, but Spider convinced them to give Ezio a second chance. And it seemed that the bounty on Harama Stonefist was still unresolved.
+Oromis and I returned to the inn as Ezio reappeared. He seemed very bothered, but somewhat resolute. He brought the group together to give us an update. Apparently, as he was invisible and moving as quietly as he could through Everdusk, someone from the Court had spotted him. He did not give us full details, but said that he met with someone ranked higher than him in a secret room. This person, Spider, was to be Ezio’s new Watcher, and that Ezio would be working with the Court of Owls again. The Court was displeased with Ezio’s disappearance from the Redstone Canyons, but Spider convinced them to give Ezio a second chance. Perhaps Ezio could see that not all in the Court were bad people, and that Ezio could help the country by being an honorable assassin. And it seemed that the bounty on Harama Stonefist was still unresolved.
 
-Then Ezio told us something haunting. Someone was looking for Luna. This person was nondescript, according to Spider, except that he was perhaps an Eladrin as she is, and Spider believed this person was extremely dangerous.
+Then Ezio told us something else Spider had mentioned: Someone was looking for Luna. This person was nondescript, according to Spider, except that he was perhaps an Eladrin as she is, and Spider believed this person was extremely dangerous.
 
-The Great Ones were disturbed, but like Ezio said: we should not make waves. We decided to stick together as best as we could. No one would go alone in Everdusk. He told us that a Gladiator’s Guild was running a fight later in the night, hopeful that someone would accompany him. Oromis was all too eager to come with him.
+The Great Ones were disturbed, but like Ezio said: we should not make waves. We decided to stick together as best as we could. No one would go alone in Everdusk. He told us that a Gladiator’s Guild was running a fight later in the night, hopeful that someone would accompany him. Oromis was all too eager to go, wanting to clear his head.
 
-I excused myself and went up to the room to prepare it for the night. I cast Alarm rituals on the window and door and sat in the corner of the room, hunched on the ground, with my weapon armed to the window. First, Zero is hunting me after we released him from some dwarven prison. Now, some strange dangerous creature is after Luna?
+I excused myself and went up to the room to prepare it for the night. I cast Alarm rituals on the window and door and sat in the corner of the room, hunched on the ground, with my weapon armed to the window. Zero is hunting me after we released him from some dwarven prison. Now, some strange dangerous creature is after Luna?
 
 As I thought about this, Luna entered the room, despondent from the news. She sat next to me on the floor. For a while, neither of us spoke.
 
@@ -103,7 +104,7 @@ As I thought about this, Luna entered the room, despondent from the news. She sa
 
 Luna paused. “Maybe not. But that’s okay, right? You might not be, but we are. We are strong together.”
 
-I shook my head. “You could have left me on the island. If Zero kills me-”
+I shook my head. “You could have left me on the island. You should have left me on the island. If Zero kills me-”
 
 “Stop that,” she said, interrupting me in turn. “We aren’t leaving you behind to die. You’re going to live. And so am I. That’s why we are sticking together. We will protect each other.”
 

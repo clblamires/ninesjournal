@@ -8,10 +8,8 @@ episode: '8'
 adventure: greatones
 summary: "The people of Lotus Lake ask the group to help them find some missing villagers, leading to a battle of religions at the top of a mountain."
 levelup: false
+quote: 'The language of the creators. I seldom speak it. It scares people. But not you. You embraced it.'
 ---
-
-{:.quote}
-The languages of the creators. I seldom speak it. It scares people. But not you. You embraced it.
 
 We only saw the aftermath of the attack by the Yuan-Ti. A few houses were burning, and people were frantically carrying buckets from Lotus Lake to quench the fire. We looked around and, not finding any other snake demons, went to help the townspeople. Oromis and I began hauling buckets of water from the lake while Petra cast ice magic. Eclipse began tending to the wounded. Hebo and Luna began helping others to look for other people. I do not know where Ezio went initially, but he later informed me that he was still looking for any sign of the enemy.
 

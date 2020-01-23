@@ -8,6 +8,7 @@ episode: '8'
 adventure: calatia
 summary: "After defeating the demon Blind, the mercenaries meet a new enemy called the Grave Child, who promises to help them if they help her and her cruel master."
 levelup: false
+quote: ''
 ---
 The mercenaries collected themselves after the harrowing battle against Blind and his cronies. They found that Blind carried with him an amulet that perhaps had been giving him the ability to see in the dark, as well as a few other trinkets. After Gongu finished binding Whisper’s wounds, the mercenaries opened the stone door and continued on their trek through the Mabel City Cistern. Zedeki had heard a thud coming from beyond and wanted to investigate.
 

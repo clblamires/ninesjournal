@@ -19,6 +19,7 @@ collections:
       - {label: "Adventure", name: "adventure", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Level Up?", name: "levelup", widget: "boolean", default: false}
+      - {label: "Quote", name: "quote", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   
