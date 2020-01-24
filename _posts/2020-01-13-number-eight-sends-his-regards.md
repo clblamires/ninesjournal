@@ -100,7 +100,7 @@ As I thought about this, Luna entered the room, despondent from the news. She sa
 
 “He seemed very dangerous.”
 
-“I cannot lie. I am terrified of him. I am not sure I am strong enough.”
+“I cannot lie. I am terrified of him. I am not sure I am strong enough to defeat him, or even face him.”
 
 Luna paused. “Maybe not. But that’s okay, right? You might not be, but we are. We are strong together.”
 
