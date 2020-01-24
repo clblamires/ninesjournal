@@ -58,7 +58,7 @@ And so, we ran. We returned to the beach just as Eclipse and Petra were helping 
 
 “Hello, Number Nine. Number Eight sends his regards.”
 
-*YOU DEVIL! I WILL KILL YOU! DO NOT SPEAK TO ME OF MY LOVE!*
+*YOU DEVIL! I WILL KILL YOU!*
 
 The ship sailed away from the mysterious island. As we left the beach, I saw him. There stood Zero, a menacing silhouette against the trees. He did not follow. He did not speak. He did not Uplink again. My Thunder Cannon was aimed at him, but I did not pull the trigger.
 
@@ -96,7 +96,7 @@ As I thought about this, Luna entered the room, despondent from the news. She sa
 
 “It’s fine,” she said. I did not believe her. I could hear the concern in her voice. “About Zero-”
 
-“Zero took my love from me,” I interrupted. I clutched my artificer book again. “Number Eight, I mean. My brother. Zero killed him.”
+“Zero took my love from me,” I interrupted. I clutched my artificer book again. “Number Eight, I mean. Zero killed him.”
 
 “He seemed very dangerous.”
 
@@ -110,7 +110,7 @@ I shook my head. “You could have left me on the island. You should have left m
 
 “You are a good friend.”
 
-We sat in silence for a while longer. After a moment, we heard Hebo singing in the common room downstairs. He sang about the Great Ones and our travels. He wove the tale of the Foul Spawn’s defeat.
+We sat in silence for a while longer. After a moment, we heard Hebo singing in the common room downstairs. He sang about the Great Ones and our travels, and the tale of the Foul Spawn’s defeat.
 
 “Do you know who this person is? The one looking for you?” I asked as Hebo’s song finished.
 
