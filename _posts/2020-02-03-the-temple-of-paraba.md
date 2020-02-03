@@ -37,7 +37,7 @@ The question stunned them for a moment. Zedeki knew his answer, of course. He wa
 
 “Then why am I here if not to meet the horse god?” she asked.
 
-“Hylia guided all of you here,” said Paraba. “In a strange and mysterious way, each of you was chosen by Hylia, I think, to save this country from Majora.”
+“You may still meet Malanya, Ophinia," said Paraba. "That may be part of why you're here. Hylia guided all of you here. In a strange and mysterious way, each of you was chosen by Hylia, I think, to save this country from Majora.”
 
 “But who is Majora?” asked Zedeki. “He was that figure in the portal, right?”
 
