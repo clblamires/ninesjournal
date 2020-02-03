@@ -10,7 +10,6 @@ summary: >-
   dying of his injuries. He tells them of their purpose in Calatia and their
   next steps.
 levelup: false
-quote: x
 ---
 Paraba’s axe glistened with fire. Thick smoke and sparks dripped from it onto the floor of the temple and Paraba shrank back in pain. The arm he used to strike the Cruel God’s portal was loose at his slide, the gauntlet around it crumbling into dust and ash. Despite this, he still held the axe as best as he could. His armor was now cracked and splintered. While Gongu tended to Whisper’s wounds, Ophinia ran to Paraba to catch him as he collapsed to the floor.
 

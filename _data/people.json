@@ -146,6 +146,13 @@
             "class" : "Unknown",
             "equip" : "Unknown",
             "text"  : "As a fallen fairy, Esola's radiance is a dull purple and gray color. She is extremely apathetic and doesn't speak much. According to her, her kokiri, Eakus, and many other kokiri were all killed far in the north."
+        },
+        {
+            "name"  : "Lakna Shaz",
+            "race"  : "Sheikah",
+            "class" : "Unknown",
+            "equip" : "Unknown",
+            "text"  : "Described as an ancient Sheikah engineer. Lakna Shaz created the Lighthouse System that keeps Majora trapped in an immaterial plane inside Calatia. According to Paraba, Lakna Shaz is still alive and resides in the Northern Lighthouse in Old Calatia."
         }
     ]
 }
