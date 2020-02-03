@@ -52,9 +52,9 @@
         {
             "name"  : "Ior",
             "race"  : "Bokoblin",
-            "class" : "Fighter",
+            "class" : "Artificer",
             "equip" : "Ophinia's broken spear",
-            "text"  : "Ior is Huk's son and is also gold-skinned. He acts as a cleaner of the Spring of Wellness and often runs errands for his father, including escorting Beedle to Mabel Village. He was captured and had his left hand cut off. Despite this, he stays in good spirits and helps the mercenaries in other tasks such as protecting Leera. He is very fond of Zedeki and Ophinia, though he acts very shy around them."
+            "text"  : "Ior is Huk's son and is also purple-skinned. He acts as a cleaner of the Spring of Wellness and often runs errands for his father, including escorting Beedle to Mabel Village. He was captured and had his left hand cut off. Despite this, he stays in good spirits and helps the mercenaries in other tasks such as protecting Leera. He is very fond of Zedeki and Ophinia, though he acts very shy around them."
         },
         {
             "name"  : "Killiack",
@@ -117,7 +117,7 @@
             "race"  : "God",
             "class" : "Unknown",
             "equip" : "Unknown",
-            "text"  : "The dark god Majora claims to be working for Calatia's benefit, though that remains to be seen. His servants include the Grave Child, Billimug the Acheman, and the masked assailants - all of whom simply call him 'Cruel'. For unknown reasons, he is bound inside a magical archway and claims that he'll soon be free to purify Calatia."
+            "text"  : "The dark god Majora claims to be working for Calatia's benefit, though that remains to be seen. His servants include the Grave Child, Billimug the Acheman, and the masked assailants - all of whom simply call him 'Cruel'. In years past, he fought against Calatia while searching for his mask but was defeated by Divine Beast Vah Sarias. After this, he was imprisoned inside Calatia itself on a different plane of existence, though his imprisoners believe he'll escape very soon."
         },
         {
             "name"  : "Elsith",
@@ -138,7 +138,7 @@
             "race"  : "God",
             "class" : "Warlock",
             "equip" : "Runic Battle Axe",
-            "text"  : "Paraba used to the the patron god of heroes, but has fallen from power and divinity when Majora took over his temple. For hundreds of years, Paraba wandered Calatia and tried to reintroduce his religion to build up his own power, but found that no one remembered him or his temple anymore."
+            "text"  : "Paraba used to be the patron god of heroes, but has fallen from power and divinity when Majora took over his temple. For hundreds of years, Paraba wandered Calatia and tried to reintroduce his religion to build up his own power, but found that no one remembered him or his temple anymore. In a battle against Majora's forces, Paraba used the last bit of his divinity to banish Majora, cleanse his own temple, and recharge the sentinels' divine weapons. Upon this, his magic was spent and he passed away."
         },
         {
             "name"  : "Esola",
