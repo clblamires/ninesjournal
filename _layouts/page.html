@@ -2,20 +2,25 @@
 <html lang="en">
 {% include head.html  %}
 <body>
-
-    <div class="container" id="main">
-        <div class="row">
-            <div class="col-sm-4">
-                {% include navigation.html %}
-            </div>
-            <div class="col-sm-8 top-of-page">
-                {{ content }}
+    <div id="page">
+        {% include navigation.html %}
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <main>
+                        {{ content }}
+                    </main>
+                </div>
             </div>
         </div>
-        <div class="row">
-            {% include footer.html %}
+        <div class="mesh"></div>
+        <div class="site-background">
+            <img src="{{ site_url }}/images/paper.jpg" alt="">
         </div>
     </div>
+
+
+    {% include footer.html %}
     
 </body>
 </html>

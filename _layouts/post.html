@@ -13,33 +13,51 @@
 {% endif %}
 <body>
 
-    <div class="container" id="main">
-        <div class="row">
-            <div class="col-sm-4">
-                {% include navigation.html %}
-            </div>
-            <div class="col-sm-8 top-of-page">
-                <p class="prev">
-                    <a href="{{ site.url }}/{{ url }}">
-                        <i class="fas fa-caret-left"></i>
-                        Back to {{ adventure }}
-                    </a>
-                </p>
-                
-                <h2>{{ page.title }}</h2>
-                <p>
-                    Session {{ page.episode }}: {{ page.recorded | date: '%b %d, %Y'}}
-                </p>
-                {% if page.image  %}
-                    <img src="{{ page.image }}" alt="" class="rounded blog-image">
-                {% endif %}
-                {{ content }}
+    <div id="page">
+        {% include navigation.html %}
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <main>
+                        <!-- <a href="{{ site.url }}/{{ url }}" class="back-link">
+                            <i class="fas fa-caret-left"></i>
+                            Back to {{ adventure }}
+                        </a> -->
+
+                        {% if page.image %}
+                            <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="blog-image">
+                        {% endif %}
+
+                        <h2>{{ page.title }}</h2>
+                        <div class="session-info">
+                            {{ adventure }} session {{ page.episode }} on {{ page.recorded }}
+                        </div>
+                        <hr>
+                        {% if page.quote %}
+                            <p class="text-center quote">
+                                {{ page.quote }}
+                            </p>
+                        <hr>
+                        {% endif %}
+
+                        {{ content }}
+
+                        <a href="{{ site.url }}/{{ url }}" class="back-link">
+                            <i class="fas fa-caret-left"></i>
+                            Back to {{ adventure }}
+                        </a>
+                    </main>
+                </div>
             </div>
         </div>
-        <div class="row">
-            {% include footer.html %}
+        <div class="mesh"></div>
+        <div class="site-background">
+            <img src="{{ site_url }}/images/paper.jpg" alt="">
         </div>
     </div>
+
+    {% include footer.html %}
+
     
 </body>
 </html>

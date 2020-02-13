@@ -10,7 +10,7 @@ title: The People of Calatia
 {% assign people = site.data.people.people | sort: 'name' %}
 {% for person in people %}
 <div class="people">
-    <h4>{{ person.name }}</h4>
+    <h4 class="text-left">{{ person.name }}</h4>
     <ul>
         <li>
             <b>Race</b>: {{ person.race }}

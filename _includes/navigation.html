@@ -1,135 +1,39 @@
-<h1 class="text-center">
-    <a href="{{ site_url }}/" id="site-title">
-        <i class="fas fa-dice-d20"></i><br>
-        Nine's Journal
+<nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="{{ site_url }}/">
+        <i class="fas fa-dice-d20"></i>
+        <span>Nine's Journal</span>
     </a>
-    
-</h1>
-
-<nav>
-    <ul class="nav flex-column">
-        <li class="nav-item">
-            <a href="{{ site_url }}/the-great-ones/#greatones" class="nav-link">
-               <i class="fas fa-chevron-right fa-fw"></i>
-                The Great Ones
-            </a>
-        </li>
-        {% if page.url contains "the-great-ones" or page.adventure == "greatones" %}
-        <li class="nav-item">
-            <a href="{{ site_url }}/the-great-ones/#episodes" class="nav-link nav-link-small">
-                Episode List
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/numbernine.html#nine" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Number Nine
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/hebo.html#hebo" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Hebo
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/luna.html#luna" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Luna
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/ezio.html#ezio" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Ezio
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/petra.html#petra" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Petra
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/oromis.html#oromis" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Oromis
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/party/eclipse.html#eclipse" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Eclipse
-            </a>
-        </li>
-        {% endif %}
-
-
-
-
-
-        <li class="nav-item">
-            <a href="{{ site_url }}/quest-for-calatia/#calatia" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                Quest for Calatia
-            </a>
-        </li>
-        {% if page.url contains "quest-for-calatia" or page.adventure == "calatia" %}
-        <li class="nav-item">
-            <a href="{{ site_url }}/quest-for-calatia/#episodes" class="nav-link nav-link-small">
-                Episode List
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/quest-for-calatia/people" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                People of Calatia
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/quest-for-calatia/lore" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Calatian Lore
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/quest-for-calatia/maps" class="nav-link nav-link-small">
-                <i class="fas fa-caret-right"></i>
-                Maps
-            </a>
-        </li>
-        {% endif %}
-
-
-        <li class="nav-item">
-            <a href="{{ site_url }}/oneshots/koroktrial" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                The Legendary Korok Trial
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site_url }}/oneshots/adventureskeletons" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                Adventure Skeletons
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site_url }}/oneshots/elfs" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                ELFS - A Holiday Adventure
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site_url }}/about" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                About
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site_url }}/contact" class="nav-link">
-                <i class="fas fa-chevron-right fa-fw"></i>
-                Contact
-            </a>
-        </li>
-    </ul>
-</nav>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Adventures
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="{{ site_url }}/the-great-ones/">The Great Ones</a>
+                    <a class="dropdown-item" href="{{ site_url }}/quest-for-calatia/">Quest for Calatia</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    One-Shots
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="{{ site_url }}/oneshots/koroktrial/">The Legendary Korok Trials</a>
+                    <a class="dropdown-item" href="{{ site_url }}/oneshots/adventureskeletons/">Adventure Skeletons</a>
+                    <a class="dropdown-item" href="{{ site_url }}/oneshots/elfs/">E.L.F.S. - A Holiday Adventure</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site_url }}/about/">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site_url }}/contact/">Contact</a>
+            </li>
+      </ul>
+    </div>
+  </nav>

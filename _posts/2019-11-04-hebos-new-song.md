@@ -11,7 +11,7 @@ summary: >-
   dragon, or kill it.
 levelup: true
 quote: >-
-  I do not understand religion, except for what you taught me. But I am learning about it. Like you always said, knowledge makes us stronger.
+  I do not understand religion, except for what you taught me. But I am learning about it. Like you always said, knowledge makes us stronger. I've finally heard the voice of the Wonderbringer.
 ---
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.
@@ -106,7 +106,7 @@ Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing t
 
 As he did, Eclipse aimed the cannon. Hebo flipped onto it, hands in the air, and shouted bad words in Goblin-tongue. He snapped his fingers, igniting the cannon. An explosive blast of gunpowder and smoke erupted from the cannon, but Hebo balanced and watched.
 
-In the dark, we could barely make out the shape of the retreating dragon as the cannonball slammed into it. The dragon crashed into the woods. Soon after, the sounds came to us. We heard the sound of the dragon’s spine shattering from the cannonball, the sound of the crash into the trees and the splintering of wood. We heard a faint, weak roar. And then, silence.
+In the dark, we could barely make out the shape of the retreating dragon as the cannonball slammed into it. The dragon crashed into the woods. Soon after, the sounds came to us. We heard the sound of the dragon’s spine shattering from the cannonball, the sound of the crash into the trees and the splintering of wood. Through the trees, a faint, weak roar. And then, silence.
 
 ## Part Four: Collection
 

@@ -50,7 +50,7 @@
         },
         {
             "name" : "The Temple of Paraba",
-            "text" : "High in the Hokani Mountains was the ancient town of Acton. The villagers here were worshippers of a lesser god named Paraba, the patron of heroes. When the Great Disaster occurred, Acton was abandoned and religion of Paraba was gone. The temple had since been taken over by a dark entity, Majora."
+            "text" : "High in the Hokani Mountains was the ancient town of Acton. The villagers here were worshippers of a lesser god named Paraba, the patron of heroes. When the Great Disaster occurred, Acton was abandoned and the religion of Paraba disappeared. The temple had since been taken over by a dark entity, Majora."
         },
         {
             "name" : "Mabel City Cistern",
@@ -73,20 +73,8 @@
             "text" : "Lakna Shaz's greatest weapon was a gigantic bear made of stone, metal, and magic. It was piloted by other Sheikah warriors who wielded a blue katana. Supposedly it remains at rest in Old Calatia, guarded by Lakna Shaz."
         },
         {
-            "name" : "Divine Weapon of the Rito",
-            "text" : "A powerful bow originally crafted by the first of the Zora, ancient predecessors to modern Rito. It was granted divine power by Jabun, the god of the sea, and used to strike down Demise's creatures from the sky. It was passed down through the Rito tribes until it came to Zedeki."
-        },
-        {
-            "name" : "Divine Weapon of the Sheikah",
-            "text" : "A long, blue katana that was made to interact with ancient Sheikah devices and weapons. It was blessed by Din, Farore, and Nayru themselves, who at the time of the katana's creation still resided in this world. It is the key to driving Divine Beast Vah Sarias and is currently in Namika Rah's possession."
-        },
-        {
-            "name" : "Divine Weapon of the Gorons",
-            "text" : "A mechanical compound bow weighing hundreds of pounds due to its stone and steel construction. It was given to the Goron founders of Calatia by the Golden Goddesses as a token of the Gorons' service to them. When its wielder cannot use it anymore, the name of its next wielder appears on the handle. Gongu's name appeared and it passed to him."
-        },
-        {
-            "name" : "Divine Weapon of the Hylians",
-            "text" : "A humble axe created by a simple craftsman. The axe passed between many owners until it came to the Hero of Time, who used it to slay a powerful beast and rescue a village from disaster. It has since been preserved and passed down until it came to Ophinia. The blessing of Paraba is on it."
+            "name" : "Divine Weapons",
+            "text" : "Weapons that were created by the guidance of the gods and granted some of their divine energy. Five such weapons have been recorded in history: The Master Sword, Gale Force, Stonebreaker, Hero's Honor, and Masamune. Those that are not chosen by the gods are unable to wield these weapons, instead bringing harm to themselves."
         }
     ]
 }

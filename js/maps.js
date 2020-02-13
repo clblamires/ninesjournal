@@ -16,7 +16,7 @@ function loadMap( mapName ){
     $('#map-areas ul').children().remove();
 
     $.getJSON("../quest-for-calatia/mapdata/" + mapName + ".json", function(data){
-        $('#map h4').text( data.name );
+        $('#map h1').text( data.name );
         let img = "../images/calatia/maps/" + data.image;
         $('#map a').attr("href", img ).attr("alt", "Map of " + data.name );
         $('#map img').attr("src", img );

@@ -2,7 +2,7 @@
 layout: post
 title: The Blackout Den
 date: 2020-02-10T18:00:09.831Z
-recorded: 'Month 01, 2019'
+recorded: 'Feb 1, 2020'
 episode: '16'
 adventure: greatones
 summary: >-
