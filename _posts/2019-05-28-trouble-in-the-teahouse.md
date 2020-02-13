@@ -79,7 +79,7 @@ Ezio and Oromis watched me enter Petra and Eclipse’s room with my cannon. They
 
 In an earlier entry, I marveled at the strength of dwarves. Ezio was to experience this again. Oromis shouted and charged directly at the window. He swung his axe heavily at the wall and window, utterly smashing it to pieces. Ezio charged as well, shouting “Get down!” to the dwarf as he launched himself over Oromis, drew his blades from his hidden wrist mounts, and slammed them into one of the snakes. The snake’s comrade drew its blade and brought it down across Ezio’s chest. It grabbed Hebo and the two began to flee.
 
-The snake that had Hebo made the mistake of running past a window within my line of sight. I aimed and fired again, grievously wounding it. The snakes realized they were surrounded and began to fight back like the cornered creatures they were. Spoink rushed again, knocking the snake down again.
+The snake that had Hebo made the mistake of running past a window within my line of sight. I aimed and fired again, grievously wounding it. The snakes realized they were surrounded and began to fight back like the cornered creatures they were. Spoink rushed again, knocking the snake down once more.
 
 _“Drop it! We must flee!”_ cried the prone creature. It picked itself up and grabbed its weapon.
 
