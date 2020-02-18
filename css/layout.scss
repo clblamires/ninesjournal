@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 // Colors
 $red: #DB4342;
 $darkred: #BD1311;
@@ -18,6 +22,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Cardo', serif;
     text-align: center;
     margin-top: 20px;
+    color: $red;
+}
+h4 {
+    text-align: left;
 }
 p, li{
     font-family: 'Cardo', serif;
@@ -26,6 +34,23 @@ p, li{
 h2 {
     font-size: 26px;
     font-weight: bold;
+}
+
+a {
+    color: $red;
+    &:hover, &:active {
+        color: $darkred;
+    }
+}
+
+.btn-primary, .badge-primary {
+    background: $red;
+    border: none;
+    outline: none;
+    &:hover, &:active, &:focus {
+        background: $darkred !important;
+        outline: none !important;
+    }
 }
 
 #page {
@@ -78,10 +103,19 @@ p {
     padding: 0;
     height: 100%;
     width: 100%;
+    img {
+        width: 100%;
+        height: 100%;
+    }
 }
 
 main {
     padding: 50px;
+}
+@media (max-width: 576px){
+    main {
+        padding: 10px;
+    }
 }
 
 
@@ -193,6 +227,13 @@ table a {
 }
 
 
+#top-button {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
 
 
 // Bootstrap adjustments
@@ -200,6 +241,8 @@ table a {
 .container {
     background: white;
     color: #555;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 
@@ -223,8 +266,3 @@ table a {
         margin-bottom: 0;
     }
 }
-// @media screen and (min-width: 1216px){
-//     .container{
-//         max-width: 1000px !important;
-//     }
-// }

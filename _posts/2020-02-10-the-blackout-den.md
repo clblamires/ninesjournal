@@ -11,7 +11,7 @@ summary: >-
   interest in the vast city.
 levelup: false
 quote: >-
-  You would have liked this one, my love. He is like you! But stronger, I think.
+  He is like you! But stronger, I think.
   I mean no offense, but you could not have pulled off what he is capable of.
   Maybe someday. Maybe I could someday.
 ---
