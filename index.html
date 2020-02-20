@@ -13,15 +13,15 @@ layout: page
             {% assign session = "Session " | append: post.episode %}
         {% endif %}
         <h1>Latest Adventure</h1>
-        {% if post.image %}
-        <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="blog-image">
-        {% endif %}
         <h2>
             {{ post.title }}
         </h2>
         <div class="session-info">
             {{ adventure }} Session {{ session }} on {{ post.recorded }}
         </div>
+        {% if post.image %}
+            <img src="{{ site_url }}/images/chapter_images/{{ post.image }}.png" alt="" class="blog-image">
+        {% endif %}
         <hr>
         <div class="entry">
             <p>

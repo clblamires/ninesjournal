@@ -6,9 +6,10 @@ recorded: 'June 30, 2019'
 tags: goron hylian rito sheikah fairy
 episode: '1'
 adventure: calatia
-summary: "The merchant ship Nayru's Blessing is sailing to Calatia and is hiring mercenaries for protection. But what dangers it needs protection from?"
+summary: "The merchant ship Nayru's Blessing is sailing to Calatia and is hiring mercenaries for protection. But from what dangers does it needs protection?"
 levelup: false
 quote: ''
+image: sailing
 ---
 And now, the story of those from Hyrule who traveled to a new land in search of wisdom and meaning.
 

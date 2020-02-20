@@ -9,6 +9,7 @@ adventure: calatia
 summary: "The mercenaries take up the task of reuniting Killiack with his sister Leera at the Spring of Wellness before returning to Mabel Village to help the Downrigger track down the masked enemies."
 levelup: false
 quote: ''
+image: necklace
 ---
 In Mabel Village, the mercenary party prepared their horses and readied themselves for the trek to the Spring of Wellness. Zedeki took the map Gongu and Namika created and took it to Dax at the jail house. The Downrigger was surprised to see him again, remembering that they intended on taking Killiack to wherever his sister was. Zedeki gave him a copy of the map. Dax was surprised to see that it appeared to be up in the mountains near Mabel Village. He promised Zedeki he would investigate if he could, but most of his manpower was spent hunting for the masked people in the sewer access below the village. He once again promised Zedeki and his group that he would reward them if they could assist him should they return to the village.
 

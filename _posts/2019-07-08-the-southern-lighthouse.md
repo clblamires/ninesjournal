@@ -9,6 +9,7 @@ adventure: calatia
 summary: "After barely surviving the shipwreck, the mercenaries come across a magic lighthouse that is overrun with evil monsters."
 levelup: false
 quote: ''
+image: lighthouse
 ---
 On Nayru’s Blessing, the fairy Il found himself in a dire predicament. As the storm drew closer, Captain Miko told him, _“You had better stay nearby.”_ Il had never seen Miko act so bold or focused before. Miko was usually a very chipper individual, if not a little daft. But now he had his sword in hand, seemingly preparing for the worst.
 

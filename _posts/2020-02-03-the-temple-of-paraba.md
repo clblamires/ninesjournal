@@ -10,6 +10,7 @@ summary: >-
   dying of his injuries. He tells them of their purpose in Calatia and their
   next steps.
 levelup: false
+image: paraba
 ---
 Paraba’s axe glistened with fire. Thick smoke and sparks dripped from it onto the floor of the temple and Paraba shrank back in pain. The arm he used to strike the Cruel God’s portal was loose at his slide, the gauntlet around it crumbling into dust and ash. Despite this, he still held the axe as best as he could. His armor was now cracked and splintered. While Gongu tended to Whisper’s wounds, Ophinia ran to Paraba to catch him as he collapsed to the floor.
 
@@ -17,7 +18,7 @@ Paraba’s axe glistened with fire. Thick smoke and sparks dripped from it onto 
 
 Ophinia picked him up and he asked her to raise her axe high above her head. With a quick swipe, he struck hers with his own. But the runic axe of Paraba did not ring against Ophinia’s. Instead, it shattered into a vapor of sparkles and dust. Ophinia beheld her axe and saw that the same runes that were etched on Paraba’s weapon were now on hers instead.
 
-Paraba's arm was now withering, barely recognizable as an appendage. Ophinia held him and asked if she could do anything for him. His voice was faint. He asked her to watch over for a while so he could cleanse the temple. He began tracing strange magic circles and glyphs in the dust on the floor, chanting a ritual.
+Paraba's arm was now withering, barely recognizable as an appendage. Ophinia held him up and asked if she could do anything for him. His voice was faint. He asked her to watch over for a while so he could cleanse the temple. He began tracing strange magic circles and glyphs in the dust on the floor, chanting a ritual.
 
 Outside in the snow, Namika called to Zedeki as he strode, limping and still bleeding, towards the body of the Grave Child. The body was already cold. The girl’s skin was gray and taut, but the pool of blackness in the eyes was gone. Her eyes were bright blue when she was alive, but that must have been months ago. Zedeki lifted her body and carried her to the temple while Nami brought in My Lady. Gongu quickly performed a magic ritual to of healing for Zedeki and Ophinia, stopping their wounds from bleeding further. Paraba’s chanting continued and Ophinia knelt next to him, praying.
 

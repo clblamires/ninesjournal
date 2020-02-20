@@ -8,6 +8,7 @@ adventure: calatia
 summary: "The path leads into the mountains, and the sentinels are accompanied by a stranger with a runic battle axe who asks them for help to cleanse the Temple of Paraba."
 levelup: false
 quote: ''
+image: archway
 ---
 The morning brought more snow, but Elsith's Safe House was warm enough. Each of the sentinels spent their morning preparing for the next leg of their journey into the mountains. While Ophinia fed My Lady in the stables, the man wearing the wrappings approached her. This time, he was dressed from head to toe in dull gray armor with a thick metal helmet that barely allowed his own eyes to see. His runic axe was slung over his shoulders. He asked Ophinia if she had an answer for him - would her group allow him to accompany them into the mountains? She asked for time to think on his offer and to speak with her companions.
 

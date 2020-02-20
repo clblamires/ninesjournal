@@ -9,8 +9,9 @@ summary: >-
   The gods are speaking to them, but will the sentinels listen? They arrive at
   Kanalet, the farming community and discuss their next plans.
 levelup: false
+image: kanalet
 ---
-Morning came to the travelers eventually, and each of them quickly helped Colapius start the campfire. The ground was cold but not yet frosted, and they heard nothing around them but the sound of the nearby stream. Colapius began making a stew for breakfast while each of the sentinels set about to get ready for the travel to Kanalet. Ophinia tended to her horse. Gongu and Whisper went to patrol around the camp. Nami used her Lens of Truth to magically identify the golden beetle recovered from Glikzong’s well- a magical hook beetle that could be remotely controlled by her.
+Morning came to the travelers eventually, and each of them quickly helped Colapius start the campfire. The ground was cold but not yet frosted, and they heard nothing around them but the sound of the nearby stream. Colapius began making a stew for breakfast while each of the sentinels set about to get ready for the travel to Kanalet. Ophinia tended to her horse. Gongu and Whisper went to patrol around the camp. Nami used her Lens of Truth to magically identify the golden beetle recovered from Glikzong’s well: a magical hook beetle that could be remotely controlled by her.
 
 Zedeki was gathering his equipment and preparing to take into the sky and search around the camp when he heard a strange squeaking sound coming from the stream. It said, clear as any language, “He watches you! He is amazed!”
 

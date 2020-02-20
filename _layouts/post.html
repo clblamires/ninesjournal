@@ -24,16 +24,17 @@
                             Back to {{ adventure }}
                         </a> -->
 
-                        {% if page.image %}
-                            <img src="https://fakeimg.pl/350x200/?text=Hello" alt="" class="blog-image">
-                        {% endif %}
-
+                        
                         <h2>{{ page.title }}</h2>
+                        {% if page.image %}
+                            <img src="{{ site_url }}/images/chapter_images/{{ page.image }}.png" alt="" class="blog-image">
+                        {% endif %}
                         <div class="session-info">
-                            {{ adventure }} session {{ page.episode }} on {{ page.recorded }}
+                            <b>{{ adventure }} Session {{ page.episode }}</b>
+                            <br>{{ page.recorded }}
                         </div>
                         <hr>
-                        {% if page.quote %}
+                        {% if page.quote.size > 1 %}
                             <p class="text-center quote">
                                 {{ page.quote }}
                             </p>
@@ -52,7 +53,7 @@
         </div>
         <div class="mesh"></div>
         <div class="site-background">
-            <img src="{{ site_url }}/images/paper.jpg" alt="">
+            <img src="{{ site_url }}/images/character_background.png" alt="">
         </div>
     </div>
 

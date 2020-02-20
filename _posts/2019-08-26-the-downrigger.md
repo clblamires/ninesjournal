@@ -9,6 +9,7 @@ adventure: calatia
 summary: "The local police force, led by a man called the Downrigger, believes the mercenaries are up to no good, and the mercenaries have to work to defend themselves."
 levelup: false
 quote: ''
+image: sword
 ---
 Zedeki left the group, flying back to Mabel Village to find Killiack while Ophinia stood guarding Tail Cave. Namika learned that Leera was a Kokiri sent many years ago to meet with the Great Maku Tree of Old Calatia. Leera could not bear the cold in the region and instead settled in the southern shores, believing herself to have failed in her mission. 
 

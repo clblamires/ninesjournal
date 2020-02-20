@@ -10,7 +10,7 @@ summary: >-
   plans to go north. Along the way, they meet two strange new allies, members of
   monster races that were once their enemies.
 levelup: false
-image: false
+image: ruinedcastle
 ---
 With My Lady secured in the temple, the sentinels stepped outside. The heavy snowfall from yesterday's storm had passed in the night. Zedeki and Nami went on watch while Gongu and Ophinia conducted a short funeral for the girl. They dug a humble grave and laid the girl to rest, each saying a quick prayer to Hylia before joining their companions. Zedeki pointed out the near-fresh footprints of the bokoblins from the ruins of Acton. The bokoblins seemed to come up from the ruins and passed right next to the temple before going off into the mountain paths. But Zedeki spied a single campfire still in the ruins in what Nami identified as Castle Acton. Not wanting to be caught unawares from a threat at their backs, the sentinels descended the cliff and ventured towards the ruins. Gongu quickly cast a spell on each of them, allowing them to pass silently through the snow and rocks without making the slightest sound.
 
