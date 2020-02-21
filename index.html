@@ -8,12 +8,14 @@ layout: page
         {% if post.adventure contains "calatia" %}
             {% assign adventure = "Quest for Calatia" %}
             {% assign session = "Session " | append: post.episode %}
-        {% else if post.adventure contains "greatones" %}
-            {% assign adventure = "The Great Ones" %}
-            {% assign session = "Session " | append: post.episode %}
-        {% else if post.adventure contains "red" %}
+        {% endif %}
+        {% if post.adventure contains "red" %}
             {% assign adventure = "The Adventures of Red" %}
             {% assign session = "Chapter " | append: post.episode %}
+        {% endif %}
+        {% if post.adventure contains "greatones" %}
+            {% assign adventure = "The Great Ones" %}
+            {% assign session = "Session " | append: post.episode %}
         {% endif %}
         <h1>Latest Adventure</h1>
         <h2>
