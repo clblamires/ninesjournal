@@ -44,8 +44,12 @@ h2 {
 a {
     color: $red;
     &:hover, &:active {
-        color: $darkred;
+        color: $darkred !important;
     }
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: $red !important;
+    color: white !important;
 }
 
 .btn-primary, .badge-primary {
@@ -257,7 +261,7 @@ table a {
     font-family: 'Cardo', serif !important;
     font-weight: bold;
 }
-.nav-link:hover{
+.nav-link:hover, .nav-item.dropdown.show > .nav-link.dropdown-toggle {
     transition: background 150ms;
     background: white;
 }

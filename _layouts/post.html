@@ -4,14 +4,21 @@
 {% if page.adventure == 'calatia' %}
     {% assign url = "quest-for-calatia" %}
     {% assign adventure = "Quest for Calatia" %}
+    {% assign session = "Session " | append: page.episode %}
 {% else if page.adventure == "greatones" %}
     {% assign url = "the-great-ones" %}
     {% assign adventure = "The Tales of the Great Ones" %}
+    {% assign session = "Session " | append: page.episode %}
+{% else if page.adventure == "red" %}
+    {% assign url = "red" %}
+    {% assign adventure = "The Adventures of Red" %}
+    {% assign session = "Chapter " | append: page.episode %}
 {% else %}
     {% assign url = "oneshots" %}
     {% assign adventure = "One-Shot Adventures" %}
 {% endif %}
 <body>
+
 
     <div id="page">
         {% include navigation.html %}
@@ -30,7 +37,7 @@
                             <img src="{{ site_url }}/images/chapter_images/{{ page.image }}.png" alt="" class="blog-image">
                         {% endif %}
                         <div class="session-info">
-                            <b>{{ adventure }} Session {{ page.episode }}</b>
+                            <b>{{ adventure }} {{ session }}</b>
                             <br>{{ page.recorded }}
                         </div>
                         <hr>
