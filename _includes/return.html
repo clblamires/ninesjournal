@@ -1,9 +1,11 @@
 {% if include.content contains "calatia" %}
     {% assign text = "Quest for Calatia" %}
-{% else if include.content contains "great" %}
+{% endif %}
+{% if include.content contains "great" %}
     {% assign text = "Tales of the Great Ones" %}
-{% else %}
-    {% assign text = "One-Shot Adventures" %}
+{% endif %}
+{% if include.content contains "red" %}
+    {% assign text = "Adventures of Red" %}
 {% endif %}
 
 <p class="prev">
