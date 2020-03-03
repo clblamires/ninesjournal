@@ -216,13 +216,21 @@ table a {
     float: right;
     width: 100%;
     max-width: 200px;
-    padding-left: 10px;
+    // padding-left: 10px;
+    border: solid 1px black;
 }
 @media (max-width: 576px){
     .character-image{
         float: none;
         padding-left: none;
     }
+}
+
+#red {
+    cursor: pointer;
+}
+#red-portrait {
+    width: 100%;
 }
 
 
@@ -262,6 +270,10 @@ table a {
     color: #555;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
+}
+
+.modal-header {
+    border-bottom: none;
 }
 
 

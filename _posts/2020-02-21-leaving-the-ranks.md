@@ -6,7 +6,7 @@ recorded: 'Feb 14, 2020'
 episode: '1'
 adventure: red
 summary: >-
-  Red, newly released from service in the Solsu army, takes up a job up north to
+  Newly released from service in the Solsu army, Red takes on a job up north to
   finance his trip home. He finds himself conscripted into a different kind of
   service.
 levelup: false
