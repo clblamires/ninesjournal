@@ -216,20 +216,17 @@ table a {
     float: right;
     width: 100%;
     max-width: 200px;
-    // padding-left: 10px;
-    border: solid 1px black;
+    cursor: pointer;
+    margin-left: 20px;
 }
 @media (max-width: 576px){
     .character-image{
         float: none;
-        padding-left: none;
+        margin-left: none;
     }
 }
 
-#red {
-    cursor: pointer;
-}
-#red-portrait {
+.character-portrait {
     width: 100%;
 }
 
