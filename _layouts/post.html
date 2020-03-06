@@ -25,16 +25,17 @@
             <div class="row">
                 <div class="col-sm">
                     <main>
-                        <!-- <a href="{{ site.url }}/{{ url }}" class="back-link">
+                        <a href="{{ site.url }}/{{ url }}" class="back-link">
                             <i class="fas fa-caret-left"></i>
                             Back to {{ adventure }}
-                        </a> -->
+                        </a>
 
                         
-                        <h2>{{ page.title }}</h2>
+                        
                         {% if page.image %}
                             <img src="{{ site_url }}/images/chapter_images/{{ page.image }}.png" alt="" class="blog-image">
                         {% endif %}
+                        <h2>{{ page.title }}</h2>
                         <div class="session-info">
                             <b>{{ adventure }} {{ session }}</b>
                             <br>{{ page.recorded }}

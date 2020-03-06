@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grave Child
+title: The Grave Child
 date: 2019-10-28T17:10:20.049Z
 recorded: 'Oct 27, 2019'
 tags: cistern gravechild masks sentinels
@@ -13,7 +13,7 @@ image: gravechild
 ---
 The mercenaries collected themselves after the harrowing battle against Blind and his cronies. They found that Blind carried with him an amulet that perhaps had been giving him the ability to see in the dark, as well as a few other trinkets. After Gongu finished binding Whisper’s wounds, the mercenaries opened the stone door and continued on their trek through the Mabel City Cistern. Zedeki had heard a thud coming from beyond and wanted to investigate.
 
-The path branched two ways. Whisper was interested in going left, smelling something that caused him agitation. To the right was a long path that led past a few more of the ancient Armos statues. Ophinia ventured in first and accidentally tripped a wire that caused a net to fall. She rolled to avoid it and brought up her weapon for protection, but found no attackers. 
+The path branched two ways. Whisper was interested in going left, smelling something that caused him agitation. To the right was a long path that led past a few more of the ancient Armos statues. Ophinia ventured in first and accidentally tripped a wire that caused a net to fall. She rolled to avoid it and brought up her weapon for protection, but found no attackers.
 
 Instead, she was met with a solid wall at a dead end with a faint crack in its foundation. Gongu curled up and rolled at it, crumbling the wall, but knocking himself against a large metal door beyond it. Like the previous Sheikah door they had encountered, this one was engraved in old Sheikah runes and had the teardrop eye emblazoned in the center. Namika unlocked the door with a touch, and she and Whisper felt a presence from within, drawing them both inside. Ophinia, Zedeki, and Gongu attempted to follow, but each of them felt a strange sensation that caused them to turn back. Namika heard a voice speak to her mind: “The stone eaters, sky walkers, and Hylia’s Own cannot enter my shrine.” She and Whisper ventured alone.
 
@@ -23,7 +23,7 @@ At the bottom of a staircase, they found themselves in a shrine. The room was sm
 
 The Sheikah warrior was fast, but Namika and Whisper were faster. With a strike with her bow, the Sheikah warrior shattered into dust, dropping the katana to the ground. But as it fell, its sheath flew through the air and grasped the sword, letting it drop safely. Namika turned and found the Sheikah warrior next to her suddenly. It reached out a hand, and she flinched and moved away. But as it touched her, a strange warmth spread over her body. The Sheikah vanished. Namika picked up the katana and drew it. It seemed strangely familiar, but the balance in the blade was off somehow. She sheathed the weapon, called Whisper to her, and returned to her friends in the Cistern.
 
-The path through the next tunnel led the mercenaries to a set of doors. The one ahead of them was closed but not locked. The door to the left had a lock on it with a small etching in the door: “Blind’s room, keep out!” Using a key they recovered off Blind’s body, they opened the door and entered the room. It smelled of old sweat and rot. An altar in the corner of the room had a few crude daggers on it, apparently used to slice up some Skulltulas, and a pair of black potions in small vials. 
+The path through the next tunnel led the mercenaries to a set of doors. The one ahead of them was closed but not locked. The door to the left had a lock on it with a small etching in the door: “Blind’s room, keep out!” Using a key they recovered off Blind’s body, they opened the door and entered the room. It smelled of old sweat and rot. An altar in the corner of the room had a few crude daggers on it, apparently used to slice up some Skulltulas, and a pair of black potions in small vials.
 
 Ophinia reached out with her mind to sense the presence of evil. She immediately felt that the next room had something in it, and Zedeki immediately heard the thudding noise again. Ophinia, battleaxe in hand, opened the door and felt the same creepy sensation she was now used to as a raspy voice spoke to her: “Hello, Paladin of Hylia. Please come in.”
 
@@ -43,9 +43,9 @@ The Grave Child found a note in one of the dead man's pockets and smirked. She s
 
 The Grave Child’s ghosts remained behind, indicating to Namika where the key to exit the Cistern was found before disappearing themselves. The mercenaries spoke to each other quietly. “Maybe we should have fought her,” suggested Zedeki. “She was not honest with us.”
 
-Beyond the cistern, the mercenaries climbed a ladder that led to an abandoned manse in the residential district of Mabel Village. They ventured outside and saw the midday sun above their heads. Looking around, they could see the Grave Child watching them from the shadows, smiling before vanishing again. They made their way hastily to city hall. 
+Beyond the cistern, the mercenaries climbed a ladder that led to an abandoned manse in the residential district of Mabel Village. They ventured outside and saw the midday sun above their heads. Looking around, they could see the Grave Child watching them from the shadows, smiling before vanishing again. They made their way hastily to city hall.
 
-Dax and Brumlee were still at city hall, looking over paperwork, when the mercenaries entered. They explained the situation, telling them that they found the ancient cistern, cleaned out some skulltulas, and met a blind man possessed by some demonic power. Zedeki and Ophinia also warned them that there may be some stronger evil in the town that they didn’t expect, indicating that their next course of action would be to go into the Hokani Mountains and find the meeting place of these masked people. As Zedeki explained this, he saw the image of the Grave Child again, whispering him to keep quiet before he told Dax and Brumlee about her. When Dax and Brumlee heard this, they apologized that they would not be able to send anyone with them as their police force was maddeningly short-staffed. 
+Dax and Brumlee were still at city hall, looking over paperwork, when the mercenaries entered. They explained the situation, telling them that they found the ancient cistern, cleaned out some skulltulas, and met a blind man possessed by some demonic power. Zedeki and Ophinia also warned them that there may be some stronger evil in the town that they didn’t expect, indicating that their next course of action would be to go into the Hokani Mountains and find the meeting place of these masked people. As Zedeki explained this, he saw the image of the Grave Child again, whispering him to keep quiet before he told Dax and Brumlee about her. When Dax and Brumlee heard this, they apologized that they would not be able to send anyone with them as their police force was maddeningly short-staffed.
 
 Dax instead suggested that they join the wandering police force of Calatia, the Sentinels. Signing up as a sentinel would earn them extra rupees and allow them to enforce the law without having to act as mercenaries any longer. The four mercenaries signed up and became probationary sentinels. Brumlee mentioned that they would need the signatures from two more Marshals in two other cities before they became full sentinels. Dax gave the party their pay for helping in the cistern.
 

@@ -62,29 +62,29 @@ Hours passed in silence. Gongu looked to his friends while they slept, repositio
 
 While his companions roused themselves, Gongu took Stonebreaker and fired a quick shot into one of the shadow beasts. It growled and hissed. They began firing arrows at the beasts to knock them back. With a quick shot by Zedeki's Gale Force, one shadow beast fell to the ground and writhed.
 
-"Don't let it scream!" shouted a deep, booming voice from behind. The sentinels looked in dismay as another creature joined the fight. A large, muscular lynel charged towards the camp. He was wrapped in thick leathers that almost covered the majority of his features, save for the bulging muscular arms that carried a heavy glaive. 
+"Don't let them scream!" shouted a deep, booming voice from behind. The sentinels looked in dismay as another creature joined the fight. A large, muscular lynel charged towards the camp. He was wrapped in thick leathers that almost covered the majority of his features, save for the bulging muscular arms that carried a heavy glaive.
 
-The sentinels prepared themselves to fight the lynel, too. But one of the shadow beasts instead turned around and slashed at the lynel. "I've got this one, bring the other two down before-"
+The sentinels prepared themselves to fight the lynel, too. But one of the shadow beasts instead turned around and slashed at the lynel. The lynel raised the glave and drove it into the beast's chest, pinning it to the ground. "I've got this one, bring the other two down before-"
 
-The lynel couldn't finish the sentence before one of the shadow beasts let out a piercing shriek, echoing through the foothills and causing each of the sentinels to quickly cover their ears. Gongu and Nami fell down, paralyzed by the horrible sound. The lynel shouted again. "They heal each other with their scream! Kill them all, quickly!" The shadow beast that Zedeki had struck raised himself off the ground and continued its awful attack.
+The lynel couldn't finish the sentence before one of the shadow beasts let out a piercing shriek, echoing through the foothills and causing each of the sentinels to quickly cover their ears. Gongu and Nami fell down, paralyzed by the horrible sound. The lynel shouted again. "They revive each other with their scream! Kill them all, quickly!" The shadow beast that Zedeki had struck raised himself off the ground and continued its awful attack.
 
-Zedeki fired Gale Force again, channeling his magic into the shot. The arrow burst apart as it struck, injuring two of the shadow beasts. Whisper charged and began tearing at another. The lynel swung again, impaling his shadow beast, but not enough to kill it. The beasts began screaming again, healing each other and sending the sentinels to their knees from the noise.
+Zedeki fired Gale Force again, channeling his magic into the shot. The arrow burst apart as it struck, injuring two of the shadow beasts. Whisper charged and began tearing at another. The lynel swung again, impaling his shadow beast, but not enough to kill it. The beasts began screaming again, reviving each other and sending the sentinels to their knees from the noise.
 
 Ophinia got on My Lady and charged. My Lady kicked one shadow beast away while Ophinia called upon Hylia. Divine energy erupted from her axe, now called Hero's Honor, as she struck down two shadow beasts, sending them to the earth in misery and pain. Zedeki fired another shot, slamming into the last shadow beast and dropping it to the ground. The three beasts, now devoid of allies, withered away into dust and sand. The breeze from the mountains dissipated their bodies and they were lost to the winds.
 
 The lynel, not sparing even a moment, raised his glaive in anger towards the sentinels. "What are you lot doing in the prairie, unaccompanied by a marshal or sentinel?!" he roared.
 
-The sentinels did not back down, but instead stepped forward towards the lynel. "We are sentinels!"
+The sentinels did not back down, but instead stepped forward towards the lynel. "We *are* sentinels!"
 
-The lynel was confused and demanded to see their badges. "Probationary sentinels, yes, but sentinels nonetheless," he said, inspecting each badge in turn. His demeanor changed instantly. He placed his glaive back into its holder strapped to his back and his face softened. "My apologies, probationary sentinels. It is my job to alarm and intimidate. I am the Scarecrow of Kanalet. Colapius is my name. You are in a most dangerous land, but since you are sentinels, I am not as worried as I would normally be. You see, most travelers that come through the prairie perish from the shadow beasts. It's dangerous to go alone."
+The lynel was confused and demanded to see their badges. "Probationary sentinels, yes, but sentinels nonetheless," he said, inspecting each badge in turn. His demeanor changed instantly, signing with relief and slumping down to the ground. He placed his glaive back into its holder strapped to his back and his face softened. "My apologies, probationary sentinels. It is my job to alarm and intimidate. I am the Scarecrow of Kanalet. Colapius is my name. You are in a most dangerous land, but since you are sentinels, I am not as worried as I would normally be. You see, most travelers that come through the prairie perish from the shadow beasts. It's dangerous to go alone."
 
 Colapius offered to take the sentinels to a better shelter for the night, somewhere the shadow beasts had not yet attacked. Still tired, they took him up on his offer and followed him through the prairie for an hour. It was very late when they arrived at a small stream coming from the Hokani Mountains. The stream led to a small cave where Colapius had a camp fire looking a few wild fowl. Colapius dropped off his glaive by a large tent and went to tend to the cooking meat, offering it to each of the sentinels.
 
 "So," he said between bites. "Sentinels don't come through here very often, save for the woman the other day. What are you doing in the Lellow Prairie, and where are you going?"
 
-"We're traveling north from Mabel Village," replied Zedeki. "The town there was under attack by a secret force of cultists who worship a god they call Cruel. We followed a cultist into the mountains and met Cruel, who turned out to be a god named Majora. Another god was traveling with us, Paraba. Paraba did not survive, but we banished Majora. Now we're heading north to warn the Queen and find the Northern Lighthouse."
+"We're traveling north from Mabel Village," replied Zedeki. "The town there was under attack by a force of cultists who worship a god they call Cruel. We followed a cultist into the mountains and met Cruel, who turned out to be a god named Majora. Another god was traveling with us, Paraba. Paraba did not survive, but we banished Majora. Now we're heading north to warn the Queen and find the Northern Lighthouse."
 
-"That's a lot of information," mused Colapius. "I've never heard of Paraba or Majora or whatever, but I can say I don't believe the Northern Lighthouse exists. But do as you will. There's a Sentinel House in Kanalet that you're welcome to visit. We keep a small fund for traveling sentinels such as yourselves, but Soveliss probably took it already. She might still be around if you want to visit with her. Kanalet is the major town in this area, about two days north of here. A day from here is the main road that can take you to Soutuna in the south or Chorus if you go north."
+"That's a lot of information," mused Colapius. "I've never heard of Paraba or Majora or whatever, but I can say I don't believe the Northern Lighthouse exists. Never mind me, though. I'm not exactly a scholar. There's a Sentinel House in Kanalet that you're welcome to visit. We keep a small fund for traveling sentinels such as yourselves, but Soveliss probably took it already. She might still be around if you want to visit with her. Kanalet is the major town in this area, about two days north of here. A day from here is the main road that can take you to Soutuna in the south or Chorus if you go north."
 
 "Perhaps we should go to Kanalet first," offered Zedeki.
 
@@ -94,13 +94,15 @@ Colapius shifted towards his tent. "Another sentinel, like yourselves, but with 
 
 The sentinels agreed and began laying out their own sleeping bags and blankets. Gongu and Nami offered to watch over the camp that night, and Gongu took the first shift. While everyone slept, he continued to gaze around the camp, watching for shadow beasts. As he looked, he saw in the sky another meteorite. The shooting star was glowing white this time, once again illuminating the land, and Gongu sensed that Whisper felt at ease when the meteorite passed into the night.
 
-While Ophinia slept, she dreamed. She was back in Elsith's Safe House, but no one was there. Inside the hallway, she could see the faint glow of the hearth from the parlor. She walked down, quietly, and found Paraba seated by the fire. His armor was gone and he sat alone with the wrappings still on his body, his futile attempt to disguise himself from her. He turned and motioned to Ophinia to sit.
+While Ophinia slept, she dreamed. She was back in Elsith's Safe House, but no one was there. Inside the hallway, she could see the faint glow of the hearth from the parlor. She walked down, quietly, and found Paraba seated by the fire. His armor was gone and he sat alone with the wrappings still on his body, his futile attempt to disguise himself during life. He turned and motioned to Ophinia to sit.
 
 "I'm sorry we didn't get a chance to discuss things," he said. "Back when I was alive, I mean."
 
 "It's alright," she replied, nervous. "What is-"
 
-He held up his hand. "No questions. Not yet. Remember when we first met? You wanted to play a game of cards? Let's do that now."
+He held up his hand. "No questions. Not yet. Remember when we first met? You wanted to play a game of cards?"
+
+"I remember."
 
 Ophinia sat down and watched Paraba produce a deck of cards. He placed them face down on a table between their chairs.
 
@@ -114,9 +116,9 @@ The smile faded from Paraba's face. "He's.... he's not a bad person. The horse g
 
 "Perhaps. It depends on the magic he is asked to perform. He's a very chaotic individual. I really cannot say what sacrifice he will demand of you. Should you meet him, prepare yourself. You may be disappointed in what he asks."
 
-They each drew a card. Ophinia won again. "What is your connection to Hylia?"
+They each drew a card. Ophinia won again. She asked, "What is your connection to Hylia?"
 
-Paraba laughed. "That's a good question! Hylia is my friend. At least, I think so. I haven't spoken to her in so long, but that may be Majora's fault. I was one of Hylia's warriors back when the world began and Skyloft soared above the clouds. We fought against Demise and his demons. We were victorious, to a degree. Hylia offered herself to resurrect eternally as the Princess of Light. I was one of her champions and she asked me to become a god like her and help protect the lands should Demise return before the Princess is reborn. My mission was to be the patron of heroes in Calatia. Yes, Hylia gave me my divinity and was my mentor for ages upon ages. I am sorry I ended up failing in my mission. Perhaps that's why she chose you. You're someone I can guide and assist."
+Paraba laughed. "That's a good question! Hylia is my friend. At least, I think so. I haven't spoken to her in so long, but that may be Majora's fault. I was one of Hylia's warriors back when the world began and Skyloft soared above the clouds. We fought against Demise and his demons. We were victorious, to a degree. Hylia offered herself to resurrect eternally as the Princess of Light as a means of sealing away Demise's descendants. I was one of her champions and she asked me to become a god like her and help protect the lands should Demise return before the Princess is reborn. My mission was to be the patron of heroes in Calatia. Yes, Hylia gave me my divinity and was my mentor for ages upon ages. I am sorry I ended up failing in my mission. Perhaps that's why she chose you. You're someone I can guide and assist."
 
 They each drew a final card. This time, Paraba won.
 
@@ -128,6 +130,6 @@ He leaned in close. "Tell me, Ophinia. Do you desire power?"
 
 Ophinia was confused. "What about my pact with Hylia?"
 
-"Oh, nothing there would change," he replied. "I served Hylia as best as I could. Your service to the goddess will not change. Think it over, Ophinia. If you can, converse with Hylia. Feel her presence. While Majora persists in Calatia, he is somehow able to block our connection to the goddess. Do what you can. My offer will never be rescinded. Think it over. We shall speak again."
+"Oh, nothing there would change," he replied. "I served Hylia as best as I could. Your service to the goddess will not change. Think it over, Ophinia. If you can, converse with Hylia. Feel her presence. While Majora persists in Calatia, he is somehow able to block our connection to the goddess. Do what you can. My offer will never be rescinded. My magic can be a great boon to you, though I can sense the magic of Hylia flows powerfully through you already. If it is your desire, I can add to that power. Think on it. We shall speak again."
 
 With that, the dream ended. Ophinia awoke in the morning and saw Nami silently watching the horizon as the sun began to rise.

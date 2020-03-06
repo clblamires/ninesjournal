@@ -52,9 +52,9 @@ Salath bit and scratched at Gongu. Zedeki and Namika both put arrows into Salath
 
 And then, they all remembered! There was a woman in black robes that had appeared before them. She cast a strange spell, and suddenly Dino and Salath were their companions! These two evil ghouls had traveled with them for hours, slowly gaining their trust before going in for the kill. Only Namika could shrug the spell off slightly. It was as Dax suggested: these woods were certainly mysterious.
 
-The sentinels continued, this time at a somewhat slower pace. They were ever vigilant if the woman in black should reappear. 
+The sentinels continued, this time at a somewhat slower pace. They were ever vigilant if the woman in black should reappear.
 
-Hours passed before they heard screams to the west. 
+Hours passed before they heard screams to the west.
 
 “Help me! Someone!”
 
@@ -74,7 +74,7 @@ The woman pointed down below. “The slimes... the Like Likes. They... uh... the
 
 Zedeki and Namika looked down. Sure enough, there were two large Like Likes at the base of the tree, both trying desperately to climb after the woman. They made a quick plan: Namika would distract the Like Likes while Zedeki secured the woman and got her to a safer place in the tree. When she was safe, they would dispatch the Like Likes.
 
-The plan did not go off without troubles. Namika found that the trees were made of very flimsy branches, and she fell to the ground. Fortunately, that was enough to distract the Like Likes. Zedeki got the woman to a safer position and he and Namika slew the Like Likes. The woman recovered her book and shoe from the bodies. 
+The plan did not go off without troubles. Namika found that the trees were made of very flimsy branches, and she fell to the ground. Fortunately, that was enough to distract the Like Likes. Zedeki got the woman to a safer position and he and Namika slew the Like Likes. The woman recovered her book and shoe from the bodies.
 
 “Thanks for saving me! Hi, I’m Nobira!” said the woman.
 
@@ -118,7 +118,7 @@ Near the fire was a very large and very old goron with blue and white skin and a
 
 The party introduced themselves. When Gongu spoke, Elsith looked at him for a moment. “Something’s wrong with you, look at your skin. What’s your name?”
 
-“Er... It’s Ugnog,” said Gongu. 
+“Er... It’s Ugnog,” said Gongu.
 
 “You’re lying, Hyrulean,” she shot back, smiling with crooked teeth. She pointed to her head. “And take that blue ring off, you look silly. I’m reading your thoughts, kids. Don’t lie to me! I don’t take kindly to liars. I can read your minds if you want, or you can just tell me: why are a bunch of Hyruleans in this old country? And what brings you to my safe house?”
 

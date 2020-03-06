@@ -101,7 +101,7 @@ Zedeki asked her what brought her to the province. “Well,” she replied. “I
 
 Ophinia excused herself and left, heading straight for the temple.
 
-“You mentioned that Il was looking for Zedeki,” said Zedeki. “That’s… that’s me.”
+“You mentioned that Il was looking for Zedeki,” said Zedeki. “That’s... that’s me.”
 
 “*Sav*!” said Soveliss. “He wasn’t sure you were alive. If you go looking for him, go north. I met him near the Asiria Passage.”
 
@@ -125,7 +125,7 @@ The sound of the fireplace in the parlor stopped. The sound of people outside th
 
 The woman smirked. “Is that really the question you want to ask?”
 
-“Oh no!” cried Nami. “I didn’t mean to!”
+“Oh no!” cried Nami. “I didn’t mean to- ”
 
 The woman laughed. “It’s fine, that’s just a joke! Tell you what, I’ll give you a free answer. No mask power required. My name is Nayru. I believe you came to this country on a ship named after me.”
 
@@ -141,23 +141,23 @@ The woman laughed. “It’s fine, that’s just a joke! Tell you what, I’ll g
 
 “Yes, please.”
 
-“I have good news and bad news,” said Nayru, the smile fading from her face slightly. “The bad news is that he has been taken prisoner by Brynn the Pirate. The pirates are nasty invididuals, and they’ve barricaded themselves in a Sheikah structure that is simply called the House of Pirates. He has been there for a few days now, and will be there for many more. The good news is that he is safe. At least, for now. Brynn is a collector of sorts, and sees the fairy as a prize.”
+“I have good news and bad news,” said Nayru, the smile fading slightly from her face. “The bad news is that he has been taken prisoner by Brynn the Pirate. The pirates are nasty invididuals, and they’ve barricaded themselves in an old Sheikah fortress that is today called the House of Pirates. He has been there for a few days now, and will be there for many more. The good news is that he is safe. At least, for now. Brynn is a collector of sorts, and sees the fairy as a prize.”
 
 Nami blinked and, in an instant, was transported across the Lellow Prairie up towards Chorus. She passed many small houses and farms, stables and stores, until her vision came to a fortress nestled in the trees near the Gulf of Calatia.
 
-“It’s unfortunate that he has been captured,” said Nayru. “But it is fortunate that he has… confidants that may be able to rescue him. And yes, if you’re wondering, Il still has the key to the Southern Lighthouse.”
+“It’s unfortunate that he has been captured,” said Nayru. “But it is fortunate that he has... confidants that may be able to rescue him. And yes, if you’re wondering, Il still has the key to the Southern Lighthouse.”
 
-Nami thought about this for a second. “I have a second question, actually.” Nayru nodded and smiled again. “Why… why can’t any of us hear Hylia here? I mean, I never have anyway, but Ophinia and Gongu used to speak to her, face-to-face I think. But they can’t hear her anymore. Ophinia wants to make a pact with Paraba but wanted Hylia’s guidance.”
+Nami thought about this for a second. “I have a second question, actually.” Nayru nodded and smiled again. “Why... why can’t any of us hear Hylia here? I mean, I never have anyway, but Ophinia and Gongu used to speak to her, face-to-face I think. But they can’t hear her anymore. Ophinia wants to make a pact with Paraba but wanted Hylia’s guidance.”
 
 Nayru’s face darkened. “That would be Majora,” she answered. “Majora is a horrid god that has illusions of grandeur. A very old tribe used to worship him and perform rituals in his name. The rituals continue to be performed, and it blocks much of the divine power and blessings that Calatia should be receiving. Even my own power is limited by Majora here. Hylia is blocked entirely. If Ophinia and Gongu wish to speak to Hylia again, Majora must be vanquished. Defeated. Killed, if it is possible.”
 
 “Is it not possible?”
 
-“You are out of questions, Namika Rah,” said Nayru, the smile returning. “But further, you may tell Ophinia that Hylia is very pleased with her thus far. Making a pact with the god of heroes is a permitted by the goddess. She smiles on Ophinia, as she smiles on all of you. I may answer that once the mask recharges its power. As I said, Majora’s influence is great in Calatia. I can answer your questions once the magic in the mask returns. Wait one week, and we can speak like this again.”
+“You are out of questions, Namika Rah,” said Nayru, the smile returning. “The magic in the Mask of Truth is running low on energy. But you may tell Ophinia that Hylia is very pleased with her thus far. Making a pact with the god of heroes is a permitted by the goddess. She smiles on Ophinia, as she smiles on all of you."
 
-The vision faded and Nami was back in her room. It seemed that no time had passed at all, but to Nami, it seemed like an age had gone by. She returned to her companions, informing them of Il’s predicament and Ophinia’s permission by Hylia. They settled on setting out for the House of Pirates on the next day.
+The vision faded and Nami was back in her room. It seemed that no time had passed at all, but to Nami, it seemed like an age had gone by. She returned to her companions, informing them of Il’s predicament and Ophinia’s permission by Hylia. Upon hearing this, Ophinia broke into laughter. Her worries about Paraba and his pact were immediately put to ease. She mused about her questioning to Rowan and Var Magnus earlier, only to have a goddess answer the question on her mind. 
 
-Before she slept, Ophinia took Hero’s Honor in her hands and said a quick prayer.
+The sentinels settled on setting out for the House of Pirates on the next day. Before she slept, Ophinia took Hero’s Honor in her hands and said a quick prayer.
 
 “God of heroes,” she said. “I will make this pact with you.”
 

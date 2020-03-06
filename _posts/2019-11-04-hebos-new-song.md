@@ -26,7 +26,7 @@ While Petra worked on this, I asked Soul if we could lift the ship’s solitary 
 
 Back below deck, Oromis asked me to inscribe some magic into the ink to make it appear as if it was written with magical ink. The ink glistened in the light, but Luna suggested that it was still obviously fake. That would not matter, Oromis explained. While the dragon was reading it, we would already be in a position to attack.
 
-Here is the plan:
+Here was the plan:
 
 * The Great Ones would ascend the mountain in the morning to meet the dragon, as per our agreement
 * Oromis and Petra would approach the dragon initially, while Hebo and Ezio hid somewhere nearby. The rest of us would be not far off, but hopefully out of range of the dragon’s breath
@@ -56,7 +56,7 @@ Ezio replied, “Petra says that Kobolds usually serve dragons.”
 
 I turned to Eclipse and Hebo. “Is this cannon prepared to fire?” They both nodded. I stamped on the deck of the ship and shouted to Soul. “The dragon may be coming now. Prepare yourselves!”
 
-When I turned back to the beach and the treeline, Ezio had vanished. Oromis and Petra were next to each other, speaking. Luna waved to me and pointed to the sky. 
+When I turned back to the beach and the treeline, Ezio had vanished. Oromis and Petra were next to each other, speaking. Luna waved to me and pointed to the sky.
 
 The dragon was coming.
 
@@ -88,7 +88,7 @@ Oromis stammered, caught off guard by the question. “The... the cave. There we
 
 Oromis suddenly laughed, unafraid. “You want this axe?” he said. “Very well, I’ll introduce you!”
 
-He launched himself forward at the dragon. Renshato moved to dodge, but my cannon struck him in the back of the head and he crumbled to the ground, roaring in pain. Oromis leapt into the air and drove the axe down into Renshato’s shoulder. An arrow from Ezio’s hidden location struck the dragon in the face. 
+He launched himself forward at the dragon. Renshato moved to dodge, but my cannon struck him in the back of the head and he crumbled to the ground, roaring in pain. Oromis leapt into the air and drove the axe down into Renshato’s shoulder. An arrow from Ezio’s hidden location struck the dragon in the face.
 
 “The Great Ones are upon you, Renshato!” I shouted.
 
@@ -102,7 +102,7 @@ Renshato inhaled deeply and prepared another poisonous breath attack. As he inha
 
 “The cannon!” shouted Oromis from the beach. “Nine! Ezio! Keep shooting! Petra, keep it busy!”
 
-Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing the dragon’s direction, Petra summoned a ball of fire and sent it in front of Renshato. The injured dragon reacted by slowing down and dodging. 
+Ezio and I fired again, ripping scales from Renshato’s cowardly hide. Seeing the dragon’s direction, Petra summoned a ball of fire and sent it in front of Renshato. The injured dragon reacted by slowing down and dodging.
 
 As he did, Eclipse aimed the cannon. Hebo flipped onto it, hands in the air, and shouted bad words in Goblin-tongue. He snapped his fingers, igniting the cannon. An explosive blast of gunpowder and smoke erupted from the cannon, but Hebo balanced and watched.
 

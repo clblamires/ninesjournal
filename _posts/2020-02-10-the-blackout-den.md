@@ -59,7 +59,7 @@ The last fight was announced. “Bromm versus Caeda Norgrund!”
 
 I mean no offense to our assassin friend, but I honestly did not expect him to win his match. Ezio was immediately struck by Caeda’s overly large hammer. He gasped, spitting blood, but managed to dodge away from the next few attacks. He dove, firing an arrow into Caeda’s armor, stopping her charge. Ezio wiped the blood from his eyes and drew the Sons of Slate, wildly slashing. The attacks were enough! Caeda was temporarily blinded by the blood in her own eyes and threw her weight behind her hammer. Ezio dodged and, fast as lightning, stabbed twice. Caeda dropped the hammer and fell, announcing her yield.
 
-\---
+***
 
 After the battles, we decided we needed some rest. My magic was mostly spent from trying to hide in plain sight, so I accompanied Petra, Eclipse, and Oromis back to the Sailor’s Chateau. Oromis was bragging about his victory and I honestly felt it would be good for me to purchase drinks for him and the Great Ones. Evidently, I do not fully understand how much drinks should cost. Eclipse told me that one gold piece would be sufficient, and the drinks were not all drunk by the time we went to sleep.
 
@@ -89,11 +89,11 @@ With no modesty whatsoever, I was completely shocked and in awe at seeing this m
 
 I quickly produced Number Eight’s Book of Artifice. I explained that the book was Eight’s notes and inventions and that it included detailed instructions on how to create a Thunder Cannon. But my love had died before he could finish the book, and much of the notes that he wrote were written in code and I could not decipher them. Zerrick agreed to let me become his apprentice if he could look at Eight’s book and use my own body as a reference and source of study. I would not return to my friends until late in the night as Zerrick and I were busy talking, writing, and studying throughout the day. We only stopped because he needed to eat. I am not burdened with such a weakness, but I would never say that to my new master.
 
-\---
+***
 
 Hebo, Luna, and Eclipse returned to the Blackout Den. Hebo had spoken to Slade last night about exchanging weapons with the guild. After the exchange, the Great Ones had gotten rid of some of our excess weaponry and Hebo had a brand new rapier, perfect for his size. Hebo also tried to sell “performing arts” to the Blackout Den, but Slade was uninterested. Hebo was very discouraged, and Luna and Eclipse guided him back outside. Frustrated, Hebo found a few different candy stores and bakeries and purchased what Luna described as “far too much” chocolate and ate most of it himself before getting into an almost drunken state. Luna carried Hebo back to the Chateau while Hebo muttered about chocolate milk and how no tavern in town seemed to have any of it.
 
-\---
+***
 
 Oromis had met up with Ezio to go to the office of the Yellowjackets and meet with Say’ri, the aarakokra in charge of the group. Behind closed doors, they learned about the bounty we received back in the Redstone Canyons. Harama Stonefist, called by the Yellowjackets as The Slasher, had escaped the Obsidian Garrison months ago. No one knew how he escaped. Before the escape had occurred, another Yellowjacket in the vicinity had been killed – possibly silenced. Since Stonefist’s breakout, a few individuals in Everdusk had gone missing. Say’ri told Oromis and Ezio that the people who disappeared were all high-ranking individuals in the Dark Suns Guild.
 
@@ -101,7 +101,7 @@ The Yellowjackets believe that Stonefist has at least two more targets in Everdu
 
 Ezio received a description of Stonefist: a shifter with long, razorlike claws. Oromis suggested setting a trap but thought it would be best if the Great Ones conferred together before we made any plans. Say’ri promised further information if our party informed her of our plans and progress. Ezio and Oromis excused themselves and left the Yellowjacket’s office.
 
-\---
+***
 
 It was night when I received a magical message from Hebo, asking me to return to the Sailor’s Chateau for a team meeting. I tried to find an excuse to stay with Master Zerrick, but they needed me. I asked Master Zerrick if I could return tomorrow and possibly purchase any magical items he might have crafted. This would be good for us to have anything to give us better protection, but I also wanted to fund his research further in any way I could. I still had the bag of coins from the Menagerie. I think the Great Ones will appreciate my purchasing anything to better protect them.
 

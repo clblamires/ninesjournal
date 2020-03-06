@@ -17,7 +17,7 @@ While waiting, Red overheard the Colonel shouting at another private. It was Dar
 
 Red entered Layornie’s office and learned exactly what he expected: his service with the Solsu Army was ending tomorrow morning and he would be released. Red gathered his equipment and possessions, said goodbye to his friend Sargeant Haun, and left the very next day. He would return home to Tridu at a slow pace. Red wanted to see the countryside and make some more personalized maps for himself.
 
-\---
+***
 
 He took a job flyer from Fort Trine before leaving. The job requested that the employee would find a “lost item”, and a cryptic map was written on the back of the flyer in partially invisible ink with location notes written in Dwarvish. Knowing Dwarvish due to his work in the army, Red was intrigued by the mysterious job and decided to head north to fulfill it, earning some coin to finance his journey back home. The job took him north on the road through the Peace Plains, and he thought it would be at least four or five days before he came to the job site.
 
@@ -27,7 +27,7 @@ Red and Corlee took up the road north the next day. A passerby, the Old Wagoner 
 
 The next day, Corlee led Red towards the mark on the map. She explained that she and her master had found an old abandoned tower in the fields and that could possibly be the place for the job. Along the way, they were attacked by a Death Dog, a rare site in the Peace Plains. Red took a grievous injury but he and Corlee managed to slay the beast.
 
-\---
+***
 
 They followed the trail towards the old tower, but came upon an old cottage in the woods. The attendant of the cottage was a human man with a pendant around his neck, an emblem showing a star with a half moon overlapping it. The man gave them leave to enter the cabin to rest. Inside, they found an old dwarf named Murdoch, fiercely bent with age, who turned out to be the source of the job. Cultists had taken a rare artifact from him a short while ago: a mysterious ‘heart’ that belonged to his patron. The old man offered to let Red and Corlee spend the night in his cabin before they headed out to the tower where the cultists were located.
 
@@ -39,7 +39,7 @@ Corlee delivered a swift kick to the weak elf’s head, knocking him senseless a
 
 Atop the tower, Red and Corlee found a large shimmering plate that seemed to act as a magical conduit of some kind. The dark elf in charge had a blood ruby in his possession that Red took, as well as a pouch of spell components on his belt. Near the base of the tower was a cellar that had a single chest in it with a leather skinned bag. Red somehow knew that this item was what he was looking for. The heart of Murdoch’s patron. As Red and Corlee removed the bag from the chest, the tower began to rumble. It came crashing to the ground right as they escaped, forever burying the cultists and whatever rituals they had failed to perform.
 
-\---
+***
 
 Red and Corlee returned to Murdoch’s cabin, but the attendant outside suggested Corlee follow him, leaving Red to report back to Murdoch alone. Murdoch was exuberant at learning that the heart is back, asking Red to place it on a nearby shelf. The white cat cuddled close to Murdoch, whose breath was very labored, and watched intently as Red reported what had happened.
 
@@ -55,6 +55,6 @@ Red turned and saw that the bag with the Heart of Valtare was missing. Alarmed, 
 
 Red asked what he should do to best serve Valtare. Greigon suggested he starts by going West to Padoria and seeking knowledge of Missuk. The cabin was Red’s now, and Greigon would do what he could to keep it in good condition for Red’s eventual return. It was hallowed by Valtare and would provide him and any of his companions with safety if they needed it. With that, Greigon faded away and left Red alone.
 
-\---
+***
 
 Red stepped outside and saw Corlee, not far away, picking flowers. He walked towards her and began to think of ways to explain what just happened and where he would go next.

@@ -26,15 +26,15 @@ The sentinels elected to take the man in wrappings with them. They took their le
 
 “Can you sense the darkness in Calatia, Hyrulean?" he responded. "Can you feel the disconnect from Hylia here? Up in the mountains, there is something evil that has taken residence in the Temple of Paraba. And I intend to cleanse it.”
 
-...
+***
 
-The path through the forest was the same as it was yesterday. Strange eyes watched the travelers from a long distance. This time, Zedeki flew lower to the tree line to stay within earshot of his companions. After a short while, they came to a crossroad. Whisper smelled something to the east and the man in wrappings said the path east lead up the mountains towards the temple. Before they could leave, Namika spotted something running towards them: a Bokoblin with an empty quiver. Ophinia crushed one of the teeth on her necklace and spoke Blin to it.
+The path through the forest was the same as it was yesterday. Strange eyes watched the travelers from a long distance. This time, Zedeki flew lower to the tree line to stay within earshot of his companions. After a short while, they came to a crossroad. Whisper smelled something to the east and the man in wrappings said the path east lead up the mountains towards the temple. Before they could leave, Namika spotted something running towards them: a bokoblin with an empty quiver. Ophinia crushed one of the teeth on her necklace and spoke Blin to the bokoblin.
 
 _“You there!”_ she hollered. _“What are you doing here?”_
 
 It stopped and grasped at its empty quiver. It wielded only the empty bow in its hands. _“You speak Blin?”_
 
-Ophinia repeated her question. The Bokoblin cried out, cowering and groveling. _“Please don’t hurt Iglimik! Iglimik only wanted to get away from mean Billimug and the master! They are so scary! Iglimik will go north to the nicer tribe.”_
+Ophinia repeated her question. The Bokoblin cried out, cowering and groveling. _“Please don’t hurt Iglimik! Iglimik only wanted to get away from mean Billimug and the master! Very scary! Iglimik will go north to the nicer tribe.”_
 
 _“What nicer tribe?”_ asked Ophinia.
 
@@ -44,9 +44,9 @@ _“Who is Billimug?”_
 
 “_Billimug is the demon. Very scary, very mean. Iglimik does not want mean. Iglimik wants peace.”_
 
-Ophinia relayed this information to the other sentinels before making Iglimik swear that he would not hurt anyone or anything else. As Iglimik scampered away into the thicket, the man in wrappings informed them that he had heard of many creatures of darkness in the mountains, and a demon matched what he knew. He suggested that they take caution once they got to the mountains. On the horizon, Zedeki saw a great snow storm approaching from the north. The man in wrappings said that they should get moving. Even going through the mountains, they could still make it to the Temple of Paraba before the storm hits. 
+Ophinia relayed this information to the other sentinels before making Iglimik swear that he would not hurt anyone or anything else. As Iglimik scampered away into the thicket, the man in wrappings informed them that he had heard of many creatures of darkness in the mountains, and a demon matched what he knew. He suggested that they take caution once they got to the mountains. On the horizon, Zedeki saw a great snow storm approaching from the north. The man in wrappings said that they should get moving. Even going through the mountains, they could still make it to the Temple of Paraba before the storm hits.
 
-...
+***
 
 The trees of the forest waned as the sentinels traveled east, coming to what appeared to be an impassable wall. Gongu was able to see the trail fairly easily and the man in wrappings noted that the trail through the mountains was incredibly difficult to find. Even Zedeki, flying above and watching over his companions, had difficulty finding them. The snow began to fall harder and harder as they moved onward, following Gongu’s expert guidance.
 
@@ -60,7 +60,7 @@ A blast shook the sky as Zedeki was hit by a fire spell. Shaking it off, he stru
 
 Ophinia and Zedeki bound up their wounds and the group continued. The storm was approaching fast.
 
-...
+***
 
 They soon reached the summit of a smaller mountain. The dark sky loomed above them with heavy snowfall now descending. Ahead, they beheld a large structure made of stone with carved columns and statues. The building had many thick cracks in it, slowly crumbling over the years under the weather that beat upon it. The mountain was dead silent but for a very faint voice coming from inside the temple. 
 
@@ -88,29 +88,29 @@ The man in wrappings stepped forward, axe in hand. “Get out of my temple.”
 
 From the archway, a long, black arm extended from the portal. As it moved, it elongated into a large tentacle and wrapped around Ulrira’s neck. Ulrira fell to the ground and the tentacle began pulling him towards the portal.
 
-“How faithlessly you served me,” said the figure. “You ruined this province, as commanded, but you were weak. Come, enter into my rest.”
+“How faithless,” said the figure to Ulrira. “You followed your commandments, but without devotion. Without purpose. Come and enter into my rest.”
 
-Zedeki, Namika, and Gongu reacted. They each fired their bows, sticking arrows into Cruel’s tentacle, but it continued to pull until Ulrira was dragged into the portal and out of sight forever.
+Zedeki, Namika, and Gongu reacted. They each fired their bows, sticking arrows harmlessly into Cruel’s tentacle, but it continued to pull until Ulrira was dragged into the portal and out of sight forever.
 
-“You dare challenge me, the god of Calatia?” roared Cruel. “Know this: I have what I need from your pitiful little ship. And when the lighthouses are destroyed, I will be free. As your enemy, I will burn you all. But you may yet be forgiven. Only the strongest will live in my Calatia. Consider this a test.”
+“You dare challenge me, the god of Calatia?” hissed Cruel. “Know this: I have what I need from your pitiful little ship. And when the lighthouses are destroyed, I will be free. As your enemy, I will burn you all. But you may yet be forgiven. Only the strongest will live in my Calatia. Consider this a test.”
 
-Cruel disappeared, but two figured blocked the doorway to the temple behind them: a small girl with ashen skin and a tall winged creature with black skin and leather armor holding a long spear.
+Cruel disappeared, but two figured blocked the doorway to the temple behind them: a small girl with ashen skin and a tall winged creature with black and red skin and leather armor holding a long spear.
 
 The Grave Child and Billimug, the Acheman.
 
-Zedeki quickly fired an arrow into the Acheman, but the Acheman ripped the arrow from his own skin and flung it to the ground. The Grave Child wrapped herself in flames and smiled. She sent a barrage of fire at the sentinels. When the flames died down, Whisper and Ophinia lay on the ground. 
+Zedeki quickly fired an arrow into the Acheman, but the Acheman ripped the arrow from his wound and flung it to the ground. The Grave Child wrapped herself in flames and smiled. She sent a barrage of fire at the sentinels. When the flames died down, Whisper and Ophinia lay on the ground.
 
-Paraba howled, raising his axe and attacking Billimug. Namika and Gongu fired arrows to cover Zedeki while he picked Ophinia up with a heart potion. She immediately ran towards the Grave Child and swung, sending the Grave Child backwards with a powerful blow of radiant energy before turning and casting a spell. The Grave Child, greatly injured, teleported away. Billimug the Achemon hissed in horror and fled, flying away to the north. 
+Paraba howled, raising his axe and attacking Billimug. Namika fired arrows to cover Zedeki while Gongu picked Ophinia up with a heart potion. Ophinia immediately ran towards the Grave Child and swung, sending the Grave Child backwards with a powerful blow of radiant energy before turning and casting a spell. The Grave Child, greatly injured, teleported away. Billimug the Achemon hissed in horror and fled, flying away to the north.
 
 Gongu ran over to Whisper and began to wrap his wounds. Zedeki flew out the door but could not find the Grave Child now. “Where did she go?”
 
 Gongu closed his eyes. After a moment, he said, “I can sense her. She’s not far. She’s down the path, going towards My Lady.”
 
-Ophinia cried out, but Zedeki flew into the air and charged through the snow. Namika raced after him and caught up just as a blast of energy from the Grave Child shattered into him and dropped him to the ground. The Grave Child laughed but only for a moment. Namika had fed Zedeki an amount of potion and he raised himself weakly up. He fired a shot and the Grave Child fell to the ground. The body of the girl collapsed and withered away, but a dark spiritual form rose high into the air and screamed as it vanished into the storm. 
+Ophinia cried out, but Zedeki flew into the air and charged through the snow. Namika raced after him and caught up just as a blast of energy from the Grave Child shattered into him and dropped him to the ground. The Grave Child laughed but only for a moment. Namika had fed Zedeki an amount of potion and he raised himself weakly up. He fired a shot and the Grave Child fell to the ground. The body of the girl collapsed and withered away, but a dark spiritual form rose high into the air and screamed as it vanished into the storm.
 
-Inside the temple, Paraba approached the archway. The dark figure stood there for only a moment.
+Inside the temple, Paraba approached the archway.
 
-“You cannot beat me,” it growled. “This land is mine. I will be free. You have no power over me.”
+“You cannot beat me,” said the voice of Cruel. “This land is mine. I will be free. You have no power over me.”
 
 But Paraba suddenly glowed with divine energy. His dull armor shone briefly with violent white and red light. He raised his axe and the runes burned brightly. “Be gone from my temple, Majora!”
 

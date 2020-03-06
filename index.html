@@ -4,41 +4,50 @@ layout: page
 ---
 
 <div class="latest">
-    {% for post in site.posts limit:1 %}
+    <h1>Latest Adventures</h1>
+    {% for post in site.posts limit:3 %}
         {% if post.adventure contains "calatia" %}
             {% assign adventure = "Quest for Calatia" %}
+            {% assign url = "quest-for-calatia" %}
             {% assign session = "Session " | append: post.episode %}
         {% endif %}
         {% if post.adventure contains "red" %}
             {% assign adventure = "The Adventures of Red" %}
+            {% assign url = "red" %}
             {% assign session = "Chapter " | append: post.episode %}
         {% endif %}
         {% if post.adventure contains "greatones" %}
             {% assign adventure = "The Great Ones" %}
+            {% assign url = "the-great-ones" %}
             {% assign session = "Session " | append: post.episode %}
         {% endif %}
-        <h1>Latest Adventure</h1>
-        <h2>
-            {{ post.title }}
-        </h2>
-        <div class="session-info">
-            {{ adventure }} {{ session }} on {{ post.recorded }}
-        </div>
-        {% if post.image %}
-            <img src="{{ site_url }}/images/chapter_images/{{ post.image }}.png" alt="" class="blog-image">
-        {% endif %}
         <hr>
-        <div class="entry">
-            <p>
-                {{ post.excerpt }}
-            </p>
-            <p class="text-center">
-                <a href="{{ post.url }}" class="read-more">
-                    Read more
-                    <i class="fas fa-book"></i>
-                </a>
-            </p>
-        </div>
 
+        <div class="main-page-blog">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div>
+                        <img src="{{ site_url }}/images/chapter_images/{{ post.image }}.png" alt="" class="blog-image">
+                    </div>
+                    <p class="text-center">
+                        <a href="{{ post.url }}" class="read-more">
+                            Read more
+                            <i class="fas fa-book"></i>
+                        </a>
+                    </p>
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <h2>{{ post.title }}</h2>
+                    <div class="session-info">
+                        <a href="{{ site.url }}/{{ url }}">{{ adventure }}</a> {{ session }} on {{ post.recorded }}
+                    </div>
+                    <p class="text-center quote">
+                        {{ post.excerpt }}
+                    </p>
+                </div>
+
+            </div>
+        </div>
+ 
     {% endfor %}
 </div>
