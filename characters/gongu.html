@@ -2,11 +2,12 @@
 title: Gongu
 layout: page
 adventure: calatia
+permalink: /characters/gongu/
 ---
 
 
 <h1 id="gongu">Gongu</h1>
-<img src="{{ site_url }}/images/calatia/characters/gongu_portrait.png" alt="Image of Gongu" class="character-image">
+<img src="{{ site_url }}/images/calatia/characters/gongu_portrait.png" alt="Image of Gongu" class="character-image" data-toggle="modal" data-target="#myModal">
 <ul>
     <li>
         <b>Race</b>: Goron
@@ -22,7 +23,7 @@ adventure: calatia
     </li>
 </ul>
 <p>
-    Small for a Goron, Gongu is an enigma amongst his brothers. He cares little for hammers and smashing weapons, preferring his long bow. Gongu spent much of his childhood roaming and adventuring on his own. He spends much of his time with his wolf companion, <a href="{{ site.url }}/party/whisper">Whisper</a>, a strange beast that never seems to make any noise. Gongu has learned the ability to speak with his companion, a gift from the goddess Hylia. They travel to Calatia to "find meaning." Not surprising for a Goron, Gongu cannot swim and has a fear of water.
+    Small for a Goron, Gongu is an enigma amongst his brothers. He cares little for hammers and smashing weapons, preferring his long bow. Gongu spent much of his childhood roaming and adventuring on his own. He spends much of his time with his wolf companion, Whisper, a strange beast that never seems to make any noise. Gongu has learned the ability to speak with his companion, a gift from the goddess Hylia. They travel to Calatia to "find meaning." Not surprising for a Goron, Gongu cannot swim and has a fear of water.
 </p>
 
 <h3>Calatia</h3>
@@ -36,3 +37,16 @@ adventure: calatia
 
 
 {% include return.html content="quest-for-calatia" %}
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <img src="{{ site.url }}/images/calatia/characters/gongu.jpg" alt="Portrait of Gongu" class="character-portrait">
+        </div>
+      </div>
+    </div>
+</div>

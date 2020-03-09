@@ -4,11 +4,11 @@
 {% if include.content contains "great" %}
     {% assign text = "Tales of the Great Ones" %}
 {% endif %}
-{% if include.content contains "red" %}
-    {% assign text = "Adventures of Red" %}
+{% if include.content contains "valdea" %}
+    {% assign text = "Hearts of Valdea" %}
 {% endif %}
 
-<p class="prev">
+<p class="prev text-center">
     <a href="{{ site.url }}/{{ include.content }}/">
         <i class="fas fa-caret-left"></i>
         Back to {{ text }}

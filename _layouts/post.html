@@ -5,16 +5,19 @@
     {% assign url = "quest-for-calatia" %}
     {% assign adventure = "Quest for Calatia" %}
     {% assign session = "Session " | append: page.episode %}
+    {% assign image_path = "calatia" %}
 {% endif %}
-{% if page.adventure == "red" %}
-    {% assign url = "red" %}
-    {% assign adventure = "The Adventures of Red" %}
+{% if page.adventure == "valdea" %}
+    {% assign url = "valdea" %}
+    {% assign adventure = "Hearts of Valdea" %}
     {% assign session = "Chapter " | append: page.episode %}
+    {% assign image_path = "valdea" %}
 {% endif %}
 {% if page.adventure == "greatones" %}
     {% assign url = "the-great-ones" %}
     {% assign adventure = "The Tales of the Great Ones" %}
     {% assign session = "Session " | append: page.episode %}
+    {% assign image_path = "greatones" %}
 {% endif %}
 <body>
 
@@ -33,7 +36,7 @@
                         
                         
                         {% if page.image %}
-                            <img src="{{ site_url }}/images/chapter_images/{{ page.image }}.png" alt="" class="blog-image">
+                            <img src="{{ site_url }}/images/{{ image_path }}/chapters/{{ page.image }}.png" alt="" class="blog-image">
                         {% endif %}
                         <h2>{{ page.title }}</h2>
                         <div class="session-info">

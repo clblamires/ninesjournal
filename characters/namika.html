@@ -2,10 +2,11 @@
 title: Namika
 layout: page
 adventure: calatia
+permalink: /characters/namika/
 ---
 
 <h1 id="namika">Namika Rah</h1>
-<img src="{{ site_url }}/images/calatia/characters/namika_portrait.png" alt="Image of Namika" class="character-image">
+<img src="{{ site_url }}/images/calatia/characters/namika_portrait.png" alt="Image of Namika" class="character-image" data-toggle="modal" data-target="#myModal">
 <ul>
     <li>
         <b>Race</b>: Sheikah
@@ -36,3 +37,16 @@ adventure: calatia
 
 
 {% include return.html content="quest-for-calatia" %}
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <img src="{{ site.url }}/images/calatia/characters/namika.jpg" alt="Portrait of Namika" class="character-portrait">
+        </div>
+      </div>
+    </div>
+</div>

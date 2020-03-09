@@ -2,10 +2,11 @@
 title: Ophinia
 layout: page
 adventure: calatia
+permalink: /characters/ophinia/
 ---
 
 <h1 id="ophinia">Ophinia</h1>
-<img src="{{ site_url }}/images/calatia/characters/ophinia_portrait.png" alt="Image of Ophinia" class="character-image">
+<img src="{{ site_url }}/images/calatia/characters/ophinia_portrait.png" alt="Image of Ophinia" class="character-image" data-toggle="modal" data-target="#myModal">
 <ul>
     <li>
         <b>Race</b>: Hylian
@@ -35,3 +36,16 @@ adventure: calatia
 </p>
 
 {% include return.html content="quest-for-calatia" %}
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <img src="{{ site.url }}/images/calatia/characters/ophinia.jpg" alt="Portrait of Ophinia" class="character-portrait">
+        </div>
+      </div>
+    </div>
+</div>

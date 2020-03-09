@@ -10,16 +10,19 @@ layout: page
             {% assign adventure = "Quest for Calatia" %}
             {% assign url = "quest-for-calatia" %}
             {% assign session = "Session " | append: post.episode %}
+            {% assign image_path = "calatia" %}
         {% endif %}
-        {% if post.adventure contains "red" %}
-            {% assign adventure = "The Adventures of Red" %}
-            {% assign url = "red" %}
+        {% if post.adventure contains "valdea" %}
+            {% assign adventure = "Hearts of Valdea" %}
+            {% assign url = "valdea" %}
             {% assign session = "Chapter " | append: post.episode %}
+            {% assign image_path = "valdea" %}
         {% endif %}
         {% if post.adventure contains "greatones" %}
             {% assign adventure = "The Great Ones" %}
             {% assign url = "the-great-ones" %}
             {% assign session = "Session " | append: post.episode %}
+            {% assign image_path = "greatones" %}
         {% endif %}
         <hr>
 
@@ -27,7 +30,9 @@ layout: page
             <div class="row">
                 <div class="col-md-4 col-sm-12">
                     <div>
-                        <img src="{{ site_url }}/images/chapter_images/{{ post.image }}.png" alt="" class="blog-image">
+                        <a href="{{ post.url }}">
+                            <img src="{{ site_url }}/images/{{ image_path}}/chapters/{{ post.image }}.png" alt="" class="blog-image">
+                        </a>
                     </div>
                     <p class="text-center">
                         <a href="{{ post.url }}" class="read-more">
@@ -37,7 +42,11 @@ layout: page
                     </p>
                 </div>
                 <div class="col-md-8 col-sm-12">
-                    <h2>{{ post.title }}</h2>
+                    <h2>
+                        <a href="{{ post.url }}">
+                            {{ post.title }}
+                        </a>
+                    </h2>
                     <div class="session-info">
                         <a href="{{ site.url }}/{{ url }}">{{ adventure }}</a> {{ session }} on {{ post.recorded }}
                     </div>

@@ -4,12 +4,13 @@ title: Leaving the Ranks
 date: 2020-02-21T17:57:04.545Z
 recorded: 'Feb 14, 2020'
 episode: '1'
-adventure: red
+adventure: valdea
 summary: >-
   Newly released from service in the Solsu army, Red takes on a job up north to
   finance his trip home. He finds himself conscripted into a different kind of
   service.
 levelup: false
+image: heart_bag
 ---
 The sound of the Office of Cartography was loud as ever as Red worked on his favored craft in the Solsu Army: the creation of maps, directions, and orders. He had been doing this service for most of his time in the army and the day he would be released from work had finally arrived. A courier approached him and instructed him to meet with Colonel Layornie, the commanding officer of Fort Trine where Red was stationed. Red made his way over to the Colonel’s building and waited to meet.
 
@@ -23,7 +24,7 @@ He took a job flyer from Fort Trine before leaving. The job requested that the e
 
 Along the way, he attempted to catch a fish using his military crossbow. The bolt missed and disappeared in the stream. Frustrated, Red continued on the path and camped underneath a tree. While trying to name constellations in the sky, he heard a voice! A young halfling girl had followed him, bringing the fish that Red failed to catch earlier in the day. The two struck up a quick friendship, telling tales of the area. The halfling, Corlee, had been on a pilgrimage from her temple in Idil, but was separated from her master and had been wandering the road of the Peace Plains without much direction. Red explained his work in the army and his journey north. Corlee recognized the location on Red’s map and offered to go with him, hoping it would help her figure out the purpose of her pilgrimage.
 
-Red and Corlee took up the road north the next day. A passerby, the Old Wagoner of Noname, gave them a ride to the crossroads of the Peace Plains. Corlee helped Red and herself find shelter and food for the night by winning a contest of strength against some roadside merchants, whereupon Red learned that Corlee had truly been lost on the roads for days and days already.
+Red and Corlee took up the road north the next day. A passerby, the Old Wagoner of Noname, gave them a ride to the crossroads of the Peace Plains. Corlee helped Red and herself find shelter and food for the night by winning a contest of strength against some roadside merchant halflings, whereupon Red learned that Corlee had truly been lost on the roads for days and days already.
 
 The next day, Corlee led Red towards the mark on the map. She explained that she and her master had found an old abandoned tower in the fields and that could possibly be the place for the job. Along the way, they were attacked by a Death Dog, a rare site in the Peace Plains. Red took a grievous injury but he and Corlee managed to slay the beast.
 
@@ -49,7 +50,7 @@ Murdoch began to struggle, coughing and hacking. Red left his bedside to get him
 
 It was the voice of Valtare. She explained that Murdoch’s time in this world was at an end and she would receive him soon. But Red would soon make a pact with her and Valtare would become his patron. The world needed him and his light, she explained, and she needed him to perform a great task that would very possibly save all of the realms. In Missuk, the mysterious country to the far north, a temple holds the hearts of ten of the Eleven. Valtare’s heart is not among them, and she must have it join the others. But Missuk has a strange spell cast over it. Anyone with any magical ability finds themselves lost in the land, dumbfounded by a spell of repulsion.
 
-Valtare then made a pact with Red as her tiger-like form filled the entire room. She would grant him power and magic of his own if he worked to help people, fight evil, and find a way to enter Missuk wto return her heart to the temple with the rest of the Eleven. Red accepted the pact, and the world returned to light around him. The white cat, small and docile again, sat upon Murdoch’s chest. Murdoch gave one final breath and he and his cat, his Valtare, faded away into nothingness.
+Valtare then made a pact with Red as her tiger-like form filled the entire room. She would grant him power and magic of his own if he worked to help people, fight evil, and find a way to enter Missuk to return her heart to the temple with the rest of the Eleven. Red accepted the pact, and the world returned to light around him. The white cat, small and docile again, sat upon Murdoch’s chest. Murdoch gave one final breath and he and his cat, his Valtare, faded away into nothingness.
 
 Red turned and saw that the bag with the Heart of Valtare was missing. Alarmed, he began searching the cabin until the attendant's figure blocked the light in the doorway. He told Red that his name was Greigon, a demigod in Valtare’s service. Greigon explained that the Heart was safe with him at the moment, but he would return it to this realm with Red occasionally as it needed to exist in both realms as often as possible.
 
@@ -57,4 +58,4 @@ Red asked what he should do to best serve Valtare. Greigon suggested he starts b
 
 ***
 
-Red stepped outside and saw Corlee, not far away, picking flowers. He walked towards her and began to think of ways to explain what just happened and where he would go next.
+Red stepped outside and saw Corlee, not far away, fishing in a nearby stream. He walked towards her and began to think of ways to explain what just happened and where he would go next.
