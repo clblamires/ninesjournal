@@ -9,6 +9,7 @@ adventure: greatones
 summary: "The trail leads to an underground network of caves filled with fearsome beasts. "
 levelup: false
 quote: 'I could not protect you. I can barely protect myself. But I can use them. They can protect me.'
+image: tunnels
 ---
 
 Our journey to the mountains as we followed the tracks of the beast was mostly uneventful. We started back at Hebo's farm. Another few days since the attack had not done much to improve the view. The farmhouse was still in shambles, the barn was askew, and the dead phase spider was being picked by birds and insects. Hebo was very somber, a noticeable difference from his usual chipper behavior.

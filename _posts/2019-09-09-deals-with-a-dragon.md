@@ -35,7 +35,7 @@ Then we heard a voice: "_Do you know what is red and bad for teeth? A brick!_"
 
 Hebo began cackling at his own joke. The golem shuddered, and fell onto its back.
 
-Hebo's spell worked, incapacitating the golem. Oromis began glowing as his rage developed. He slammed his axe into the golem, but it was turned aside by the armor. Oromis howled at the rest of us to stay back while he pulled out the lightning javelin he received from Exatorus. It sank deep into the golem's body, ripping lightning across its body and the walls of the cave. It attempted a feeble attack at Oromis while it laid on the ground, but the dwarf dodged. I took aim as the golem began to pick itself up. The blast from my cannon shattered its body. Oromis's javelin had weakened the armor just enough. The golem expired and fell to the ground.
+Hebo's spell worked. The golem was incapacitated! Oromis began glowing as his rage developed. He slammed his axe into the golem, but it was turned aside by the armor. Oromis howled at the rest of us to stay back while he pulled out the lightning javelin he received from Exatorus. It sank deep into the golem's body, ripping lightning across its body and the walls of the cave. It attempted a feeble attack at Oromis while it laid on the ground, but the dwarf dodged. I took aim as the golem began to pick itself up. The blast from my cannon shattered its body. Oromis's javelin had weakened the armor just enough. The golem expired and fell to the ground.
 
 The danger was over, at least for the moment. But what awaits us deeper in? We have yet to find the dragon's treasure.
 

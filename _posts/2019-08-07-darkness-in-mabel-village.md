@@ -21,7 +21,7 @@ The night brought much worry to the mercenaries. With the starlight and moonligh
 
 To their surprise, the mercenaries found a single set of Bokoblin tracks that led directly up to their camp, not ten feet from where Namika rested. They quickly packed their things and set into the woods to see what had happened last night. In the woods, trees were charred, bushes destroyed, and blackened bones lay scattered all about. Gongu spoke with Whisper about what happened and what he could smell.
 
-_"Bones... monsters... Bokoblins... I smell Bokoblins..."_
+_"Bones... monsters... Bokoblins... I smell Bokoblins..."
 
 The party was eager to follow Whisper's nose and track down the Bokoblins, but were not eager to let Beedle come with them. Beedle was also not very willing to go deeper into the woods, so he opted to travel on the road alone. Ophinia gave him a quick blessing and he departed. The others followed Whisper.
 
@@ -37,13 +37,13 @@ Ophinia was aghast. Huk learned her intentions in coming to Calatia, and offered
 
 Zedeki and Gongu decided that they prefered to hunt the "bad" Bokoblins that Huk mentioned. Huk suggested that an Acheman from the Hokani Mountains was their leader, and that they should tread carefully. Acheman are very powerful demons. Upon hearing this, Ophinia noted that Beedle might be in danger all alone, and offered Ior money to travel with him and lead him safely to Mabel. Ior speedily left the spring towards Beedle and the road.
 
-The party left the spring, and Huk wished them well. Still feeling sadness for Ophinia, he gave to her a necklace of Bokoblin teeth. "This necklace," he explained, "will let you speak Blin." He thought that perhaps it would help her. Not all Bokoblins are bad, as he claimed, but many are.
+The party left the spring, and Huk wished them well. Still feeling sadness for Ophinia, he gave to her a necklace of Bokoblin teeth. "This necklace," he explained, "will let you speak Blin." He thought that perhaps it would help her. Not all Bokoblins are bad, as he claimed, though many are.
 
 Whisper picked up Ior's trail and led the group out of the Featherwood. They rested outside the forest when the sun went down. Once again, the shapes of Stalfos stalked the forest. The mercenaries were not surprised to see the lightning of Huk destroy the Stalfos again, leaving them to sleep peacefully. In the morning, Namika still felt very refreshed from her bath, but noticed that her skin was dyed purple, Huk's admitted favorite color.
 
 After a few days of travel, the group arrived at Mabel at night. They paid their toll to the armed guards and entered the town. Mabel Village was divided into three districts. The fishing district was at the docks, surrounded by fisheries and small shacks. The merchant district was in the center of town. The rich residence district towered above the rest on a large hill with paved roads and ornate houses.
 
-The mercenaries came upon a small inn, The Little Fish Inn, bustling with people as the work day ended. They purchased rooms for the night and settled into the common room for a meal. Ophinia played cards with a group of old fishermen and learned that a few people still worshipped Hylia here. She left to find Hylia's shrine and her companions followed. 
+The mercenaries came upon a small inn, The Little Fish Inn, bustling with people as the work day ended. They purchased rooms for the night and settled into the common room for a meal. Ophinia played cards with a group of old fishermen and learned that a few people still worshipped Hylia here. She left to find Hylia's shrine and her companions followed.
 
 The shrine to Hylia was less of a shrine and more of an alley with a pile of garbage with a small statue of the goddess in the center. As Ophinia began to clean it, a dark figure entered the alley and drew a bow, firing a shot at Namika. Namika and Zedeki reacted quickly, injuring the assailant. It was a teenaged boy who, commanded by Ophinia's magic to speak, admitted to being blackmailed into killing them in this alley or his own family would be murdered. The mercenaries learned that a masked figure with thick goggles had approached him outside the wealthy residential district near the Brumlee Estate. He was told to kill a group of travelers - a merchant, a paladin, a Sheikah, a goron, a rito, and a wolf. If he failed, his family would be killed.
 

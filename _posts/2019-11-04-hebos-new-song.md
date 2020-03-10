@@ -16,7 +16,7 @@ quote: >-
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.
 
-## Part One: The Plan
+##### Part One: The Plan
 
 Oromis thought of a different approach. What if we attacked first? He was a soldier, after all, and could think of a smart way for us to catch the dragon unawares. His plan seemed simple enough: give the dragon a *fake* scroll. While the dragon was inspecting it, we could surround it and take it down.
 
@@ -36,7 +36,7 @@ Here was the plan:
 
 This plan did not work. Not because of our lack of planning or preparation, but because of exactly what we initially feared: dragons are unpredictable.
 
-## Part Two: Emissaries
+##### Part Two: Emissaries
 
 Before we could initiate the battle plan, we would rest for the night. The sun was fully down on the mysterious island and fighting the dragon at night would put us at a disadvantage. Eclipse, Hebo, Luna, Oromis, and Petra stood on the deck of the ship with the loaded cannon. They would watch the skies while Ezio and I headed for the tree line. From here we thought we could get an alternate line of sight if the dragon suddenly appeared.
 
@@ -60,7 +60,7 @@ When I turned back to the beach and the treeline, Ezio had vanished. Oromis and 
 
 The dragon was coming.
 
-## Part Three: The Cannon
+##### Part Three: The Cannon
 
 “Fear me, morsels! I am the Great Renshato, the Foul Spawn!” it bellowed as it descended.
 
@@ -108,7 +108,7 @@ As he did, Eclipse aimed the cannon. Hebo flipped onto it, hands in the air, and
 
 In the dark, we could barely make out the shape of the retreating dragon as the cannonball slammed into it. The dragon crashed into the woods. Soon after, the sounds came to us. We heard the sound of the dragon’s spine shattering from the cannonball, the sound of the crash into the trees and the splintering of wood. Through the trees, a faint, weak roar. And then, silence.
 
-## Part Four: Collection
+##### Part Four: Collection
 
 “I killed a dragon!” exclaimed Hebo, jumping up and down and hugging Cloud and Gift. Soul seemed relieved, more than any of us. Oromis, chuckling to himself about how the plan did not work as intended, took me and Eclipse with him to gather the belongings of the dead Kobolds. Petra wanted to investigate the body of Renshato and took Luna and Eclipse with her.
 

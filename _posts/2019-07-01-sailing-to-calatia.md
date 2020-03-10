@@ -21,15 +21,15 @@ Zedeki the Rito mercenary flew down and joined Miko, the old captain of Nayru’
 
 Zedeki and Il first came upon Ophinia, a Hylian Paladin in service to the Goddess and Hyrule. Ophinia had previously been in battle and felt compelled to follow the guidance of Hylia and travel to Calatia. The opportunity seemed perfect, and she joined the crew. Zedeki (after dismissing Il for being disagreeable) found Gongu the Goron and his wolf companion, Whisper. Finally, he met Namika, a young Sheikah sage. The five of them came upon the docks to meet the captain.
 
-Captain Miko and his first mate, Kimala the Zora, were on the dock overseeing the last of the shipment to Calatia being loaded. Miko made quick contracts with each of his new hires. Another new hire also came up to them: a scrawny merchant with a crossbow named Beedle. On the deck, Zedeki met Zima, a female Rito who was also contracted as a mercenary on Nayru’s Blessing. Zima and her crew would take the night watch while Zedeki and the new hires would watch during the day. Zedeki let Ophinia, Gongu, Whisper, Nami, and Beedle down below deck to their rooms. 
+Captain Miko and his first mate, Kimala the Zora, were on the dock overseeing the last of the shipment to Calatia being loaded. Miko made quick contracts with each of his new hires. Another new hire also came up to them: a scrawny merchant with a crossbow named Beedle. On the deck, Zedeki met Zima, a female Rito who was also contracted as a mercenary on Nayru’s Blessing. Zima and her crew would take the night watch while Zedeki and the new hires would watch during the day. Zedeki let Ophinia, Gongu, Whisper, Nami, and Beedle down below deck to their rooms.
 
 Soon after, Nayru’s Blessing departed Malin Harbor for Chorus City, capital of Calatia. Zedeki and his crew stood watch as the ship departed Hyrule and came upon open waters. The journey was uneventful, to say the least. The mercenaries spent their time looking towards the water during the day, and resting whenever they could during the night. Ophinia and Nami, during a break, went to the lowest deck of the ship where the goods for trade were stored. Nami was interested in the cargo, looking for any Sheikah trinkets or any other captivating item. Ophinia, on the other hand, had been sensing some very strong power somewhere on the ship, but could not find it.
 
 As sunset was approaching after a little over three weeks, a deckhand called out “Land ahoy!” and pointed to the north. The mercenaries looked and saw the shores of Calatia far away. Gongu noticed it first: dark clouds were swirling about the land. Kimala suggested that a storm was coming in and that they should get below deck to rest and wait it out.
 
-But during the night, they heard shouting and loud bangs. Zedeki, ever alert, gathered his weapons and began to move towards the upper deck. Before he could, he spied three masked assailants enter the crew cabin deck, all armed with crossbows. 
+But during the night, they heard shouting and loud bangs. Zedeki, ever alert, gathered his weapons and began to move towards the upper deck. Before he could, he spied three masked assailants enter the crew cabin deck, all armed with crossbows.
 
-“There are more down here. Kill them, too!” shouted one. 
+“There are more down here. Kill them, too!” shouted one.
 
 Zedeki called out to his comrades and fired an arrow. Ophinia, Nami, Gongu, Whisper, and poor Beedle came out of their rooms and armed themselves. Nami and Gongu fired their bows, while Whisper and Ophinia rushed the attackers. Arrows zipped back and forth. Ophinia and Nami each took down one of the masked attackers before the last of the three called out, “I need help down here!” and two more joined the fight.
 

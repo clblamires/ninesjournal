@@ -40,7 +40,7 @@ _“What nicer tribe?”_ asked Ophinia.
 
 _“Iglimik does not know,”_ replied Iglimik. _“But other tribe up north must be nicer than Billimug.”_
 
-_“Who is Billimug?”_
+_“Who is Billimug?”
 
 “_Billimug is the demon. Very scary, very mean. Iglimik does not want mean. Iglimik wants peace.”_
 

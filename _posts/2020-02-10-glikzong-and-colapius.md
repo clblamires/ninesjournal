@@ -28,7 +28,7 @@ Cautious, Ophinia approached the Lord's chambers. Staying hidden, she produced H
 
 The bokoblin huffed. "Eating fish," she replied. She came around the corner towards Ophinia and held a fish out to her. "You hungry?"
 
-"No, I'm... I'm fine," replied Ophinia. She was surprised by the small bokoblin. Unlike those that she had met and battled in Hyrule, this one seemed unfazed by Ophinia's appearance. The bokoblin was certainly female as Zedeki suggested. She was shorter than Ophinia by a foot and wearing various furs of animals. 
+"No, I'm... I'm fine," replied Ophinia. She was surprised by the small bokoblin. Unlike those that she had met and battled in Hyrule, this one seemed unfazed by Ophinia's appearance. The bokoblin was certainly female as Zedeki suggested. Ophinia saw that the bokoblin girl was shorter than her by a foot and wearing various furs of animals.
 
 The bokoblin girl just kept munching on her fish. "What are you doing here in the castle?" she asked.
 
@@ -40,7 +40,7 @@ Ophinia and her companions were excited at the prospect of some treasures, thoug
 
 Gongu began lowering Ophinia with a rope. Nami drew her bow and aimed down to the bottom of the well, ready to fire at anything that approached. Zedeki flew down with Ophinia. But the flapping of his wings drew attention of a large Gohma that slept quietly in a crag, and it ambushed the two. Ophinia was restrained by a blast of web. Zedeki, Gongu, and Namika pelted the Gohma with arrows until it collapsed. Ophinia cut her way out of the webs and cut apart the Gohma larvae that rushed her.
 
-Ophinia took up a torch and went into a small tunnel until she came upon what appeared to be the collapse of a storeroom above her head. The floor in the storeroom had crumbled long ago and some of the bokoblins had ventured down the well to hide their belongings in the ruin. Ophinia recovered Glikzong's boomerang and found a handful of rupees. She also found a strange gold and bronze gauntlet with a metal beetle attached to it. 
+Ophinia took up a torch and went into a small tunnel until she came upon what appeared to be the collapse of a storeroom above her head. The floor in the storeroom had crumbled long ago and some of the bokoblins had ventured down the well to hide their belongings in the ruin. Ophinia recovered Glikzong's boomerang and found a handful of rupees. She also found a strange gold and bronze gauntlet with a metal beetle attached to it.
 
 As Gongu began helping Ophinia climb, Glikzong came rushing to him, screaming and pointing. Gongu and Nami looked up and saw a single hawk flying overhead. Glikzong seemed very distressed, and it was only when Ophinia could translate that they learned that Glikzong was worried the hawk would steal her fish. Evidently, the bokoblin girl was not going to threaten them in any way.
 

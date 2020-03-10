@@ -67,7 +67,7 @@ While he slept, Zedeki dreamed of the fish in the stream. They chanted to him �
 
 He woke with a start. Looking around, he spotted no other fish, no streams. His companions noticed his agitation. Ophinia and Nami tried to speak to him, but Zedeki refused to listen, thinking himself crazy for hearing voices and now dreaming of them.
 
-Gongu made a jest at him about talking to fish, and a fire flashed in Zedeki’s eyes. He spun and fired an arcane arrow at Gongu, stabbing him in the shoulder and causing him to temporarily vanish in magical darkness. The fire went out of his eyes and was filled with a fast and deep remorse. “I’m…. Gongu, I’m…”
+Gongu made a jest at him about talking to fish, and a fire flashed in Zedeki’s eyes. He spun and fired an arcane arrow at Gongu, stabbing him in the shoulder and causing him to temporarily vanish in magical darkness. The fire went out of his eyes and was filled with a fast and deep remorse. “I’m... Gongu, I’m...”
 
 Ophinia sprung off her horse and drew her axe. “What is this?!” she shouted. “What have you done? Your own ally?”
 
@@ -155,7 +155,7 @@ Nayru’s face darkened. “That would be Majora,” she answered. “Majora is 
 
 “You are out of questions, Namika Rah,” said Nayru, the smile returning. “The magic in the Mask of Truth is running low on energy. But you may tell Ophinia that Hylia is very pleased with her thus far. Making a pact with the god of heroes is a permitted by the goddess. She smiles on Ophinia, as she smiles on all of you."
 
-The vision faded and Nami was back in her room. It seemed that no time had passed at all, but to Nami, it seemed like an age had gone by. She returned to her companions, informing them of Il’s predicament and Ophinia’s permission by Hylia. Upon hearing this, Ophinia broke into laughter. Her worries about Paraba and his pact were immediately put to ease. She mused about her questioning to Rowan and Var Magnus earlier, only to have a goddess answer the question on her mind. 
+The vision faded and Nami was back in her room. It seemed that no time had passed at all, but to Nami, it seemed like an age had gone by. She returned to her companions, informing them of Il’s predicament and Ophinia’s permission by Hylia. Upon hearing this, Ophinia broke into laughter. Her worries about Paraba and his pact were immediately put to ease. She mused about her questioning to Rowan and Var Magnus earlier, only to have a goddess answer the question on her mind.
 
 The sentinels settled on setting out for the House of Pirates on the next day. Before she slept, Ophinia took Hero’s Honor in her hands and said a quick prayer.
 

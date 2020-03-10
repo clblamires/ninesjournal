@@ -9,15 +9,16 @@ adventure: greatones
 summary: "Three events happen over the course of the next few days: a strange messenger in the woods, a hunting trip gone awry, and an attack by a deadly force of enemies."
 levelup: false
 quote: 'This adventuring party is missing someone. You.'
+image: teahouse
 ---
 
 Traveling to Lotus Lake progressively became more eventful as the days came and went. Hebo and Oromis had become very fast friends, teasing each other most of the way. Ezio and I were constantly on the lookout. Petra, Luna, and Eclipse stayed in the wagon and talked with one another the entire time. The sun shone during the day, and the stars were beautifully clear at night.
 
-**The First Event: Messenger in the Woods**
+##### The First Event: Messenger in the Woods
 
-The first event happened in the morning of our fourth day of travel from Oakshade. Luna and I were on watch when a thick fog rolled in at dawn. It wasn’t surprising; fog occasionally covered the fields in the mornings. This, we determined, was different. After all, we knew that we were approaching a meeting with a member of the Court of Owls, and that could be dangerous. We woke our companions. Ezio and Eclipse snuck out into the fog to find the road, but soon came running back. They informed us that there are shapes in the fog, shapes that we soon saw ourselves.
+It was on the morning of our fourth day of travel from Oakshade. Luna and I were on watch when a thick fog rolled in at dawn. It wasn’t surprising; fog occasionally covered the fields in the mornings. This, we determined, was different. After all, we knew that we were approaching a meeting with a member of the Court of Owls, and that could be dangerous. We woke our companions. Ezio and Eclipse snuck out into the fog to find the road, but soon came running back. They informed us that there are shapes in the fog, shapes that we soon saw ourselves.
 
-Luna informed us that the fog was merely a magical illusion. We spoke to the shapes, and it spoke only with messages attached to arrows and messages written in the fog. The figure provided a token to Ezio, identifying himself as an interested party in the Court of Owls. Or perhaps not in the Court of Owls at all. The message was unclear, but what was clear to us was that Yen-Fei was expecting us. Maybe this was Yen-Fei talking to us now?
+Luna believed that the fog was merely a magical illusion. We spoke to the shapes, and it spoke only with messages attached to arrows and messages written in the fog. The figure provided a token to Ezio, identifying himself as an interested party in the Court of Owls. Or perhaps not in the Court of Owls at all. The message was unclear, but what was clear to us was that Yen-Fei was expecting us. Maybe this was Yen-Fei talking to us now?
 
 The mysterious messenger gave us a wanted poster. A murderer from Obsidian Garrison was on the run, and the reward was 2000 gold. We seven were certainly interested in this. The fog dissipated almost immediately. We had a new goal in mind: travel to Obsidian Garrison and meet with the warden. We intend to find this murderer and return him to prison.
 
@@ -25,7 +26,7 @@ Something else had occurred to us as we accepted the job. If this was a bounty g
 
 A few days more and we arrived at the small village on the outskirts of Lotus Lake.
 
-**The Second Event: The Snake**
+##### The Second Event: The Snake
 
 Lotus Lake’s small village was welcoming. Hebo, Luna, and Petra went to a teahouse for some lunch. Ezio, Eclipse, and Oromis went to hunt. I did not have anywhere in particular to go, but I felt that I needed to supervise the teahouse group. Sitting in the teahouse with these three companions was entertaining, to say the least. They bought all the tea cakes they could, and became a bit raucous in their celebrations. Akona, the owner of the teahouse, brought me a cup of black tea. She did not know my nature and inability to drink it. I just observed my companions eating, drinking, and singing.
 
@@ -37,7 +38,7 @@ At night, Hebo, Eclipse, Luna, and Petra performed at the teahouse for their roo
 
 Ezio followed him, choosing to meditate in the barn with Spoink and the two horses we purchased in Oakshade, Sebastian and Osha. Petra and Eclipse rented one of the rooms for the night. Hebo and Luna took the other. I stood watch outside their rooms, listening quietly to the giggles coming from Hebo and Luna.
 
-**The Third Event: The Other Snakes**
+##### The Third Event: The Other Snakes
 
 A lot of things happened during the third event. I will try to piece them together as best as I can, based on the information given to me by my companions afterwards. The third event started in the hallway where I sat watch. It was after midnight when I finally heard Hebo and Luna stop talking and giggling. But something concerned me about it. It was almost as if mid-sentence that they became quiet.
 
@@ -57,7 +58,7 @@ A moment earlier, Ezio and Oromis had heard the sound of my weapon from the stab
 
 _“You are next,”_ I hissed at the snake, accidentally slipping into my native Abyssal language.
 
-_“Not if I kill you first,”_ it hissed back at me, answering in Abyssal. But I could sense its fear. Abyssal, you see, is a very emotional language. Its consonants are harsh and sharp. The inflections of the vowels come from emotion, though usually it is anger, hate, and loathing that feed the word. I write this because I want to impress upon the reader that the way this snake fiend answered was very clearly afraid. It tried to intimidate me, but I simply reloaded. Oromis howled at it and it fled. I turned to follow it, hearing Oromis shout, “You ‘ad better run, ya filthy snake!”
+_“Not if I kill you first,”_ it hissed back at me, answering in Abyssal. But I could sense its fear. Abyssal, as you know, is a very emotional language. Its consonants are harsh and sharp. The inflections of the vowels come from emotion, though usually it is anger, hate, and loathing that feed the word. I write this because I want to impress upon the reader that the way this snake fiend answered was very clearly afraid. It tried to intimidate me, but I just reloaded. Oromis howled at it and it fled. I turned to follow it, hearing Oromis shout, “You ‘ad better run, ya filthy snake!”
 
 It slithered into the room with Eclipse and Petra. Petra had crawled outside the window while Eclipse was gathering her things. The snake, seeing her apparently distracted, lunged at her. But the tabaxi are an interesting race. The timid cleric sensed its entry and nimbly rolled aside. She channeled magic into her claws and slashed. The snake withered, its wounds turning to ash on its body. As I entered the room, I saw it drop its weapons and shrink away from Eclipse. It looked at me and opened its mouth to speak. Another shot fired from my cannon. The snake would never speak gain.
 

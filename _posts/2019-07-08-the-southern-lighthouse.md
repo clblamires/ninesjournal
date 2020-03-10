@@ -39,6 +39,6 @@ The party decided to travel to Mabel Village and find the Marshalls. Perhaps the
 
 Wary of the Bokoblins and Tarin's mention that this is the first time the Southern Lighthouse went unlit during his fifty years as caretaker, Ophinia and Zedeki scouted ahead on the road to see where the Bokoblin prints led, while Gongu and Namika assisted Tarin in removing the bodies of the fallen Bokoblins at the lighthouse. Ophinia and Zedeki returned as the sun set against the western sky, informing their companions that the Bokoblins are headed west. 
 
-As Ophinia prayed before sleep, she heard the voice of Hylia in her head. The words were unintelligible, but she could feel the presence of the Goddess with an overwhelming feeling of calmness and assurance. 
+As Ophinia prayed before sleep, she heard the voice of Hylia in her head. The words were unintelligible, but she could feel the presence of the Goddess with an overwhelming feeling of calmness and assurance.
 
 Truly on this day, the Goddess smiled upon them.
