@@ -8,6 +8,7 @@ adventure: greatones
 summary: "The group fights the Yuan-Ti, overcoming all odds and rescuing the missing villagers. They take on the name 'The Great Ones' as their adventuring group."
 levelup: true
 quote: 'I believe you would have been proud of me. I hope so, anyway. I did everything you taught me to do.'
+image: greatones
 ---
 
 Outnumbered. Outmatched. Outmaneuvered.

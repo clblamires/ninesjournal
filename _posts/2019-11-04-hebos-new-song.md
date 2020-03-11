@@ -12,6 +12,7 @@ summary: >-
 levelup: true
 quote: >-
   I do not understand religion, except for what you taught me. But I am learning about it. Like you always said, knowledge makes us stronger. I've finally heard the voice of the Wonderbringer.
+image: cannon
 ---
 
 Back at the Cat's Tail, the Great Ones sat together below deck to discuss our next course of action. We debated a few options, knowing that all of them would lead to a fight with the dragon. If we tried to quickly fix Soul's ship, we may get attacked during the repairs. If we fixed it and escaped the island, the dragon could attack us at sea while we have no cover. We could find the dragon and deliver the spell scroll - that which we collectively decided was what the dragon sought - and get ambushed by the dragon afterwards. No matter what we thought to do, it seemed that we would eventually need to defend ourselves. Dragons are unpredictable.

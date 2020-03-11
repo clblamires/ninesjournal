@@ -9,6 +9,7 @@ adventure: greatones
 summary: "Intent on claiming the bounty at Obsidian Garrison, the Great Ones set their sights towards the Moonrift Orchards and must find a ship to take them there in the city of Green Hollow."
 levelup: false
 quote: 'I am getting better at it, thanks to your book. I wish the circumstances of this inheritance were kinder to us both.'
+image: harbor
 ---
 
 Mist rose over Lotus Lake in the morning. My companions awoke at the first sign of light, having slept through the afternoon, evening, and night of the previous day. They were still stiff and sore from their injuries, and I had only just barely finished repairing my body and coat. But dawn had approached nonetheless, and we had things to do.

@@ -12,6 +12,7 @@ summary: >-
 levelup: false
 quote: >-
   I should have shot him. I should have fought. Why did I hesitate?
+image: kobolds
 ---
 
 The Great Ones, being triumphant in defeating the Foul Spawn, set ourselves upon the tasks of repairing the ship and taking care of our wounds from the fight. Eclipse and Petra began speaking with Soul about the ship repairs while Oromis, Luna, Hebo, and I began sorting through the spoils from Renshato’s body. Ezio, feeling restless from the fight still, began discussing exploring further parts of the island. Before he could leave, we all heard rustling from the nearby trees. Twelve kobolds approached us, unarmed and cheering. Their leader was in a large, feathered headdress. He said something in their strange language and his followers stopped at the tree line. The leader stepped onto the beach and approached us, altogether without caution.

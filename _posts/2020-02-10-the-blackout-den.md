@@ -14,6 +14,7 @@ quote: >-
   He is like you! But stronger, I think.
   I mean no offense, but you could not have pulled off what he is capable of.
   Maybe someday. Maybe I could someday.
+image: fight
 ---
 Luna talked me into following our party to the Blackout Den, a fighter’s guild of some sort. I quickly set up my alarms in the rooms at the Chateau and pursued my companions. The night was cold in Everdusk and, though few people were still out in the streets, prying eyes still followed our strange band as we crossed the streets in the city until we came upon the odd stone building that was the Blackout Den
 
