@@ -11,7 +11,7 @@ levelup: false
 image: death_dog
 ---
 
-As Red walked over to Corlee, he wondered what he would say. How would he explain that he just met a goddess, made a binding pact with her to take a magical heart north to a far away country, and was given a portion of her power as magic? Besides that, how could Red possibly convince Corlee to come along with him? He was very anxious about the journey to Missuk, and the thought of going alone bothered him. 
+As Red walked over to Corlee, he wondered what he would say. How would he explain that he just met a goddess, made a binding pact with her to take a magical heart north to a far away country, and was given a portion of her power as magic? Besides that, how could Red possibly convince Corlee to come along with him? He was very anxious about the journey to Missuk, and the thought of going alone bothered him.
 
 Meanwhile, Corlee happily was catching fish from a makeshift pole and no bait. Seeing Red approach, she held up a fish. "Look!" she said. "They're just jumping onto the line! I don't even have any bait!"
 
