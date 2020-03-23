@@ -75,6 +75,10 @@
         {
             "name" : "Divine Weapons",
             "text" : "Weapons that were created by the guidance of the gods and granted some of their divine energy. Five such weapons have been recorded in history: The Master Sword, Gale Force, Stonebreaker, Hero's Honor, and Masamune. Those that are not chosen by the gods are unable to wield these weapons, instead bringing harm to themselves."
+        },
+        {
+            "name"  : "Kokiri's Emerald",
+            "text"  : "The magical item aboard Nayru's Blessing. This was identified by Celadhil, a member of Cruel's cult. No one knows what connection it has to the current issues in Calatia at the moment."
         }
     ]
 }

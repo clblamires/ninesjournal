@@ -5,7 +5,7 @@
             "race"  : "Fallen Fairy",
             "class" : "Cleric",
             "equip" : "Fairy magic",
-            "text"  : "Most fairies produce a soft white or pink glow. Il emits a dark purple color that gets stronger or weaker depending on his mood. He suffers from depression and is almost always bringing down the mood of those around him. He was bound to Captain Miko on Nayru's Blessing and often annoys his comrages. In Calatia, he chose to stay behind with Tarin at the Southern Lighthouse, but left a short time after. His whereabouts are unknown. It is surmised that Il is actually a fallen fairy, and that his kokiri has died."
+            "text"  : "Most fairies produce a soft white or pink glow. Il emits a dark purple color that gets stronger or weaker depending on his mood. He suffers from depression and is almost always bringing down the mood of those around him. He was bound to Captain Miko on Nayru's Blessing and often annoys his comrages. In Calatia, he chose to stay behind with Tarin at the Southern Lighthouse, but left a short time after. His whereabouts are unknown. It is discovered that Il is actually a fallen fairy, and that his kokiri, Mia, has died."
         } ,
         {
             "name"  : "Captain Miko",
@@ -153,6 +153,64 @@
             "class" : "Unknown",
             "equip" : "Unknown",
             "text"  : "Described as an ancient Sheikah engineer. Lakna Shaz created the Lighthouse System that keeps Majora trapped in an immaterial plane inside Calatia. According to Paraba, Lakna Shaz is still alive and resides in the Northern Lighthouse in Old Calatia."
+        },
+        {
+            "name"  : "Colapius",
+            "race"  : "Lynel",
+            "class" : "Ranger",
+            "equip" : "Glaive",
+            "text"  : "The Scarecrow of Kanalet and head of the police force in the Lellow Prairie. Colapius finds it very hard to trust people, but is quick to correct himself if he is out of line. As the Scarecrow, he is meant to intimidate and alarm people. Colapius's job is mostly to fight the shadow beast infestation of the prairie."
+        },
+        {
+            "name"  : "Glikzong",
+            "race"  : "Bokoblin",
+            "class" : "Bard",
+            "equip" : "Boomerang",
+            "text"  : "A simple Bokoblin girl who was part of the tribe enslaved to Majora near the Temple of Paraba. She was meant to be Majora's next sacrifice before Paraba cleansed the temple, and has been left behind by her tribe. Ophinia sends her to live with Huk and his family at the Spring of Wellness."
+        },
+        {
+            "name"  : "Soveliss",
+            "race"  : "Gerudo",
+            "class" : "Cleric",
+            "equip" : "Staff",
+            "text"  : "Soveliss is a Sentinel of Calatia and is fully devoted to the Caretaker. She works as a sentinel and is moving south, looking for ways to help the country."
+        }
+        ,
+        {
+            "name"  : "Rowan",
+            "race"  : "Hylian",
+            "class" : "Paladin",
+            "equip" : "Short Sword",
+            "text"  : "Rowan is a young man who recently has taken his Paladin oaths to the Caretaker. To complete his oaths, he needs to pray in the three large temples in Calatia: in Kanalet, Oldtown, and Chorus of Angels. Currently, he is traveling with Soveliss. He has taken a liking to Ophinia."
+        },
+        {
+            "name"  : "Brynn",
+            "race"  : "Hylian",
+            "class" : "Fighter",
+            "equip" : "Clawshot, Longsword",
+            "text"  : "Brynn is the Lord of the House of Pirates. As the leader, he commands the House's navy and forces, vexing Calatia's waters. He was last seen in the House with serious injuries, saved by his first mate, Carrock."
+        },
+        {
+            "name"  : "Carrock",
+            "race"  : "Goron",
+            "class" : "Wizard",
+            "equip" : "Staff",
+            "text"  : "Brynn's first mate. Carrock is a large goron that walks with a pronounced limp, though this seems to go away when he is in combat. He casts powerful spells to defend his lord."
+        },
+        {
+            "name"  : "Vartia",
+            "race"  : "Sheikah",
+            "class" : "Paladin",
+            "equip" : "Longswords",
+            "text"  : "Vartia was originally assigned to be the Head of the House of Sentinels. When the House of Pirates sacked the Knight's Academy, she became the general in charge of the academy, though she seems to live in fear as the academy is severely understaffed."
+        }
+        ,
+        {
+            "name"  : "Mia",
+            "race"  : "Kokiri",
+            "class" : "Unknown",
+            "equip" : "None",
+            "text"  : "Mia was Il's Kokiri partner. The two became separated somehow and Il presumed she had disappeared or abandoned him. She briefly reappeared at the Knight's Academy, attacking the party. As Mia died, the spell on her wore off and she recognized Il before dying."
         }
     ]
 }
