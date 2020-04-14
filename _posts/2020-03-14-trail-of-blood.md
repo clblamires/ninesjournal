@@ -2,15 +2,15 @@
 layout: post
 title: Trail of Blood
 date: 2020-03-14T17:57:04.545Z
-recorded: 'Mar 14, 2020'
+recorded: Mar 14, 2020
 episode: 17
 adventure: greatones
-summary: >-
-  A plan is made to apprehend Karama. The Great Ones follow a trail of fires and blood through the Lowtown district of Everdusk before finding themselves in a strange underground courtyard with odd statues and gems.
-levelup: false
+summary: A plan is made to apprehend Karama. The Great Ones follow a trail of
+  fires and blood through the Lowtown district of Everdusk before finding
+  themselves in a strange underground courtyard with odd statues and gems.
 image: statue
+levelup: false
 ---
-
 Morning came once again. I scanned around the Chateau, looking for any sign of trouble. As of yet, we had not heard further of this strange person looking for Luna. Petra did not come back last night and she was nowhere to be found.
 
 What were our plans for the day? We discussed various things. I intended to return to work with Zerrick, and Eclipse planned to come with me. Luna and Hebo wanted to tag along because I told them of the magical items that Zerrick might have in store that we could purchase. We did not end up purchasing anything at the time. Zerrick had a cloak of protection he was willing to sell to me, but suggested that it would better serve me to make one myself instead of buying it with gold. Luna and Hebo left Zerrick’s tower, awestruck by its magnificence, and said that they would contact me later when the Great Ones had a plan. Eclipse chose to stay with me, keenly interested in the craft of magical engineering.
@@ -23,11 +23,11 @@ Oromis tried to explain his plan to Say’ri - the plan of starting a rumor abou
 
 Say’ri then suggested her plan, a continuation of what they were already doing: put more people in Karama’s way. Ezio and Oromis could not reason with Say’ri on the subject. Her plan was not working either, but she was desperate and out of ideas. Ezio did not relate the full details to me of the rest of the conversation, only that he and Oromis accepted the plan. Say’ri said that one of the magistrates was in Lowtown, the more impoverished district in Everdusk, and that we would be added to the patrols for the night.
 
----
+- - -
 
 The Great Ones met again that night. Ezio told us Say’ri’s plan and no one was happy with it. This plan required less subterfuge than which we were comfortable, and would put us possibly in the front lines of combat with a maniac that could eviscerate with a single movement. Still, what else did we have to go on? Hebo helped camouflage each of us as best as he could and we set out towards Lowtown.
 
----
+- - -
 
 Lowtown, unlike the Dockside district in which we resided, was a wreck. The pavement of the roads of Everdusk ended when we entered the district and we strode on dirt and weeds as we patrolled the streets. The district was quiet and dark. The only light here was the soft glow of candles from within the houses here and there. The houses here were no more than simple shanties held together by wire or twine, made of wood and little else. We noticed strange symbols carved above a couple of doors; an insignia of a sickle, subtle and crude, marked certain houses from their neighbors.
 
@@ -45,7 +45,7 @@ She couldn’t finish the sentence before the house erupted into flames. The res
 
 We all agreed that Karama (or his conspirator, if there was any) set the flames to distract us and the Yellowjackets. He must have been moving to that quieter neighborhood! We ran towards it as fast as we could, hearing the cries for help from the people we left behind.
 
----
+- - -
 
 Our path led into the quiet part of Lowtown to a particular house with its door wide open, unlike the rest of the houses that were shut and locked. Ezio and Eclipse went to sneak into the house, moving quietly and disappearing from our sight. The rest of us looked on at the chaos of Lowtown and saw that the fire was now spreading from house to house, and it was coming in our direction.
 
@@ -63,7 +63,7 @@ We decided that there might be more gargoyles with gems for the rest of the eye 
 
 “What does that mean?” asked Luna.
 
-“It’s a clue! The first eyeball thing gets the blue gem, the sapphire!”
+“It’s a clue! The first eyeball thing gets the blue gem, the sapphire! I read it on the wall.”
 
 In an instant, we all understood. The first socket took the sapphire. The second took the ruby. The last took the emerald. But the third socket remained and we still had a topaz and an amethyst. Oromis grumbled and placed the amethyst into the remaining socket. The room began to rumble and shift. The ivy on the floors reeled back and forth from the movement. And five gargoyle statues, from which we had taken the gems, sprung to life and set upon us.
 
@@ -77,4 +77,4 @@ Relieved, we replaced the amethyst with the topaz. A room behind us slid open as
 
 “More company,” it said. “Too bad I don’t like witnesses.”
 
-That’s funny. That’s exactly what Number One used to say.
+How funny. That is exactly what Number One used to say.
