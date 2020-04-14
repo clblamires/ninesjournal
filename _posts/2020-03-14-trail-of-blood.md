@@ -10,6 +10,8 @@ summary: A plan is made to apprehend Karama. The Great Ones follow a trail of
   themselves in a strange underground courtyard with odd statues and gems.
 image: statue
 levelup: false
+quote: >-
+  It is so strange that this reminds me of our former life. Before Zero. Before everything. I wonder where my sword rests now.
 ---
 Morning came once again. I scanned around the Chateau, looking for any sign of trouble. As of yet, we had not heard further of this strange person looking for Luna. Petra did not come back last night and she was nowhere to be found.
 
