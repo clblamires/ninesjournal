@@ -2,16 +2,16 @@
 layout: post
 title: The Fallen Fairy
 date: 2020-03-22T23:00:00.545Z
-recorded: 'Mar 22, 2020'
+recorded: Mar 22, 2020
 episode: 15
 adventure: calatia
-summary: >-
-  The pirates give chase as the sentinels free Il and try to escape. They learn more about Il as they travel to the Knight's Academy, eager to put distance between them and the House of Pirates
-levelup: true
+summary: The pirates give chase as the sentinels free Il and try to escape. They
+  learn more about Il as they travel to the Knight's Academy, eager to put
+  distance between them and the House of Pirates
 image: fairy
+levelup: true
 ---
-
-The sentinels crossed the bridge to Brynn’s Tower, seeing an ornate and gaudy golden throne with a steel cage next to it. The dull purple glow of Il came from the cage, but Il was not moving or making any sound. Gongu and Zedeki stepped inside and looked around, but there was no sign of Brynn, Carrock, or any other pirates. Apart from Il, no sounds came from the tower.
+The sentinels crossed the bridge to Brynn’s Tower, seeing an ornate and gaudy golden throne with a steel cage next to it. The dull purple glow of Il came from the cage, but Il was not moving or making any sound. Gongu and Zedeki stepped inside and looked around, but there was no sign of Brynn, Carrock, or any other pirates. Apart from Il, there was nothing else in the tower.
 
 Ophinia, still bleeding, helped Namika set up the entire supply of bombs they purchased in Kanalet on the bridge. They stepped back and Nami helped Ophinia into the tower. Zedeki came out and flew down to the water below the tower. He whispered to the sea life and a group of fish gathered.
 
@@ -35,7 +35,7 @@ Zedeki took a bottle of oil and splashed it onto two of the chasing canoes, avoi
 
 After a while, the sentinels reached the shore. Gongu helped Ophinia out and Whisper began to look around. Zedeki returned to his allies. They decided they had to get away from the House of Pirates. With a quick spell from Gongu, they all began to sneak through the shores of the Gulf of Calatia.
 
----
+- - -
 
 An hour passed and Ophinia and Il could not keep going. They found a place to rest for the night in a hollowed fallen tree. Il cast a spell and made himself a bed of leaves. Ophinia, Nami, and Zedeki went to sleep first while Gongu and Whisper were on watch. Ophinia suggested that they not light a fire, so they huddled close together to rest.
 
@@ -55,7 +55,7 @@ An hour passed and Ophinia and Il could not keep going. They found a place to re
 
 With that, Il fell asleep in the foliage. Gongu was extremely tired and left most of the watch to Whisper until he woke Nami to take over. Nami watched the camp while they slept until the sun began to rise over the horizon.
 
----
+- - -
 
 In the morning while they prepared some food and made plans to hike north to the Knight’s Academy, Ophinia asked to speak with Zedeki privately.
 
@@ -69,7 +69,7 @@ Zedeki shook his head. “My reaction to Gongu’s joke was wrong and I shouldn�
 
 They paused, awkwardly, for a moment before they both began to laugh. “It was a dumb joke, wasn’t it?”
 
----
+- - -
 
 The party decided to travel north to the Knight’s Academy. It would provide more safety from any pursuing pirates than returning to Kanalet. The journey took a few more days until they arrived at the tall stone walls of the castle of the Knight’s Academy. The sentinels found it almost unoccupied, though. Only a small handful of soldiers manned the walls. The wood and iron gate had crude words carved into it: “Keep your castle. I will keep mine. I will not be so benevolent next time. Cross me again, and Chorus will burn.” It was signed by Brynn.
 
