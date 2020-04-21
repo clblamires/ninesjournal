@@ -2,7 +2,7 @@
 layout: post
 title: The Grave Child
 date: 2019-10-28T17:10:20.049Z
-recorded: 'Oct 27, 2019'
+recorded: 'October 27, 2019'
 tags: cistern gravechild masks sentinels
 episode: '8'
 adventure: calatia

@@ -2,7 +2,7 @@
 layout: post
 title: Unsafe House
 date: 2020-04-11T20:00:04.545Z
-recorded: Apr 11, 2020
+recorded: April 11, 2020
 episode: 18
 adventure: greatones
 summary: The Great Ones fight against a fierce opponent who, somehow, is able to heal his wounds almost as fast as he receives them. 

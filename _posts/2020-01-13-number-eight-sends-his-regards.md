@@ -2,7 +2,7 @@
 layout: post
 title: Number Eight Sends His Regards
 date: 2020-01-13T08:58:47.215Z
-recorded: 'Jan 12, 2020'
+recorded: 'January 12, 2020'
 episode: '15'
 adventure: greatones
 summary: >-

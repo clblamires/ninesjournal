@@ -2,7 +2,7 @@
 layout: post
 title: House of Pirates
 date: 2020-03-15T17:57:04.545Z
-recorded: 'Mar 15, 2020'
+recorded: 'March 15, 2020'
 episode: 14
 adventure: calatia
 summary: >-

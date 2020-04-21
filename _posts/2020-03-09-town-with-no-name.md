@@ -2,7 +2,7 @@
 layout: post
 title: The Town With No Name
 date: 2020-03-09T17:57:04.545Z
-recorded: 'Mar 8, 2020'
+recorded: 'March 8, 2020'
 episode: '2'
 adventure: valdea
 summary: >-

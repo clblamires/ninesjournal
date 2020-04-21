@@ -2,7 +2,7 @@
 layout: post
 title: The Mysterious Woods
 date: 2019-11-11T19:35:26.959Z
-recorded: 'Nov 10, 2019'
+recorded: 'November 10, 2019'
 episode: '9'
 adventure: calatia
 summary: "The mercenaries, now appointed sentinels, learn that the former Elder of the village attacked some people and escaped into the Blackbite Woods to the north. They follow the trail and learn why the villagers call the woods 'mysterious'."

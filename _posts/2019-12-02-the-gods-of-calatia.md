@@ -2,7 +2,7 @@
 layout: post
 title: The Gods of Calatia
 date: 2019-12-02T21:34:19.249Z
-recorded: 'Nov 24, 2019'
+recorded: 'November 24, 2019'
 episode: '10'
 adventure: calatia
 summary: "The path leads into the mountains, and the sentinels are accompanied by a stranger with a runic battle axe who asks them for help to cleanse the Temple of Paraba."

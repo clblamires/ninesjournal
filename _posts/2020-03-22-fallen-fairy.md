@@ -2,7 +2,7 @@
 layout: post
 title: The Fallen Fairy
 date: 2020-03-22T23:00:00.545Z
-recorded: Mar 22, 2020
+recorded: March 22, 2020
 episode: 15
 adventure: calatia
 summary: The pirates give chase as the sentinels free Il and try to escape. They

@@ -2,7 +2,7 @@
 layout: post
 title: Deals with a Dragon
 date: 2019-09-09T15:20:27.924Z
-recorded: 'Sept 2, 2019'
+recorded: 'September 2, 2019'
 tags: dragon skeletons glyph-trap caves
 episode: '12'
 adventure: greatones

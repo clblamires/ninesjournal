@@ -24,6 +24,12 @@ layout: page
             {% assign session = "Session " | append: post.episode %}
             {% assign image_path = "greatones" %}
         {% endif %}
+        {% if post.adventure contains "shortstack" %}
+            {% assign adventure = "The Short Stack Guild" %}
+            {% assign url = "shortstack" %}
+            {% assign session = "Episode " | append: post.episode %}
+            {% assign image_path = "shortstack" %}
+        {% endif %}
         <hr>
 
         <div class="main-page-blog">

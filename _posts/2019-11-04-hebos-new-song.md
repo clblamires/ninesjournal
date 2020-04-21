@@ -2,7 +2,7 @@
 layout: post
 title: Hebo's New Song
 date: 2019-11-04T19:40:26.959Z
-recorded: 'Nov 2, 2019'
+recorded: 'November 2, 2019'
 episode: '14'
 adventure: greatones
 summary: >-

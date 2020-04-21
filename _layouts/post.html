@@ -19,6 +19,12 @@
     {% assign session = "Session " | append: page.episode %}
     {% assign image_path = "greatones" %}
 {% endif %}
+{% if page.adventure contains "shortstack" %}
+    {% assign adventure = "The Short Stack Guild" %}
+    {% assign url = "shortstack" %}
+    {% assign session = "Episode " | append: post.episode %}
+    {% assign image_path = "shortstack" %}
+{% endif %}
 <body>
 
 

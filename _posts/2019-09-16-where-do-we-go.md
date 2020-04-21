@@ -2,7 +2,7 @@
 layout: post
 title: Moving Onward
 date: 2019-09-16T18:23:49.192Z
-recorded: 'Sept 15, 2019'
+recorded: 'September 15, 2019'
 tags: stalfos horses caretaker
 episode: '6'
 adventure: calatia

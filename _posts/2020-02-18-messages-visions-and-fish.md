@@ -2,7 +2,7 @@
 layout: post
 title: 'Messages, Visions, and Fish'
 date: 2020-02-18T23:48:00.753Z
-recorded: 'Feb 16, 2020'
+recorded: 'February 16, 2020'
 episode: '13'
 adventure: calatia
 summary: >-

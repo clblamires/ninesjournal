@@ -2,7 +2,7 @@
 layout: post
 title: Leaving the Ranks
 date: 2020-02-21T17:57:04.545Z
-recorded: 'Feb 14, 2020'
+recorded: 'February 14, 2020'
 episode: '1'
 adventure: valdea
 summary: >-

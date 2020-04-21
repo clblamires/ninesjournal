@@ -2,7 +2,7 @@
 layout: post
 title: Trail of Blood
 date: 2020-03-14T17:57:04.545Z
-recorded: Mar 14, 2020
+recorded: March 14, 2020
 episode: 17
 adventure: greatones
 summary: A plan is made to apprehend Karama. The Great Ones follow a trail of

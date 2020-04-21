@@ -2,7 +2,7 @@
 layout: post
 title: Bloodpack Waters
 date: 2019-10-01T18:27:42.192Z
-recorded: 'Sept 23, 2019'
+recorded: 'September 23, 2019'
 tags: pirates ghost flamebreaker wargroove
 episode: '13'
 adventure: greatones

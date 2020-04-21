@@ -2,7 +2,7 @@
 layout: post
 title: Glikzong and Colapius
 date: 2020-02-10T20:17:57.113Z
-recorded: 'Feb 9, 2020'
+recorded: 'February 9, 2020'
 episode: '12'
 adventure: calatia
 summary: >-

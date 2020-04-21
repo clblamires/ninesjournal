@@ -2,7 +2,7 @@
 layout: post
 title: The Temple of Paraba
 date: 2020-02-03T21:17:23.128Z
-recorded: 'Feb 2, 2020'
+recorded: 'February 2, 2020'
 episode: '11'
 adventure: calatia
 summary: >-
