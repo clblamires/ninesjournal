@@ -30,6 +30,12 @@ layout: page
             {% assign session = "Episode " | append: post.episode %}
             {% assign image_path = "shortstack" %}
         {% endif %}
+        {% if post.adventure contains "secondorder" %}
+            {% assign adventure = "The Second Order of Dragonlords" %}
+            {% assign url = "secondorder" %}
+            {% assign session = "Part " | append: post.episode %}
+            {% assign image_path = "secondorder" %}
+        {% endif %}
         <hr>
 
         <div class="main-page-blog">

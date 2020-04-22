@@ -206,7 +206,7 @@ table a {
 }
 .portraits {
     display: flex;
-    margin-bottom: 2rem;
+    margin-bottom: 2px;
     a {
         flex: 1;
         padding: 0 1px 0 1px;
@@ -231,12 +231,21 @@ table a {
 @media (max-width: 576px){
     .character-image{
         float: none;
-        margin-left: 0;
+        margin: 0 auto;
+        display: block;
     }
 }
 
 .character-portrait {
-    width: 100%;
+    // width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.modal-body p {
+    font-size: 90%;
+    font-style: italic;
 }
 
 
@@ -283,6 +292,11 @@ blockquote {
     .session-info {
         text-align: left;
     }
+}
+
+
+.chapter-title {
+    font-size: 75%;
 }
 
 

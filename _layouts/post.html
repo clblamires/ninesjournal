@@ -25,6 +25,12 @@
     {% assign session = "Episode " | append: post.episode %}
     {% assign image_path = "shortstack" %}
 {% endif %}
+{% if page.adventure contains "secondorder" %}
+    {% assign adventure = "The Second Order of Dragonlords" %}
+    {% assign url = "secondorder" %}
+    {% assign session = "Part " | append: post.episode %}
+    {% assign image_path = "secondorder" %}
+{% endif %}
 <body>
 
 
