@@ -64,7 +64,7 @@ Myrtle shook her head. “I imagine he’d be somewhere more… deathy. I don’
 
 The hole in the ground turned out to be a short cave. The short cave turned out to be a tunnel. The tunnel led to a large opening lit by a single lit brazier. The cave was inhabited, they figured, by someone intelligent. Monsters or goblins would have just lit a fire. But a brazier required setup.
 
-The cave was full of many different things. There were bedrolls and some containers of food. A locked chest was in the corner of the room. A few expensive and inexpensive gemstones were stacked in a corner hear some silver and gold goblets. Paintings of various people were stacked against the wall. Scrolls and books were on a small makeshift table. 
+The cave was full of many different things. There were bedrolls and some containers of food. A locked chest was in the corner of the room. A few expensive and inexpensive gemstones were stacked in a corner hear some silver and gold goblets. Paintings of various people were stacked against the wall. Scrolls and books were on a small makeshift table.
 
 “This is great!” whispered Ickim. “This is a thieves’ den!”
 
@@ -80,7 +80,7 @@ Myrtle began looking through the treasures in the corner. She didn’t understan
 
 She made her way towards the pile of jewelry, but accidentally bumped up against a small table. A single book positioned on the edge of the table fell over. Myrtle went to pick it up but saw that the book was hollowed on the inside! Where the book’s pages should be was a small black pouch with a handful of gems.
 
-“Hey, these are worth something!” she said, noticing how the gems glistened in the light of the brazier. “Ickim, look at-“
+“Hey, these are worth something!” she said, noticing how the gems glistened in the light of the brazier. “Ickim, look at-"
 
 Ickim inserted a lockpick into the chest and had no time to react to the purple vapor that came from the lock. His head became a swirl and he stumbled backwards, tripping over one of the bedrolls. Myrtle pocketed the gems and ran over to her friend, patting him on the cheeks to get him out of his stupor.
 
@@ -98,7 +98,7 @@ The old man laughed slightly. “Well then, if you’re looking to steal from us
 
 Myrtle lowered the sword. “Have mercy, please!” she cried. “My friend and I were in the woods and we got lost. We were just looking for something to eat.”
 
-“No, you didn’t,” the man replied. “You’re a bad thief and a bad liar.” He eyed Myrtle and Ickim for a moment. “Normally we’d just kill you and dump you in the stream, but I don’t see any reason for that. How’s about a trade?”
+“No, that's not true,” the man replied. “You’re a bad thief and a bad liar.” He eyed Myrtle and Ickim for a moment. “Normally we’d just kill you and dump you in the stream, but I don’t see any reason for violence tonight. Nasty business. How’s about a trade?”
 
 Myrtle looked at Ickim. He sat up and rubbed his eyes. “What do you mean, ‘trade’?” she asked, her hands still gripping her sword.
 
@@ -132,15 +132,15 @@ Myrtle and Ickim ran down the tunnel and back to the entrance of the cave. Their
 
 Myrtle moved over to Ickim and hugged him. “It’s okay, really. We’re fine, right? I’ll buy you some new armor when we get back to town. Check this out!”
 
-Myrtle pulled out of her other pocket the gemstones she stole from the thieves. Ickim’s eyes went wide. “Whoa, we have to give that back!” he cried. “What if they figure out you stole that!”
+Myrtle pulled out of her other pocket the gemstones she stole from the thieves. Ickim’s eyes went wide. “Whoa!” he cried. “What if they figure out you stole that!”
 
-“You heard them, they think we didn’t take anything,” said Myrtle. She stood up and began kicking dirt over the campfire. “We’ll put out this fire so they can’t find us. They were humans, so they can’t see in the dark very well. It’s going to be cold, so bundle up in your bedroll good, okay?”
+“I guess we could take it back to them. But you heard what they said. They think we didn’t take anything. But maybe we can see who they stole these gems from and give them back,” said Myrtle. She stood up and began kicking dirt over the campfire. “We’ll put out this fire so they can’t find us. They were humans, so they can’t see in the dark very well. It’s going to be cold, so bundle up in your bedroll good, okay?”
 
 ---
 
 Morning came and Myrtle and Ickim awoke, well rested and ready to continue. They ate their rations for the morning, discussing the upcoming day. They had to find Darek today. Any longer and he might be fully lost to the Death Knight. They gathered up their camp and set off northward into the woods.
 
-A few hours passed without incident before they found a sign that said “Cemetery”, pointing west. The path north continued to a large open field.
+A few hours passed without incident before they found a sign that said “cemetery”, pointing west. The path north continued to a large open field.
 
 “Which way?” asked Myrtle.
 
@@ -168,7 +168,7 @@ The Death Knight was dressed from head to foot in heavy rusted armor, stained bl
 
 “Who goes there?!” boomed the Death Knight, standing and raising his weapon.
 
-Myrtle fired from her bow. The arrow struck the Death Knight in the chest, piercing through the armor. A horrid shriek filled the room and Darek fell to his knees, unable to cover his ears due to his bindings. He cried out.
+Myrtle fired from her bow. The arrow struck the Death Knight in the chest, piercing through the armor. A horrid shriek filled the room and Darek fell to his knees, unable to cover his ears due to his bindings.
 
 “Get him!” shouted Ickim, pointing to Darek. “I’ll get the Death Knight!”
 
