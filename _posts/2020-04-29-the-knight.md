@@ -178,7 +178,7 @@ The Death Knight turned towards Myrtle but felt a slash across his back leg, cau
 
 “Ickim!” screamed Myrtle.
 
-She summoned the fey spirits and fired another shot from her bow. The arrow struck the Death Knight in the back. The Death Knight raised himself up and spun around towards Myrtle, raising his bloody sword. But as he did, the fey spirits from Myrtle coalesced into small goat forms and smashed into him, knocking him back against a wall. A loud clang from the armor against the stone resounded in the room.
+She summoned the fey spirits and fired another shot from her bow. The arrow struck the Death Knight in the back. The Death Knight raised himself up and spun around towards Myrtle, raising his bloody sword. But as he did, the fey spirits from Myrtle coalesced into small pygmy goat forms and smashed into him, knocking him back against a wall. A loud clang from the armor against the stone resounded in the room.
 
 “Watch out!” cried Darek.
 
