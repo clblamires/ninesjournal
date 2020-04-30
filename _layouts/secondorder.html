@@ -14,7 +14,7 @@
                         <table class="table table-borderless table-episode-list table-striped">
                             <thead class="thead-dark">
                                 <tr>
-                                    <th class="text-center">Chapter</th>
+                                    <!-- <th class="text-center">Chapter</th> -->
                                     <th class="text-center">Part</th>
                                     <th>Title</th>
                                     <th class="text-center">Date</th>
@@ -24,11 +24,11 @@
                                 {% for post in site.posts %}
                                     {% if post.adventure == 'secondorder' %}
                                     <tr>
-                                        <td class="chapter-title">
+                                        <!-- <td class="chapter-title">
                                             <a href="{{ post.url }}">
                                                 {{ post.chapter }}
                                             </a>
-                                        </td>
+                                        </td> -->
                                         <td class="episode-number">
                                             <a href="{{ post.url }}">
                                                 {{ post.episode }}
