@@ -46,7 +46,7 @@ Shadow wants to try fishing again. I’ll write more later, hopefully.
 
 My beloved,
 
-Well, I lied. I didn’t write more later. Everyone spent the day chatting as we traveled again, but we really did not talk about anything too important. It was just travel, I guess. We met some merchants on the road driving a few oxen to Altea. The poor animals were so underfed! The merchants told us that the God King had asked for oxen as part of a very large sacrifice to Amalj’aa, trying to appease the titan god and stop the drought that is plaguing the countryside. Dea warned us privately that appeasing Amalj’aa is not a good plan. What sort of example does it set when an immortal god tries to appease a titan?
+Well, I lied. I didn’t write more later like I said I would. It's actually been a few days since. Everyone spent the days chatting as we traveled again, but we really did not talk about anything too important. It was just travel, I guess. We met some merchants on the road driving a few oxen to Altea. The poor animals were so underfed! The merchants told us that the God King had asked for oxen as part of a very large sacrifice to Amalj’aa, trying to appease the titan god and stop the drought that is plaguing the countryside. Dea warned us privately that appeasing Amalj’aa is not a good plan. What sort of example does it set when an immortal god tries to appease a titan?
 
 And no, I have not yet caught any fish. Shadow caught four.
 
@@ -64,7 +64,7 @@ Shadow said to us that he’d be willing to do the negotiations. He was a hero o
 
 I’ve much to learn from my companions. About bravery, heroism, and the like. I want to be brave like him. Like you before-
 
-Clio then asked if we could get Anora’s opinion on the matter. Vaevictus brought out Anora. She is a beautiful girl, and yet had a very resolute look upon her face. Wisdom beyond her years. She told us simply that her sacrifice will save the city, so it needed to be done. Torrag stepped forward and said what we were all thinking. He said that Anora’s sacrifice will not matter. Amalj’aa will use this as precedence that the God King can be controlled by threat alone. Anora could die now, and the rest of the city will burn when Amalj’aa makes his next demand. The God King was weak.
+Clio then asked if we could get Anora’s opinion on the matter. Vaevictus brought out Anora. She is a beautiful girl, and yet had a very resolute look upon her face. Wisdom beyond her years. She told us simply that her sacrifice will save the city, so it needed to be done. Torrag stepped forward and said what we were all thinking. He said that Anora’s sacrifice will not matter. Amalj’aa will use this as a demonstration that the God King can be controlled by threat alone. Anora could die now, and the rest of the city will burn when Amalj’aa makes his next demand. The God King was weak.
 
 Briar had an idea. She asked if we could negotiate with the League of Storms about having our group, the heroes of prophesy and the Oracle’s chosen, defend her. Surely Amalj’aa would concede to this if we offered ourselves up as sacrifices with Anora, but had the chance to fight against the basilisks.
 
@@ -74,7 +74,7 @@ Vaevictus loved the plan immediately, and pleaded once again that we would negot
 
 Anora agreed to our plan and led me into her room. I’ve never been in the palace of a king, and the bedroom of a princess is amazing! There were so many beautiful tapestries and clothes. The clothes, Heath! It took my breath away! Anora was very quiet when she led me in here, but asked me if I was sure of what I was doing. I told her the situation was a win for her both ways. And, to reflect what Shadow had said, this is what heroes do. I had to be a hero.
 
-She could hear the quiver in my voice and held my hand for a moment before finding me a simple dress. At least, she said it was simple. I thought it was elegant. It is white and form-fitting, embroidered with amazing designs and symbolism of Vaevictus. I got dressed behind a screen to make sure she didn’t see my stomach. It’s been almost ten months since I- I can’t seem to make them go away. I can’t-
+She could hear the quiver in my voice and held my hand for a moment before finding me a simple dress. Well, she said it was simple. I think it is elegant. It is white and form-fitting, embroidered with amazing designs and symbolism of Vaevictus. I got dressed behind a screen to make sure she didn’t see my stomach. It’s been almost ten months since I- I can’t seem to make them go away. I can’t-
 
 I look amazing in this dress. I really do. You’d like it. I think the others did, too. Actaeon whistled at me. I wonder if I can buy this from Anora. Assuming I survive, of course.
 
@@ -124,11 +124,11 @@ Writing fast, don’t know how much time I have.
 
 Thaos and his cronies chained our ankles to the stake on the sacrificial stone in the river. After they left, Torrag broke the chains pretty easily and freed us all. A trio of harpies watched overhead. They were making Clio nervous and afraid for some reason. A few hours passed and the sun was setting as three basilisks came rising out of the water to attack.
 
-I probably should have been shielding my eyes to avoid their gaze. Basilisks can turn you to stone if you look at them. I didn’t know that, but I managed to shrug off their magic anyway. I struck one with some powerful magic so Torrag and Clio could hit it easier. Shadow kept the second at bay. Briar and Actaeon fought the third. Briar conjured some vines to keep it restrained while Actaeon and Briar’s spirit animal, Grimalz the Thorncat, killed it. As the basilisk died, Briar summoned a flame and the monster was immediately consumed in fire. I heard her shout, "You can have this one, Amalj'aa!"
+I probably should have been shielding my eyes to avoid their gaze. Basilisks can turn you to stone if you look at them. I didn’t know that, but I managed to shrug off their magic anyway. I struck one with a powerful spell so Torrag and Clio could hit it easier. Shadow kept the second at bay. Briar and Actaeon fought the third. Briar conjured some vines to keep it restrained while Actaeon and Briar’s spirit animal Grimalz the Thorncat - that's a new thing! -  killed it. As the basilisk died, Briar summoned a flame and the monster was immediately consumed in fire. I heard her shout, "You can have this one, Amalj'aa!"
 
 Torrag and Clio each took a few hits before dodging back and regrouping. I said a prayer to the Morninglord and he blessed my companions with strength. Clio slashed with her psychic blades, ending the basilisk’s life. The third gravely injured Torrag. His body began to tense up as the petrification process began, but he fought through it and slammed into the last basilisk, killing it.
 
-I cast a spell of resistance on Torrag to end the petrification process just as the harpies overhead screamed and descended. Clio was terrified! One began to sing and Clio was unable to do anything. She just trembled. Actaeon held her back to keep her from walking towards the harpies while the rest of us attacked. They were all targetting Clio, not caring much about the rest of us.
+I cast a spell of resistance on Torrag to end the petrification process just as the harpies overhead screamed and descended. Clio was terrified! One began to sing and Clio was unable to do anything. She just trembled and stared. The singer was calling to her, and she began to move towards it. Actaeon held her back while the rest of us attacked. They were all targetting Clio, not caring much about the rest of us.
 
 I blasted one harpy away with a bolt of fire, but the other two dodged our attacks. One slashed at Clio and I saw a splash of blood. Clio fell to the ground, gravely injured. The other harpy was trying to move at her, too. Actaeon impaled it to keep it from moving, and it perished.
 
