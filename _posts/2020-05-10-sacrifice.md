@@ -64,9 +64,9 @@ Shadow said to us that he’d be willing to do the negotiations. He was a hero o
 
 I’ve much to learn from my companions. About bravery, heroism, and the like. I want to be brave like him. Like you before-
 
-Clio then asked if we could get Anora’s opinion on the matter. Vaevictus brought out Anora. She is a beautiful girl, and yet had a very resolute look upon her face. Wisdom beyond her years. She told us simply that her sacrifice will save the city, so it needed to be done. Torrag stepped forward and said what we were all thinking. He said that Anora’s sacrifice will not matter. Amalj’aa will use this as a demonstration that the God King can be controlled by threat alone. Anora could die now, and the rest of the city will burn when Amalj’aa makes his next demand. The God King was weak.
+Briar then asked if we could get Anora’s opinion on the matter. Vaevictus brought out Anora. She is a beautiful girl, and yet had a very resolute look upon her face. Wisdom beyond her years. She told us simply that her sacrifice will save the city, so it needed to be done. Torrag stepped forward and said what we were all thinking. He said that Anora’s sacrifice will not matter. Amalj’aa will use this as a demonstration that the God King can be controlled by threat alone. Anora could die now, and the rest of the city will burn when Amalj’aa makes his next demand. The God King was weak.
 
-Briar had an idea. She asked if we could negotiate with the League of Storms about having our group, the heroes of prophesy and the Oracle’s chosen, defend her. Surely Amalj’aa would concede to this if we offered ourselves up as sacrifices with Anora, but had the chance to fight against the basilisks.
+Clio had an idea. She asked if we could negotiate with the League of Storms about having our group, the heroes of prophesy and the Oracle’s chosen, defend her. Surely Amalj’aa would concede to this if we offered ourselves up as sacrifices with Anora, but had the chance to fight against the basilisks.
 
 Then I had an idea. I told everyone that I could pretend to be Anora. With an Anora Mask, the real Anora would never be in danger! If we could defend Anora and survive, the city of Altea would be saved! If we perished, the real Anora would still be here to lead the city someday!
 
@@ -122,7 +122,7 @@ Tomorrow I’m going to either be a sacrifice, or I’m going to help my friends
 
 Writing fast, don’t know how much time I have.
 
-Thaos and his cronies chained our ankles to the stake on the sacrificial stone in the river. After they left, Torrag broke the chains pretty easily and freed us all. A trio of harpies watched overhead. They were making Clio nervous and afraid for some reason. A few hours passed and the sun was setting as three basilisks came rising out of the water to attack.
+Thaos and his cronies chained our ankles to the stake on the sacrificial stone in the river. After they left, Torrag broke the chains pretty easily and freed himself and me. Actaeon, Clio, and Shadow did the same. Briar turned into a fearsome little lizard somehow and just kind of jumped right out of the chains. It is fantastic how she can do that! A trio of harpies watched overhead. They were making Clio nervous and afraid for some reason. A few hours passed and the sun was setting as three basilisks came rising out of the water to attack.
 
 I probably should have been shielding my eyes to avoid their gaze. Basilisks can turn you to stone if you look at them. I didn’t know that, but I managed to shrug off their magic anyway. I struck one with a powerful spell so Torrag and Clio could hit it easier. Shadow kept the second at bay. Briar and Actaeon fought the third. Briar conjured some vines to keep it restrained while Actaeon and Briar’s spirit animal Grimalz the Thorncat - that's a new thing! -  killed it. As the basilisk died, Briar summoned a flame and the monster was immediately consumed in fire. I heard her shout, "You can have this one, Amalj'aa!"
 
@@ -130,7 +130,7 @@ Torrag and Clio each took a few hits before dodging back and regrouping. I said 
 
 I cast a spell of resistance on Torrag to end the petrification process just as the harpies overhead screamed and descended. Clio was terrified! One began to sing and Clio was unable to do anything. She just trembled and stared. The singer was calling to her, and she began to move towards it. Actaeon held her back while the rest of us attacked. They were all targetting Clio, not caring much about the rest of us.
 
-I blasted one harpy away with a bolt of fire, but the other two dodged our attacks. One slashed at Clio and I saw a splash of blood. Clio fell to the ground, gravely injured. The other harpy was trying to move at her, too. Actaeon impaled it to keep it from moving, and it perished.
+I blasted one harpy away with a bolt of fire. Briar conjured blades of ice and flung them at the beasts. Shadow kept his distance and was firing arrows. Torrag stayed back, still reeling from the basilisk attack. One slashed at Clio and I saw a splash of blood. Clio fell to the ground, gravely injured. The other harpy was trying to move at her, too. Actaeon impaled it to keep it from moving, and it perished.
 
 I shouted at the other as it stood over Clio's dying form, ready to slash at her again with its horrible claws. I raised your holy symbol and a blinding light descended on the harpy, incinerating it and leaving it burned beyond recognition. Running to Clio, I cast a spell and tried to close her wounds.
 
