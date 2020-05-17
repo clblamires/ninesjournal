@@ -10,7 +10,7 @@ image:
 levelup: false
 ---
 
-I had a nightmare. I haven’t had one of those since I was little. Sure, my dreams have been dark lately. But this was different. I heard a voice. She kept saying things about mocking me as one of the Oracle’s Chosen. I saw an old man, wrinkled and withered. The voice spoke about life dripping out of him while a large knife took his life. What would happen to his soul, she asked.
+I had a nightmare. Sure, my dreams have been dark lately. But this was different. I heard a voice. She kept saying things about mocking me as one of the Oracle’s Chosen. I saw an old man, wrinkled and withered. The voice spoke about life dripping out of him while a large knife took his life. What would happen to his soul, she asked.
 
 I woke with a start and found myself in the dark. I hate the dark so much. My mind was so muddled that I could not speak. At least, that’s what I thought at first. I wanted to cast a spell of light but I couldn’t speak the incantation. Did that ever happen to you, I wonder. I was very afraid so I lit Mother’s candle. It detected no further magic around me, but I wish I had left it burning all night. Why did I not do this?
 
