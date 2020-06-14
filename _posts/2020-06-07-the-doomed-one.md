@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Doomed One
+title: Doomed
 date: 2020-06-07T16:39:55.391Z
 recorded: June 6, 2020
 episode: "7"

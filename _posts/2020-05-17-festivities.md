@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Festivities in Altea
+title: Festivities
 date: 2020-05-17T00:30:00.000Z
 recorded: May 16, 2020
 episode: "5"

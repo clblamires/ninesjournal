@@ -77,7 +77,7 @@ Heath,
 
 Wow, what a day. Shadow and I are injured pretty badly. I won’t have any scars. At least, not anything new apart from what I already have. But we’re okay. We’re okay.
 
-We left Altea this morning. Briar said her goodbyes to Herkus and we departed. I kind of wanted to see the last play in the Amphitheater just so I could see that pretty actress again, but Clio assured me again that the actress was only interested in Heath, not me. That’s fine, I’ll learn about the Gjallerhorn in some other way.
+We left Altea this morning. Briar said her goodbyes to Herkus and we departed. I kind of wanted to see the last play in the Amphitheater just so I could see that pretty actress again, but Clio assured me again that the actress was only interested in Heath, not me. That’s fine, I’ll learn about the Gjallerhorn in some other way. Dia promised me that we'd find some other information down the road at some point. She mentioned that the script used in the play may not have been complete anyway. That makes sense. Dia, of all people, would know that.
 
 The path took us off the main road out of Altea and towards the mountains. The terrain here in the Emerald Isles is beautiful, just like that man back home told us it would be. The trees of the jungle around us thinned out as he followed the river into the mountains. The ground was rocky most of the way.
 
