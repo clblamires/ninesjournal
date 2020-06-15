@@ -99,12 +99,6 @@ Briar was crying at this point. She told us amid tears to do what we must. She t
 
 Three centaurs remained. Seeing us overpower them so easily, they fled. Shadow killed the centaur engaged with him before she could run away. Two survived, both heavily injured.
 
-Shadow and I were bleeding badly. We patched each other up with some quick magic before falling to the ground, now exhausted and trying to catch our breath. Briar begged Actaeon to leave the corpses alone instead of severing their hands as he usually did. She laid gold coins on the eyes of the fallen centaurs in a ritual, leaving them for the Ferryman.
-
-I believe we were all eager to move on. The two remaining centaurs would not bother us in the night, injured as they were. We followed the path through the mountains for another half hour before stopping to camp for the night. Briar was still beside herself and Clio tried to comfort her. Surprisingly, Actaeon came to talk to her. I don’t know what was said, but her face lightened. He gave a quick nod to Clio.
-
-Actaeon spoke to each of us in turn. Torag just snorted and smiled from whatever Actaeon told him. Actaeon just laughed to Shadow, asking him about fish. To me, Actaeon said that he wished he could console me. He could see it plainly on my face that violence is just not in my nature. But I have to endure it and the pain it brings. I smiled and thanked him. He’s right, of course. I have to endure this.
-
-Actaeon went further ahead to scout while the rest of us huddled near the campfire. We ate our dinner quietly. I started stitching my clothes back together. Shadow kept watching the sky. Clio held Briar’s hand. Torag was quiet as ever, breathing deeply with his eyes closed in thought.
+Shadow and I were bleeding badly. We patched each other up with some quick magic before falling to the ground, now exhausted and trying to catch our breath. Briar begged Actaeon to leave the corpses alone instead of severing their hands as he usually did. She laid gold coins on the eyes of the fallen centaurs in a ritual, leaving them for the Ferryman. We needed to move on, so we stopped for a short while here on the side of the path.
 
 One thing is certain to us now. Amalj’aa, Lord of Storms, is doing all he can to stop us now. I think, perhaps, because he knows that we are destined to succeed.
