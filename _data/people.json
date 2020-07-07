@@ -17,9 +17,9 @@
         {
             "name"  : "Zima",
             "race"  : "Rito",
-            "class" : "Unknown",
-            "equip" : "Bow and arrows",
-            "text"  : "A mercenary in charge of Nayru's Blessing's night crew. She was usually very cold to her subordinates and comrades, speaking rarely to anyone. She mostly stayed in the crow's nest of the ship until the end of her shift. She was last seen by the crew as she flew up to the nest, saying \"Good night\" to them while eying the horizon. She is presumed dead."
+            "class" : "Rogue / Wizard",
+            "equip" : "Bow and arrows, magic",
+            "text"  : "A mercenary in charge of Nayru's Blessing's night crew. She was usually very cold to her subordinates and comrades, speaking rarely to anyone. She mostly stayed in the crow's nest of the ship until the end of her shift. Zima informed the group that she was once a part of the Cult of Cruel, but left it after they slaughtered her family. Her sole drive in life is to bring the cult to destruction. Zima was injured in the sinking of Nayru's Blessing, having lost her right leg and the ability to fly."
         },
         {
             "name"  : "Beedle",
@@ -29,7 +29,7 @@
             "text"  : "Beedle is a traveling merchant from Hyrule. He carries a huge bag full of trinkets, artifacts, and knick-knacks to sell. He was hired by Miko as a mercenary because he owns a crossbow, though it is unlikely he was ever had to use it. In a fight, Beedle usually just gets in the way and fumbles with his weapon. He leaves the group of mercenaries to travel on his own towards Mabel Village to start his merchant business."
         },
         {
-            "name"  : "Masked Assailants",
+            "name"  : "The Cult of Cruel",
             "race"  : "Many",
             "class" : "Cleric, Fighter, and more",
             "equip" : "Crossbows, maces, swords, magic, etc.",
@@ -45,7 +45,7 @@
         {
             "name"  : "Huk",
             "race"  : "Bokoblin",
-            "class" : "Sorcerer/Warlock",
+            "class" : "Sorcerer / Wizard",
             "equip" : "Magic",
             "text"  : "Huk is a self-proclaimed Good Bokoblin who runs the Spring of Wellness campground in the Featherwood Forest. His former tribe was very vicious, and Huk's conscience kept him from that path. He seeks to help people as much as he can even though almost everyone hates his kind. Huk's skin is purple, but this is only an illusion. His real skin color is gold, indicative of his extreme combat prowess."
         },
@@ -73,14 +73,14 @@
         {
             "name"  : "Dax",
             "race"  : "Zora",
-            "class" : "Barbarian/Fighter",
+            "class" : "Barbarian / Fighter",
             "equip" : "Great sword",
             "text"  : "The Downrigger (and later, Marshal) of Mabel Village. Dax is a tall, blue-skinned Zora with a sword covered in shark teeth. In his position, he intimidates suspicious people who enter the village while also acting as the chief of the town police force. When in a rage, his skin changes to bright red. He interrogates the Hyrulean Mercenaries because he believes them to be colluding with the ravaging Bokoblins, but later comes to trust them. After a change in leadership of Mabel Village, he unwillingly becomes an Interim Marshal of the Loftwing Province."
         },
         {
             "name"  : "Ulrira",
             "race"  : "Hylian",
-            "class" : "Unknown",
+            "class" : "None",
             "equip" : "Unknown",
             "text"  : "The Elder of Mabel Village. He is usually found sitting alone in the Little Fish Inn each night, drinking quietly and checking his notebooks. Depsite the town's apparent impoverishment, he wears expensive clothes and boots. Most people in town dislike him, feeling that he is slowly ruining the town by mismanaging money. He is later removed from power by Brumlee. At the Temple of Paraba, Majora pulls him into his lair, presumably killing him."
         },
@@ -93,7 +93,7 @@
         },
         {
             "name"  : "Blind",
-            "race"  : "Hylian/Demon",
+            "race"  : "Hylian / Demon",
             "class" : "Wizard",
             "equip" : "Long sword, fire magic",
             "text"  : "He used to be a thief, according to anyone's best guess. The thieves in the Mabel City Cistern call Blind their leader. Blind wore a cloth around his eyes that his the darkness in them. He could separate his head from his body and cast fire magic. At first, he tried to trick the Hyrulean Mercenaries into helping him find his daughter, but Ophinia saw through the guise and the mercenaries brought him down. His real name was Tavio."
@@ -101,7 +101,7 @@
         {
             "name"  : "Bartimus Brumlee",
             "race"  : "Hylian",
-            "class" : "Unknown",
+            "class" : "None",
             "equip" : "Unknown",
             "text"  : "The owner and president of the Brumlee Fishing Company. Brumlee is a very rich resident of Mabel Village and is often subsidizing the town's police force and merchants with his own money. He and some of his associates later oust Ulrira as Elder, and Brumlee takes over as Interim Elder until an election can be held. Dax suggests that Brumlee is an honorable man and could be trusted."
         },
@@ -211,6 +211,13 @@
             "class" : "Unknown",
             "equip" : "None",
             "text"  : "Mia was Il's Kokiri partner. The two became separated somehow and Il presumed she had disappeared or abandoned him. She briefly reappeared at the Knight's Academy, attacking the party. As Mia died, the spell on her wore off and she recognized Il before dying."
+        },
+        {
+            "name"  : "Torondo",
+            "race"  : "Goron",
+            "class" : "Fighter",
+            "equip" : "Boulder Breaker, Javelins",
+            "text"  : "Gongu's estranged father. Back in Hyrule, Torondo killed Whisper, though Gongu does not know why. In a vision, Gongu saw his father donning heavy metal armor and coming to Calatia after him, but with a look of sheer madness in his eyes."
         }
     ]
 }

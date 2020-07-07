@@ -55,7 +55,7 @@ Actaeon and Clio came back in. Clio looked sullen and told us she would vote for
 
 Shadow was frustrated. He had cast his vote to go to the Necropolis and was unhappy with the consensus. So he had decided to go to the river and catch some fish. That seemed to me like a great way for our group to bond together! Clio and Briar were about to leave for the vineyard, but I asked them and everyone else to come with us down by the river and join us for some fishing. Neither Briar nor Clio ate meat, but I think they have grown closer to our group. They happily accepted the invitation.
 
-And so, the Heroes of Prophecy… went fishing!
+And so, the Heroes of Prophecy... went fishing!
 
 Oh, Heath, you would be so proud! Remember when we would go fishing as children? Today was the first day I ever caught a fish! It was so funny, too! Briar, who did not eat fish, was trying to give me pointers while Clio was picking sticks and nuts out of Briar’s hair. Briar was telling me where she thought she saw fish in the river and to be patient.
 

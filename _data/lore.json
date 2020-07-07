@@ -18,7 +18,7 @@
         },
         {
             "name" : "Lighthouses",
-            "text" : "Large magical lighthouses guard the borders of Calatia and are revered as holy sites to worshippers of the Caretaker. There are at least three that are known and still in operation: the Southern Lighthouse in the Loftwing Province, the Western Lighthouse near the sea, and the Eastern Lighthouse at the end of Hokani Bay. More lighthouses are rumored, including a Northern Lighthouse somewhere in Old Calatia. The legends say that the lighthouses keep the darkness at bay, but few people understand what this means or if it is even true."
+            "text" : "Large magical lighthouses guard the borders of Calatia and are revered as holy sites to worshippers of the Caretaker. There are at least three that are known and still in operation: the Southern Lighthouse in the Loftwing Province, the Western Lighthouse near the sea, and the Eastern Lighthouse at the end of Hokani Bay. A Northern Lighthouse is rumored to be somewhere in Old Calatia. The legends say that the lighthouses keep the darkness at bay, but few people understand what this means or if it is even true."
         },
         {
             "name" : "Ancient Sheikah",
@@ -33,8 +33,8 @@
             "text" : "Tail Cave is a small cave south of Mabel Village and has been shut to the public for some time by Ulrira, the Elder of Mabel Village. It was originally a fishing location during high tides, but was most recently used as a site for the masked assailants to abduct people. A large Mothula lived in the back room."
         },
         {
-            "name" : "Downrigger",
-            "text" : "A title given to the head of the police force in Mabel Village. In fishing terms, a downrigger keeps the line below the water while trolling. In police terms, the Downrigger \"keeps the darkness below the surface\". Other towns have local police as well, but only Mabel Village uses this term."
+            "name" : "Local Police",
+            "text" : "The local police in each town or city have special names given to their chiefs. In Mabel Village, the chief is the Downrigger. In Kanalet, the chief is the Scarecrow. In Chorus, the chief is called The Mouth (meaning the Mouth of the Queen)."
         },
         {
             "name" : "Marshals",
@@ -58,7 +58,7 @@
         },
         {
             "name" : "Anima",
-            "text" : "According to Koragath, an Ice Goron may bond with an Anima, a spiritual creature in the form of a wolf. Animas are extensions of the goron's own soul. When an Anima wears a collar with an Anima Totem, it gains special magical powers."
+            "text" : "According to Koragath, an Ice Goron may bond with an Anima, a spiritual creature in the form of an animal. Animas are extensions of the goron's own soul. When an Anima wears a collar with an Anima Totem, it gains special magical powers."
         },
         {
             "name" : "Ice Gorons",
@@ -66,7 +66,7 @@
         },
         {
             "name" : "The Book of Raqa",
-            "text" : "This is a strange history book of Calatia, written by someone named Raqa. The text is written in an ancient Calatian dialect, but the book cannot be read because it is bound by a magical seal that keeps the book shut."
+            "text" : "This is a strange history book of Calatia, written by someone named Raqa. The text is written in an ancient Calatian dialect, but the book cannot be read because it is bound by a magical seal that keeps the book shut. A librarian in Chorus unsealed the book for Nami and she gained the ability to use the Golden Goddesses' spells from it."
         },
         {
             "name" : "Divine Beast Vah Sarias",
@@ -78,7 +78,7 @@
         },
         {
             "name"  : "Kokiri's Emerald",
-            "text"  : "The magical item aboard Nayru's Blessing. This was identified by Celadhil, a member of Cruel's cult. No one knows what connection it has to the current issues in Calatia at the moment."
+            "text"  : "The magical item aboard Nayru's Blessing. This was identified by Celadhil, a member of Cruel's cult. Dilly, Kokiri girl captured by Billimug, claims that the Kokiri's Emerald can be used to cause Fallen Kokiri to manifest their nightmares in the real world."
         }
     ]
 }
