@@ -48,6 +48,6 @@ Gongu and Ophinia went to a few of the shops to see about buying supplies for th
 
 The sentinels gathered back at the House of Sentinels by the afternoon. They decided to wait another day before making any major plans, especially because Ophinia’s armor would not be ready yet. Gongu and Ophinia spared with swords in the courtyard of the House while Nami and Zedeki read some books with the downtime. Zima nursed her burns with some balms that Ophinia purchased for her.
 
-All seemed peaceful for a while until a heavy stone javelin hurled itself through the air and stabbed into Gongu’s side. Three goron warriors stood at the entrance of the House of Sentinels, having shoved Aruh aside.
+All seemed peaceful for a while until a heavy stone javelin flew through the air and stabbed into Gongu’s side. Three goron warriors stood at the entrance of the House of Sentinels, having shoved Aruh aside.
 
-Their leader was Torondo, Gongu’s Father. He was covered in thick iron plates and wielding the Boulder Breaker. His eyes glowed red as he stormed forward, rage in his eyes.
+Their leader was Torondo, Gongu’s Father. He was covered in thick iron plates and wielding the Savage Crusher, his signature club of iron and stone. His eyes glowed red as he stormed forward, completely consumed by rage.
