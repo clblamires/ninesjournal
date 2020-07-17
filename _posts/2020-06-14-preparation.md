@@ -59,9 +59,9 @@ And so, the Heroes of Prophecy... went fishing!
 
 Oh, Heath, you would be so proud! Remember when we would go fishing as children? Today was the first day I ever caught a fish! It was so funny, too! Briar, who did not eat fish, was trying to give me pointers while Clio was picking sticks and nuts out of Briar’s hair. Briar was telling me where she thought she saw fish in the river and to be patient.
 
-And then, I caught one! 
+And then, I caught one!
 
-It was pretty small, but it was something! Clio clapped when I pulled it up! Shadow laughed and congratulated me. It’s wonderful! 
+It was pretty small, but it was something! Clio clapped when I pulled it up! Shadow laughed and congratulated me. It’s wonderful!
 
 Shadow had a different way of fishing. He stood on a rock in the center of the river and slashed with his claws. He pulled up three very large fish. Actaeon stuck a pair with a well-placed javelin. The strangest was Torag. He found his own rock in the river and closed his eyes, meditating quietly. For an hour, he did not move a muscle. Then, quick as lightning, he jabbed his hand into the water and pulled out an enormous fish!
 

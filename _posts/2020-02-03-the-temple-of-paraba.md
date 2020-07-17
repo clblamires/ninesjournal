@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Temple of Paraba
+title: Patron of Heroes
 date: 2020-02-03T21:17:23.128Z
 recorded: 'February 2, 2020'
 episode: '11'
