@@ -195,7 +195,7 @@
             "race"  : "Goron",
             "class" : "Wizard",
             "equip" : "Staff",
-            "text"  : "Brynn's first mate. Carrock is a large goron that walks with a pronounced limp, though this seems to go away when he is in combat. He casts powerful spells to defend his lord."
+            "text"  : "Brynn's first mate. Carrock is a large Hyrulean goron that walks with a pronounced limp, though this seems to go away when he is in combat. He casts powerful spells to defend his lord."
         },
         {
             "name"  : "Vartia",
@@ -216,8 +216,15 @@
             "name"  : "Torondo",
             "race"  : "Goron",
             "class" : "Fighter",
-            "equip" : "Boulder Breaker, Javelins",
-            "text"  : "Gongu's estranged father. Back in Hyrule, Torondo killed Whisper, though Gongu does not know why. In a vision, Gongu saw his father donning heavy metal armor and coming to Calatia after him, but with a look of sheer madness in his eyes."
-        }
+            "equip" : "Savage Crusher, Javelins",
+            "text"  : "Gongu's estranged father. Back in Hyrule, Torondo killed Whisper, though Gongu does not know why. In a vision, Gongu saw his father donning heavy metal armor and coming to Calatia after him, but with a look of sheer madness in his eyes. It was later learned that Torondo had been possessed by a blue acheman, forcing him to attack his son and change him to Calatia."
+        },
+        {
+            "name"  : "The General",
+            "race"  : "Unknown",
+            "class" : "Unknown",
+            "equip" : "Great Axe",
+            "text"  : "The leader of the Courageous and a trusted advisor to Queen Seline. He wears thick heavy armor that completely obscures his face and features. This, along with his extremely tall statue, makes him an imposing figure. Despite this, he is very soft spoken, doing his best to be kind."
+        },
     ]
 }
