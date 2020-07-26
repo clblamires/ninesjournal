@@ -5,7 +5,7 @@ date: 2020-06-14T15:01:11.595Z
 recorded: June 13, 2020
 episode: "8"
 adventure: secondorder
-summary: Where to go next? The heroes vote to head to the Mithril Forge and
+summary: Where to go next? The heroes vote to head to the Mithral Forge and
   fulfill their next heroic task. But first, they have some preparations to do!
 levelup: false
 ---
@@ -43,7 +43,7 @@ It wasn’t hard to find the Stranger again (Stranger is what he called himself)
 
 I found my friends coming out of an alchemist’s shop. Briar and Clio had procured a potion-maker’s service in making some poisons from the plants they had collected at the Mossy Temple. Shadow and Torag purchased some potions. Actaeon had gone off on his own and came back with a new supply of javelins, ropes, and an entire battering ram strapped to his back. It’s gigantic, but he’s evidently strong enough to carry it without difficulty.
 
-Our preparations for the journey done, we returned to the Dragon Tooth Inn to discuss where our journey would now lead us. We had a couple of roads ahead of us now. Our two remaining heroic tasks were to go to the Necropolis at Telamok and recover the weapons of the Dragonlords, or to go to the Obsidian Sierras and relight Azorius’s Mithril Forge. We cast our votes in a draw. Actaeon seemed insistent on not going to the Necropolis. I didn’t want to tell my companions that the reason I wanted to go to the Forge was because maybe Azorius could make me something with my new material.
+Our preparations for the journey done, we returned to the Dragon Tooth Inn to discuss where our journey would now lead us. We had a couple of roads ahead of us now. Our two remaining heroic tasks were to go to the Necropolis at Telamok and recover the weapons of the Dragonlords, or to go to the Obsidian Sierras and relight Azorius’s Mithral Forge. We cast our votes in a draw. Actaeon seemed insistent on not going to the Necropolis. I didn’t want to tell my companions that the reason I wanted to go to the Forge was because maybe Azorius could make me something with my new material.
 
 Actaeon, usually quiet and collected – except in battle – was very animated. He adamantly did not want to go to the Necropolis. Clio stood up to the towering man and ushered him outside to speak to him privately about it. Shadow tried to listen in on their conversation but was frustrated to learn that the conversation was telepathically.
 
@@ -51,7 +51,7 @@ Meanwhile, Briar and Torag and I spoke. Briar had bought me some special lotion.
 
 Torag laughed at the notion. Up until this point, I honestly thought he was fey. But no, he’s a mortal that is stuck in the form of a minotaur and nothing more. He and Briar have always had a strange animosity towards each other, but it seemed much more playful now. He suggested (and Briar agreed) that my learning would be well spent in learning the lore of the Emerald Isles, its history, its pantheon, and the like. So, now I have teachers! Briar and Clio will teach me Sylvan, and Torag will help with history lessons!
 
-Actaeon and Clio came back in. Clio looked sullen and told us she would vote for the Forge as well. She did not say why, but that Actaeon needed some time before he would be prepared to go to the Necropolis. Our plans were made. At dawn, we would make our way south towards the Obsidian Sierras. Torag and Actaeon had the directions to it. Our next task was to relight the Mithril Forge.
+Actaeon and Clio came back in. Clio looked sullen and told us she would vote for the Forge as well. She did not say why, but that Actaeon needed some time before he would be prepared to go to the Necropolis. Our plans were made. At dawn, we would make our way south towards the Obsidian Sierras. Torag and Actaeon had the directions to it. Our next task was to relight the Mithral Forge.
 
 Shadow was frustrated. He had cast his vote to go to the Necropolis and was unhappy with the consensus. So he had decided to go to the river and catch some fish. That seemed to me like a great way for our group to bond together! Clio and Briar were about to leave for the vineyard, but I asked them and everyone else to come with us down by the river and join us for some fishing. Neither Briar nor Clio ate meat, but I think they have grown closer to our group. They happily accepted the invitation.
 
