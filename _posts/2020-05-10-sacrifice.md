@@ -18,7 +18,7 @@ I heard a cry from Shadow out in the dining hall of the tavern. Something was am
 
 In the dining hall, I learned what was happening. We all shared the same dream! Clio was terrified. Briar could not speak coherently, like me. Torag was stuck in the nightmare and was trashing wildly on the floor. Actaeon had been frozen in place in his room, paralyzed but awake. Shadow was unaffected, somehow. He’s more resilient than the rest of us, I suppose. Dia had woken from the commotion and began casting restoring spells, freeing Actaeon and Torag from the effects. Briar and I could speak soon, too, after her magic.
 
-Even when she is startled awake from a shouting tabaxi, Dia hair is so pretty! I wish I could Mask just her hair.
+Even when she is startled awake from a shouting tabaxi, Dia hair is so pretty! I should just Mask just her hair.
 
 We were all afraid after the event was done. So much so that Actaeon spent the next few minutes putting on his armor and getting ready for a fight. But there wasn’t anything we could do, Dia explained. Khar’shan, the Lady of Dreams, was a titan and she was trying to put fear in our hearts. There was nothing we could really do to protect ourselves except get to Altea and fulfil our tasks.
 
