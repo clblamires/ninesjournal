@@ -11,17 +11,17 @@ levelup: true
 ---
 Here’s the rest of tonight’s story. We gathered ourselves together and ascended the stairs again. I led the way with Actaeon and Torag, indicating where Briar and I had scouted ahead. The first door was wear we heard the goatlings bleating. The second door had nothing but silence beyond it. Actaeon decided to investigate the first door, barging through, and Torag followed him. I heard a shriek as two strange women attacked him. I don’t know how to describe them, other than they looked human. But they also looked like the satyrs down the stairs. Much later, I learned that they are called Manaeds.
 
-The women attacked Actaeon with large knifes, injuring him and throwing him back. Clio and Shadow had already moved forward and entered the room, too. I heard that awful bleating sound again. I followed and threw a cone of fire at the monsters. But I… I didn’t know the goatlings in here were… babies.
+The women attacked Actaeon with large knifes, injuring him and throwing him back. Clio and Shadow had already moved forward and entered the room, too. I heard that awful bleating sound again. I followed and threw a cone of fire at the monsters. But I... I didn’t know the goatlings in here were... babies.
 
 One of the Manaeds slashed at me with the knife. I guess the injury snapped me out of a daze or something. I warded myself and ran back out to the hallway. I am so weak, I just sat there and stared at my hands. The commotion continued in the room while Actaeon, Clio, and Torag fought the monsters. Shadow and Briar were in the hallway with me. Shadow kept saying something to me, but I couldn’t hear it.
 
 I killed those goatling babies. I couldn’t breathe. I couldn’t see straight. I just looked at my hands.
 
-It was so strange, or *funny* maybe, what got my attention back to the situation. I guess the last Manaed standing cast a spell or something because Briar suddenly began… dancing. I guess you could call it dancing. It was a confusion spell of some kind because Briar couldn’t control it. Shadow actually laughed, and his laugh brought me out of my daze. I stood up and went to the door frame, fired a blast of magic, and the Manaed fell back.
+It was so strange, or *funny* maybe, what got my attention back to the situation. I guess the last Manaed standing cast a spell or something because Briar suddenly began... dancing. I guess you could call it dancing. It was a confusion spell of some kind because Briar couldn’t control it. Shadow actually laughed, and his laugh brought me out of my daze. I stood up and went to the door frame, fired a blast of magic, and the Manaed fell back.
 
 I am grateful for Shadow. He’s a keeper, Heath. He knelt next to me when I sat down again, wiping the tears from my eyes. He told me that the goatlings were evil, though I contested that they were just children. The goatlings were servants of Khar’shan and were being raised on human flesh, with bloodlust in their education and murder in their training. Shadow comforted me and lifted me up, telling me we had to go on.
 
-I am grateful for Briar and Clio, too. I remember when I hugged Clio after she had been targeted by the harpies. Clio hugged me this time as I cried, though I suspect she hasn’t done much hugging in her life. She smells like trees and earth and flowers. As awkward as Clio’s embraces are, it felt so good to be in someone’s arms, even if just for a moment. Briar knelt down by me, too, gently reminding me how many people we saved from a cruel fate by taking the goatlings out. She’s right, of course. For as long as I’ve known her, I always sensed Briar’s disdain for mortals. This time, she was so gentle and kind.
+I am grateful for Briar and Clio, too. I remember when I hugged Clio after she had been targeted by the harpies. Clio hugged me this time as I cried, though I suspect she hasn’t done much hugging in her life. She smells like trees and earth and flowers. As awkward as Clio’s embraces are, it felt so good to be in her arms, even if just for a moment. Briar knelt down by me, too, gently reminding me how many people we saved from a cruel fate by taking the goatlings out. She’s right, of course. For as long as I’ve known her, I always sensed Briar’s disdain for mortals. This time, she was so gentle and kind.
 
 Briar found more sleeping kids, all still under some magical effect from Demetria. She closed the door and left them to continue sleeping. Our group moved further down the hallway, and I pointed at the last two doors. The one in front of us was from where the smell came. I assume it was a kitchen, and Torag’s nose agreed. The door around the corner led to where Briar and I had heard female voices. We decided to look into the kitchen first.
 
@@ -35,7 +35,7 @@ Demetria and Briar exchanged words. Clio told her about the ritual, and Briar tr
 
 Torag shouted, interrupting. “You’re eating human flesh, you fools!” Clio, who had been hiding in the hallway and observing the situation, telepathically told each of the girls the same thing. Voices rang in their heads and the young women understood what was happening. They leapt out of their chairs with a shriek, tackling Demetria and demanding answers. Demetria could only shout.
 
-The gygan drew its weapons and charged. It threw two javelins, impaling two of the girls and ending their short lives. It reminded me of… *never mind*. I reacted, summoning the Morninglord’s power to me and ripping into the gygan with holy power. Despite the strike against it, the gygan lumbered forward. Shadow fired from his bow, but the gygan raised one of its two shields, deflecting the shot. Briar tried to stun the gygan with a spell, but the gygan charged through it, striking down Briar in a splash of blood.
+The gygan drew its weapons and charged. It threw two javelins, impaling two of the girls and ending their short lives. It reminded me of... *never mind*. I reacted, summoning the Morninglord’s power to me and ripping into the gygan with holy power. Despite the strike against it, the gygan lumbered forward. Shadow fired from his bow, but the gygan raised one of its two shields, deflecting the shot. Briar tried to stun the gygan with a spell, but the gygan charged through it, striking down Briar in a splash of blood.
 
 Actaeon rushed at Demetria, jabbing her with a spear tip and telling her to call off the gygan, but Demetria just laughed. She cast a spell at me, Clio, and Shadow, wrapping us briefly in magical vines. She tried a charming spell on Actaeon, but Actaeon just growled, “Out of my head, witch!”
 
@@ -79,11 +79,11 @@ My companions came down the stairs. Briar carried Clio on her back and helped Ac
 
 We decided to finally rest after our labors. Briar explained to the satrys and dryad what had happened, and they were relieved to know that Demetria’s campaign against mortals was at an end. The satyr infatuated with Briar gave her some more flowers before leaving the temple. Corinna and Solstrate said that the rest of the young men and women would need to sleep off the effects of Demetria’s powers.
 
-Everyone laid down to rest in the soft grass of the cave below the Mossy Temple. Clio, though, sat on the stump of the Tree, quiet as ever. I… I felt like I needed to say something. I knew I couldn’t ask her if she was okay. None of us could be okay after all of this. But I offered to help her if she needed it. I told her that you had perished in a similar way, and that I was so sorry I couldn’t do anything. I’m surprised that Clio gave me a small, brief smile. She said she had always been doomed for a long time and was still coming to terms with it. Clio thanked me and closed her eyes, lost in meditation.
+Everyone laid down to rest in the soft grass of the cave below the Mossy Temple. Clio, though, sat on the stump of the Tree, quiet as ever. I... I felt like I needed to say something. I knew I couldn’t ask her if she was okay. None of us could be okay after all of this. But I offered to help her if she needed it. I told her that you had perished in a similar way, and that I was so sorry I couldn’t do anything. I’m surprised that Clio gave me a small, brief, beautiful smile. She said she had always been doomed for a long time and was still coming to terms with it. Clio thanked me and closed her eyes, lost in meditation.
 
 I won’t fail you again, Clio.
 
-I spoke with Dia, too. Well, not much speaking happened. I kind of just collapsed into her arms, embracing her and thanking her for believing in us.
+I spoke with Dia, too. Well, not much speaking happened. I kind of just collapsed into her arms, embracing her and thanking her for believing in us. She rubbed my back and said some kind words to me that I barely heard.
 
 Torag sat with his back to the wall, rubbing his temples with pained, closed eyes.
 
@@ -99,7 +99,7 @@ Dia silently wrote in her book. The quill I bought her was still in her hands, s
 
 And I laid down with my blanket. I am shaking, but I am not cold.
 
-\---
+---
 
 Heath,
 
@@ -113,11 +113,11 @@ Torag was looking through the trinkets recovered from Demetria’s room. There w
 
 They could read it as it was written in their fey language, Sylvan. It was a record of Demetria’s sister and how Arkelander had killed her by cutting down the tree. He used it for a mast on the Gjallerhorn, just as Demetria had said. Demetria, stricken with grief, blamed mortals for the wrongs in the Emerald Isles and swore vengeance. The titan Khar’shan heard her cries and offered her great power and knowledge in exchange for fealty. Demetria’s deeds were awful. Clio and I were right about the rituals she and the goatlings were performing. Explicit instructions for converting mortal women into hybrid fey monsters were written in the book. The women would feed on the prepared bodies of the men. They became the Manaeds, the women we fought yesterday.
 
-Briar tore out a page from the book (explaining to Clio and me that it was a potion recipe) and set fire to the book. I admit I wasn’t thrilled to lose the book. I wanted to learn to speak Sylvan like Clio and Briar, but I guess I didn’t want to learn it from this horrible book. The idea of carrying a book wrapped in human skin was appalling. I will have to remember to ask Dia if she can recommend a language book for me when we get to Altea.
+Briar tore out a page from the book (explaining to Clio and me that it was a potion recipe) and set fire to the book. I admit I wasn’t thrilled to lose the book. I wanted to learn to speak Sylvan like Clio and Briar, but I guess I didn’t want to learn it from this horrible tome. The idea of carrying a book wrapped in human skin was appalling. I will have to remember to ask Dia if she can recommend a language book for me when we get to Altea.
 
 After a few hours, Actaeon and Torag looked well enough to travel. We set off for Altea with the surviving kids. I will carry the Horn of Selesnya. I’ll write more later.
 
-\---
+---
 
 A *lot* of things just happened. It’s morning now, and I don’t know how that happened. Yesterday, we arrived in Altea just as the sun had gone down. Thankfully, I was able to complete the Sacrament of Sunset just in time. The kids all went to their homes. Thericles, the keeper of the God King’s vineyards, gave us a Javelin of Lightning as thanks for saving Corinna. Dia ushered us back to the Dragon’s Tooth Inn for rest. We gathered in a large room and decided to drink from the Horn of Selesnya, completing the first of our three heroic tasks.
 

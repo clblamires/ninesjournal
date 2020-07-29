@@ -20,7 +20,7 @@ I quickly removed the Anora Mask, apologizing for entering without knocking (it 
 
 When Briar, Dia, and I left Anora’s room (myself now wearing your Mask, my love), we found that Vaevictus’s party had already commenced. The God King was drinking heavily and Dia was marching over to him, probably to reprimand him like she had a few days ago. Shadow found me and he and I began to mingle with the people. Briar found Clio and the two of them stayed away from most of the festivities, speaking to each other in their language that the rest of us did not understand. Actaeon had disappeared.
 
-I felt bad that Briar and Clio were off on their own, and I meant to speak to Clio and see to her injuries more, but Vaevictus was approaching. Despite his drinking, he was very articulate. He told me that he had heard from Dia about how I came to the Emerald Isles and that the treasures of the Dragonlords were somehow tied to this. He claimed he was in my debt for saving his daughter and would try to repay this in any way he could, starting with helping me find these treasures. The treasures were last in the possession of a man named Estor Arkelander. The story of Arkelander would be told in one of the performances of the amphitheater and that I should attend to learn about him. He warned me that the actors would portray Arkelander as a mere legend. This was not the case. Arkelander was real, but the rumors say that he is presently an undead captain of a ship called Gjallerhorn.
+I felt bad that Briar and Clio were off on their own, and I meant to speak to Clio and see to her injuries more ~~and~~, but Vaevictus was approaching. Despite his drinking, he was very articulate. He told me that he had heard from Dia about how I came to the Emerald Isles and that the treasures of the Dragonlords were somehow tied to this. He claimed he was in my debt for saving his daughter and would try to repay this in any way he could, starting with helping me find these treasures. The treasures were last in the possession of a man named Estor Arkelander. The story of Arkelander would be told in one of the performances of the amphitheater and that I should attend to learn about him. He warned me that the actors would portray Arkelander as a mere legend. This was not the case. Arkelander was real, but the rumors say that he is presently an undead captain of a ship called Gjallerhorn.
 
 That’s just perfect. Here I am, lost in a strange land, destined by prophecy to save it from a literal god, and the way home is guarded by an undead captain. Writing about this experience now, I guess I was a little shaken. So much that Vaevictus put his arm around me and told me to keep my chin up. He then found me the most expensive and sweetest wine I think I ever tasted. I’m sorry, Heath, I know you don’t like it when I drink. It just.... It makes things easier, you know?
 
@@ -34,7 +34,7 @@ We did well last night. But poor Clio, she was crying so much! I should talk to 
 
 I fell asleep at the desk. Time to go to bed.
 
-\---
+---
 
 Heath,
 
@@ -80,7 +80,7 @@ Our plan, we decided, was to go to the Mithral Mines and begin fulfilling our he
 
 Suffice it to say this: wherever Actaeon goes, I’ll follow him. I don’t know everything about him, or even what he looks like. But... he seems far wiser than I first thought about him. Maybe...
 
-Okay, so the Dragonshrine. This is bad. Asop, the caretaker of the shrine, explained that the Horn of Selesnya was stolen. Earlier today, actually, during the storm! We all could not doubt it: Amalj’aa was furious with us for saving Anora’s life. He meant to hinder us as much as he could. His servants probably snuck in and stole the Horn.
+Okay, so the Dragonshrine. This is bad. Aesop, the caretaker of the shrine, explained that the Horn of Selesnya was stolen. Earlier today, actually, during the storm! We all could not doubt it: Amalj’aa was furious with us for saving Anora’s life. He meant to hinder us as much as he could. His servants probably snuck in and stole the Horn.
 
 Fortunately, Briar and Shadow were able to find the trail. The Horn was full of ceremonial wine and the thieves were spilling it as they fled. Clio recognized the tracks of the thieves as Goatlings, the servants of Khar’shan. She said they were a bad omen. Briar took the lead as she was able to follow the tracks without trouble. The tracks went through the back allies of Altea until they left through the southern gate and deep into the Wildwood.
 

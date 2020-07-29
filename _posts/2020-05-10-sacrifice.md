@@ -106,7 +106,7 @@ For Torag, I had purchased a small waist pouch with a set of darts. Remember Eck
 
 I gave Briar a nice hairbrush set. She had asked me over a week ago if I could Mask her and show her how her hair looked. Well, I figured that some nice brushes would help her with that. Her hair is so long and pretty anyway. She smiled and thanked me. I last saw her tonight trying to brush her hair. It’s a bit of a tangle, though. If we don’t get sacrificed and die, maybe I can help her.
 
-I had already given Clio the flower crown a few days ago. So today I just picked some new flowers from the palace grounds and gave them to her. I still can’t read her. I’m dying to know what she thinks. But I saw her wearing the crown, so there’s that.
+I had already given Clio the flower crown a few days ago. So today I just picked some new flowers from the palace grounds and gave them to her. I still can’t read her. I’m dying to know what she thinks ~~of me~~. But I saw her wearing the crown, so there’s that.
 
 And I had already given Shadow the fishing tackle. We couldn’t go fishing while stuck in the palace, so I ordered a fish pot from the palace’s kitchens for him today.
 

@@ -17,7 +17,7 @@ Lorius separated from his fellows and thanked us again for clearing the evil in 
 
 At the Dragonshrine, Briar asked if we could speak to Aesop alone. In an antechamber, I returned the Horn of Selesnya and we told Aesop about our vision. His face both darkened and lighted up when we spoke to him, and he gave us a little bit of history of the Dragonlords and the Horn of Selesnya.
 
-Here’s what I understand about it. The Dragonlords were the protectors of the Emerald Isles over five centuries ago (to which Aesop was a witness; he’s an extremely old elf!). Aesop knew each of them personally and was saddened when they passed into legend. Selesnya was the dragon of Xander Herra (my spelling may be inaccurate here, my love). When Selesnya died, her Dragonlord was striken with grief and passed on shortly after. The leadership of the Dragonlords passed to the Arkelanders, Ester and his brother. After this point, the Dragonlords were less focused on protecting the people of the Emerald Isles. Instead, their focus was war and control of the Isles themselves. Selesnya’s horn became a magical relic that passed through many hands until a stranger gifted it to the Dragonshrine in Altea not long before we came here.
+Here’s what I understand about it. The Dragonlords were the protectors of the Emerald Isles over five centuries ago (to which Aesop was a witness; he’s an extremely old elf!). Aesop knew each of them personally and was saddened when they passed into legend. Selesnya was the dragon of Xander Herra (my spelling may be inaccurate here, my love). When Selesnya died, her Dragonlord was striken with grief and passed on shortly after. The leadership of the Dragonlords passed to the Arkelanders, Estor and his brother. After this point, the Dragonlords were less focused on protecting the people of the Emerald Isles. Instead, their focus was war and control of the Isles themselves. Selesnya’s horn became a magical relic that passed through many hands until a stranger gifted it to the Dragonshrine in Altea not long before we came here.
 
 At this, Aesop asked us of a great service. We made an oath with him to deliver the Horn to Queen Aminatou, the goddess of wisdom and ruler of Ellandyr. She would be able to use the Horn for the good of the Emerald Isles. Her husband, King Acostus, was trying to revive the Order of the Dragonlords and would that these Dragonlords bent the knee to him personally.
 
@@ -25,13 +25,13 @@ We resolved to keep the Horn of Selesnya with us until we could complete our tas
 
 And then, the most wonderful thing happened! Briar pulled out the Owl-Squirrel form of Herkus and asked Aesop if he could break the curse on her friend. Aesop happily did so with a spell scroll. A dark cloud around Herkus appeared and shattered, and Herkus became an old, grizzled gnome. We gave Briar some space as she reunited with what I later learned was her teacher and friend. Briar looked so happy and friendly, such a change from her usual demeanor. Especially with a mortal! Herkus was exhausted from the ordeal, so we gave him a key to our block of rooms at the Dragon Tooth Inn to sleep off his weariness.
 
-We left the Dragonshrine, though I hung back for a moment. I showed my new walking staff to Aesop and asked him about it. The idea of me – a changeling and outsider – as a future Dragonlord scared me a bit, so I had been fidgeting with the staff. Aesop was in awe at it. It was not magical in any way, but it was intricately carved with the five dragons of the Dragonlords! I noticed a small tear in Aesop’s eye as he looked upon it, and he thanked me for the glance.
+We left the Dragonshrine, though I hung back for a moment. I showed my new walking staff to Aesop and asked him about it. The idea of me – a changeling and outsider – as a future Dragonlord scared me a bit, so I had been fidgeting with the staff. Aesop was in awe at it. It was not magical in any way, but it was intricately carved with the five dragons of the Dragonlords! I noticed a small tear in Aesop’s eye as he looked upon it, and he thanked me for the chance to remember them.
 
-We approached the Agoria market of Altea and split up. I needed to purchase some spell components. I will not let Clio be hurt in that way again. Shadow came with me, and we followed Torag. He knew a coin exchanger that would give us money for the items we recovered from the Mossy Temple. Briar, Clio, and Actaeon went to visit Azorius, Torag’s grandfather.
+We approached the Agora market of Altea and split up. I needed to purchase some spell components. I will not let Clio be hurt in that way again. Shadow came with me, and we followed Torag. He knew a coin exchanger that would give us money for the items we recovered from the Mossy Temple. Briar, Clio, and Actaeon went to visit Azorius, Torag’s grandfather.
 
 In the market, Shadow and I followed Torag. While he was exchanging the goods for coins, Shadow and I noticed a strange and dark figure in the market, standing apart from the crowd, staring specifically at me. He beckoned to me and I approached.
 
-There’s something odd about this man. His voice was… so strange. He called me by name, though I was wearing your Mask, Heath. He knew our surname. He knew the Morninglord – a god unknown to the Emerald Isles! He offered to me a stack of seraph skin, the same magical material that the high priest wore at our temple. When I questioned about the cost, he told me that he sought no wealth nor coin. His price was an oath of service.
+There’s something odd about this man. His voice was... so strange. He called me by name, though I was wearing your Mask, Heath. He knew our surname. He knew the Morninglord – a god unknown to the Emerald Isles! He offered to me a stack of seraph skin, the same magical material that the high priest wore at our temple. When I questioned about the cost, he told me that he sought no wealth nor coin. His price was an oath of service.
 
 I couldn’t do it. I wanted those skins. But... Shadow kept whispering in my ear about how unnerving the man seemed to him. So I walked away. He called to me and told me that I would want this material. He’s not wrong.
 
@@ -45,11 +45,11 @@ I found my friends coming out of an alchemist’s shop. Briar and Clio had procu
 
 Our preparations for the journey done, we returned to the Dragon Tooth Inn to discuss where our journey would now lead us. We had a couple of roads ahead of us now. Our two remaining heroic tasks were to go to the Necropolis at Telamok and recover the weapons of the Dragonlords, or to go to the Obsidian Sierras and relight Azorius’s Mithral Forge. We cast our votes in a draw. Actaeon seemed insistent on not going to the Necropolis. I didn’t want to tell my companions that the reason I wanted to go to the Forge was because maybe Azorius could make me something with my new material.
 
-Actaeon, usually quiet and collected – except in battle – was very animated. He adamantly did not want to go to the Necropolis. Clio stood up to the towering man and ushered him outside to speak to him privately about it. Shadow tried to listen in on their conversation but was frustrated to learn that the conversation was telepathically.
+Actaeon, usually quiet and collected – except in battle – was very animated. He adamantly did not want to go to the Necropolis. Clio stood up to the towering man and ushered him outside to speak to him privately about it. Shadow tried to listen in on their conversation but was frustrated to learn that the conversation was telepathic.
 
 Meanwhile, Briar and Torag and I spoke. Briar had bought me some special lotion. She said it was because I kept changing my face, so she wasn’t sure if it dried my skin or anything. It’s such a wonderful gift because, yes, it does make my skin dry! She’s so thoughtful! She really is in a much better mood now that Herkus was well and quietly snoring in the next room over. I asked her if she and Clio might be willing to teach me Sylvan. She told me to purchase a few select items from the market – pens, some paper for practicing, and more – and she’d be very happy to help me learn it.
 
-Torag laughed at the notion. Up until this point, I honestly thought he was fey. But no, he’s a mortal that is stuck in the form of a minotaur and nothing more. He and Briar have always had a strange animosity towards each other, but it seemed much more playful now. He suggested (and Briar agreed) that my learning would be well spent in learning the lore of the Emerald Isles, its history, its pantheon, and the like. So, now I have teachers! Briar and Clio will teach me Sylvan, and Torag will help with history lessons!
+Torag laughed at the notion. Up until this point, I honestly thought he was fey. But no, he’s a mortal that is stuck in the form of a minotaur. He and Briar have always had a strange animosity towards each other, but it seemed much more playful now. He suggested (and Briar agreed) that my learning would be well spent in learning the lore of the Emerald Isles, its history, its pantheon, and the like. So, now I have teachers! Briar and Clio will teach me Sylvan, and Torag will help with history lessons!
 
 Actaeon and Clio came back in. Clio looked sullen and told us she would vote for the Forge as well. She did not say why, but that Actaeon needed some time before he would be prepared to go to the Necropolis. Our plans were made. At dawn, we would make our way south towards the Obsidian Sierras. Torag and Actaeon had the directions to it. Our next task was to relight the Mithral Forge.
 
@@ -57,7 +57,7 @@ Shadow was frustrated. He had cast his vote to go to the Necropolis and was unha
 
 And so, the Heroes of Prophecy... went fishing!
 
-Oh, Heath, you would be so proud! Remember when we would go fishing as children? Today was the first day I ever caught a fish! It was so funny, too! Briar, who did not eat fish, was trying to give me pointers while Clio was picking sticks and nuts out of Briar’s hair. Briar was telling me where she thought she saw fish in the river and to be patient.
+Oh, Heath, you would be so proud! Remember when we would go fishing as children? You caught maybe a pair each time, but I never caught anything. Today was the first day I ever caught a fish! It was so funny, too! Briar, who did not eat fish, was trying to give me pointers while Clio was picking sticks and nuts out of Briar’s hair. Briar was telling me where she thought she saw fish in the river and to be patient.
 
 And then, I caught one!
 
@@ -69,15 +69,15 @@ Briar made us a bonfire and we sat on the beach of the river, happily speaking w
 
 I gave Clio the ring. I guess I was kind of awkward when I gave it to her. She didn’t know what it meant between us, but I assured her it was for a protection spell. When I cast the spell on our rings, I could create a magical ward around her. With this spell, I could protect her. She accepted the ring. She’s still wearing the crown of flowers in her hair. Briar keeps casting spells on it to make the flowers bloom.
 
-We made our way back to the Dragon Tooth Inn at nightfall. Briar and Clio returned to the vineyards to sleep while Shadow, Actaeon, Torag, and I found our rooms for the night. It’s been a long few days. The fights at the Mossy Temple, the town of Woodhike… In another world, I would have been horrified at these events. I mean, I still am. But I feel better now. Especially since we had such a lovely time at the river.
+We made our way back to the Dragon Tooth Inn at nightfall. Briar and Clio returned to the vineyards to sleep while Shadow, Actaeon, Torag, and I found our rooms for the night. It’s been a long few days. The fights at the Mossy Temple, the town of Woodhike... In another world, I would have been horrified at these events. I mean, I still am. But I feel better now. Especially since we had such a lovely time at the river.
 
-\---
+---
 
 Heath,
 
 Wow, what a day. Shadow and I are injured pretty badly. I won’t have any scars. At least, not anything new apart from what I already have. But we’re okay. We’re okay.
 
-We left Altea this morning. Briar said her goodbyes to Herkus and we departed. I kind of wanted to see the last play in the Amphitheater just so I could see that pretty actress again, but Clio assured me again that the actress was only interested in Heath, not me. That’s fine, I’ll learn about the Gjallerhorn in some other way. Dia promised me that we'd find some other information down the road at some point. She mentioned that the script used in the play may not have been complete anyway. That makes sense. Dia, of all people, would know that.
+We left Altea this morning. Briar said her goodbyes to Herkus and we departed. I kind of wanted to see the last play in the Amphitheater just so I could see that pretty actress again, but Clio assured me again that the actress was only interested in Heath, not me. That's okay, though. I'm not interested in her. ~~I'm inter-~~ That’s fine, I’ll learn about the Gjallerhorn in some other way. Dia promised me that we'd find some other information down the road at some point. She mentioned that the script used in the play may not have been complete anyway. That makes sense. Dia, of all people, would know that.
 
 The path took us off the main road out of Altea and towards the mountains. The terrain here in the Emerald Isles is beautiful, just like that man back home told us it would be. The trees of the jungle around us thinned out as he followed the river into the mountains. The ground was rocky most of the way.
 
